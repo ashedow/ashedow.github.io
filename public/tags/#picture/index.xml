@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>#picture on Micro blog</title>
+    <link>/tags/#picture/</link>
+    <description>Recent content in #picture on Micro blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 17 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/#picture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Music pic</title>
+      <link>/posts/music_pic/</link>
+      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/music_pic/</guid>
+      <description>Music pic
+Konbini song Konbini song, but in AContrari style</description>
+    </item>
+    
+    <item>
+      <title>Time pic</title>
+      <link>/posts/time_pic/</link>
+      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/time_pic/</guid>
+      <description>Time pic</description>
+    </item>
+    
+    <item>
+      <title>*nix Beer</title>
+      <link>/posts/beer/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/beer/</guid>
+      <description>*nix beer
+Beer time
+Polish beer Browar zakładowy
+Random beer in poland after the war started</description>
+    </item>
+    
+    <item>
+      <title>Random picture sketch</title>
+      <link>/posts/sketch/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/sketch/</guid>
+      <description>Random picture sketch</description>
+    </item>
+    
+    <item>
+      <title>My project</title>
+      <link>/posts/my_project_meme/</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/my_project_meme/</guid>
+      <description>My project
+My second project
+My university</description>
+    </item>
+    
+    <item>
+      <title>Типизация стирального порошка</title>
+      <link>/ru_posts/nan/</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/ru_posts/nan/</guid>
+      <description>Типизация стирального порошка</description>
+    </item>
+    
+  </channel>
+</rss>

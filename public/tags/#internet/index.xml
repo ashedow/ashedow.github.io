@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>#internet on Micro blog</title>
+    <link>/tags/#internet/</link>
+    <description>Recent content in #internet on Micro blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 17 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/#internet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>India, Jio, and the Four Internets</title>
+      <link>/posts/four_internets/</link>
+      <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/four_internets/</guid>
+      <description>India, Jio, and the Four Internets
+and how, exactly, platforms die (seems as story about twitter, next reddit, next sf &amp;hellip;)</description>
+    </item>
+    
+  </channel>
+</rss>
