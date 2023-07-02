@@ -1,0 +1,26 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Micro blog"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/blowfish_logo_transparent.png"
+  # secondaryLogo = "PATH"
+  description = "Ashedow's micro blog"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "Ashedow"
+#  image = "img/blowfish_logo.png"
+  headline = "Dumb, dummy, downer, humoreless"
+  bio = ""
+  links = [
+    { linkedin = "https://www.linkedin.com/in/ashedow/" },
+    { github = "https://github.com/ashedow" },
+  ]
+
+  
