@@ -8,18 +8,18 @@
   
     
       <url>
-            <loc>/ru/</loc>
+            <loc>https://ashedow.github.io/ru/</loc>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="/"
+              href="https://ashedow.github.io/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="ru"
-              href="/ru/"
+              href="https://ashedow.github.io/ru/"
               />
           </url>
     

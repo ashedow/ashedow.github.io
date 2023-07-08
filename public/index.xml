@@ -2,17 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Micro blog</title>
-    <link>/</link>
+    <link>https://ashedow.github.io/</link>
     <description>Recent content on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demoscene as UNESCO cultural heritage and unperformable music</title>
+      <link>https://ashedow.github.io/posts/music/demoscene_and_unperformable_music/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashedow.github.io/posts/music/demoscene_and_unperformable_music/</guid>
+      <description>Demoscene accepted as UNESCO cultural heritage in The Netherlands and topic about unperformable music # The Dutch inscription is continuing the success story of the demoscene as first digital culture accepted by the UNESCO.</description>
+      
+    </item>
+    
     <item>
       <title>Hamid Naderi Yeganeh. Math art</title>
-      <link>/posts/math_art_hamid_naderi/</link>
+      <link>https://ashedow.github.io/posts/math_art_hamid_naderi/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/math_art_hamid_naderi/</guid>
+      <guid>https://ashedow.github.io/posts/math_art_hamid_naderi/</guid>
       <description>Hamid Naderi Yeganeh Mathematical artist in Qom, Iran. He Create artworks by mathematical formulas.
 About Hamid Naderi Yeganeh
 Twitter
@@ -22,10 +32,10 @@ Inst</description>
     
     <item>
       <title>Panic attack</title>
-      <link>/ru_posts/panic_attack/</link>
+      <link>https://ashedow.github.io/ru_posts/panic_attack/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>/ru_posts/panic_attack/</guid>
+      <guid>https://ashedow.github.io/ru_posts/panic_attack/</guid>
       <description>Panic attack. How to
 Guide по ПА (нас попросили - мы написали)
 Паническая атака как единичное явление обычно бывает следствием проникновения в сознание некоторой пугающей и/или болезненной информации.
@@ -35,10 +45,10 @@ Guide по ПА (нас попросили - мы написали)
     
     <item>
       <title>Understanding biology</title>
-      <link>/posts/understanding_biology/</link>
+      <link>https://ashedow.github.io/posts/understanding_biology/</link>
       <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/understanding_biology/</guid>
+      <guid>https://ashedow.github.io/posts/understanding_biology/</guid>
       <description>Understanding biology. Parallels between Biology and other sciences
 Will we ever understand biology like we currently understand physics*? My take is no (and it seems clear) but curious to hear other takes!</description>
       
@@ -46,10 +56,10 @@ Will we ever understand biology like we currently understand physics*? My take i
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://ashedow.github.io/about/</link>
       <pubDate>Wed, 21 Jun 2023 04:55:01 +0200</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://ashedow.github.io/about/</guid>
       <description>I&amp;rsquo;m tired of forwarding memes to saved messages, so I started this channel.
 Tags
 location:
@@ -68,10 +78,10 @@ location:
     
     <item>
       <title>What is Code Napoléon or why Dutch surnames are so strange</title>
-      <link>/posts/what_is_code_napoleon/</link>
+      <link>https://ashedow.github.io/posts/what_is_code_napoleon/</link>
       <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/what_is_code_napoleon/</guid>
+      <guid>https://ashedow.github.io/posts/what_is_code_napoleon/</guid>
       <description>What is Code Napoléon or why Dutch surnames are so strange
 In the late 1700s The Netherlands were pretty politically unstable. A lot of people looked at France, and what went on there after the french revolution in 1789.</description>
       
@@ -79,10 +89,10 @@ In the late 1700s The Netherlands were pretty politically unstable. A lot of peo
     
     <item>
       <title>India, Jio, and the Four Internets</title>
-      <link>/posts/four_internets/</link>
+      <link>https://ashedow.github.io/posts/four_internets/</link>
       <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/four_internets/</guid>
+      <guid>https://ashedow.github.io/posts/four_internets/</guid>
       <description>India, Jio, and the Four Internets
 and how, exactly, platforms die (seems as story about twitter, next reddit, next sf &amp;hellip;)</description>
       
@@ -90,10 +100,10 @@ and how, exactly, platforms die (seems as story about twitter, next reddit, next
     
     <item>
       <title>CultureWorldMap</title>
-      <link>/posts/culturemaps/</link>
+      <link>https://ashedow.github.io/posts/culturemaps/</link>
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/culturemaps/</guid>
+      <guid>https://ashedow.github.io/posts/culturemaps/</guid>
       <description>I hate f*king ~fairyland~ bi tools (lie) # My Tableau CultureWorldMap
 How do Europeans call something that is too far away # Some maps by Yanko Tsvetkov # Yanko Tsvetkov atlasofprejudice.</description>
       
@@ -101,10 +111,10 @@ How do Europeans call something that is too far away # Some maps by Yanko Tsvetk
     
     <item>
       <title>Eight or Nine Wise Words about Letter-Writing, by Lewis Carroll</title>
-      <link>/posts/letter_writing/</link>
+      <link>https://ashedow.github.io/posts/letter_writing/</link>
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/letter_writing/</guid>
+      <guid>https://ashedow.github.io/posts/letter_writing/</guid>
       <description>Eight or Nine Wise Words about Letter-Writing, by Lewis Carroll
 https://www.gutenberg.org/files/38065/38065-h/38065-h.htm</description>
       
@@ -112,10 +122,10 @@ https://www.gutenberg.org/files/38065/38065-h/38065-h.htm</description>
     
     <item>
       <title>Random Balkan music</title>
-      <link>/posts/balkan_music/</link>
+      <link>https://ashedow.github.io/posts/music/balkan_music/</link>
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/balkan_music/</guid>
+      <guid>https://ashedow.github.io/posts/music/balkan_music/</guid>
       <description>Random Balkan music
 Kinda quintessence of Serbian „polako” https://www.youtube.com/watch?v=0zvEG93T2mE
 How to survive the zombie apocalypse with rakija https://www.youtube.com/watch?v=JiUq2gmQ3E4
@@ -127,10 +137,10 @@ Day on the wheels https://youtu.</description>
     
     <item>
       <title>Euro</title>
-      <link>/posts/euro/</link>
+      <link>https://ashedow.github.io/posts/euro/</link>
       <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/euro/</guid>
+      <guid>https://ashedow.github.io/posts/euro/</guid>
       <description>Euro
 Apart from the story of the euro country and the eurozone and the euro area, the widespread move to online payment and the minimisation of the cache, there are some interesting facts about the euro notes</description>
       
@@ -138,10 +148,10 @@ Apart from the story of the euro country and the eurozone and the euro area, the
     
     <item>
       <title>Euro</title>
-      <link>/posts/yayoikusama/</link>
+      <link>https://ashedow.github.io/posts/yayoikusama/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/yayoikusama/</guid>
+      <guid>https://ashedow.github.io/posts/yayoikusama/</guid>
       <description>Yayoi Kusama
 http://www.yayoi-kusama.jp/
 One of the world&amp;rsquo;s most famous dotty artists
@@ -152,10 +162,10 @@ A track for inspiration https://www.youtube.com/watch?v=udQIZkmxOfA</description
     
     <item>
       <title>How to discover history with Mudlarks?  </title>
-      <link>/posts/mudlarks/</link>
+      <link>https://ashedow.github.io/posts/mudlarks/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/mudlarks/</guid>
+      <guid>https://ashedow.github.io/posts/mudlarks/</guid>
       <description>How to discover history with Mudlarks?
 https://www.youtube.com/watch?v=nIGIv29tJFY https://www.instagram.com/mudlark_mud_god/ http://www.thamesandfield.com/
 https://www.pla.co.uk/Environment/Thames-foreshore-permits</description>
@@ -164,10 +174,10 @@ https://www.pla.co.uk/Environment/Thames-foreshore-permits</description>
     
     <item>
       <title>Random sketch comics</title>
-      <link>/posts/sketch_comic/</link>
+      <link>https://ashedow.github.io/posts/sketch_comic/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/sketch_comic/</guid>
+      <guid>https://ashedow.github.io/posts/sketch_comic/</guid>
       <description>How I used to draw #comics 2-3 years ago
 Random sketch comics</description>
       
@@ -175,30 +185,30 @@ Random sketch comics</description>
     
     <item>
       <title>Max Raabe - as german sounds</title>
-      <link>/posts/music_maxraabe/</link>
+      <link>https://ashedow.github.io/posts/music/music_maxraabe/</link>
       <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/music_maxraabe/</guid>
+      <guid>https://ashedow.github.io/posts/music/music_maxraabe/</guid>
       <description>Max Raabe - as german sounds</description>
       
     </item>
     
     <item>
       <title>Ведьмаку заплатите ...</title>
-      <link>/ru_posts/wiedzmin/</link>
+      <link>https://ashedow.github.io/ru_posts/wiedzmin/</link>
       <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/ru_posts/wiedzmin/</guid>
+      <guid>https://ashedow.github.io/ru_posts/wiedzmin/</guid>
       <description>Ведьмаку заплатите хоть парочкой злотых, Хоть парочкой злотых ведьмаку заплатите</description>
       
     </item>
     
     <item>
       <title>Music pic</title>
-      <link>/posts/music_pic/</link>
+      <link>https://ashedow.github.io/posts/music/music_pic/</link>
       <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/music_pic/</guid>
+      <guid>https://ashedow.github.io/posts/music/music_pic/</guid>
       <description>Music pic
 Konbini song Konbini song, but in AContrari style</description>
       
@@ -206,20 +216,20 @@ Konbini song Konbini song, but in AContrari style</description>
     
     <item>
       <title>Time pic</title>
-      <link>/posts/time_pic/</link>
+      <link>https://ashedow.github.io/posts/time_pic/</link>
       <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/time_pic/</guid>
+      <guid>https://ashedow.github.io/posts/time_pic/</guid>
       <description>Time pic</description>
       
     </item>
     
     <item>
       <title>*nix Beer</title>
-      <link>/posts/beer/</link>
+      <link>https://ashedow.github.io/posts/beer/</link>
       <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/beer/</guid>
+      <guid>https://ashedow.github.io/posts/beer/</guid>
       <description>*nix beer
 Beer time
 Polish beer Browar zakładowy
@@ -229,20 +239,20 @@ Random beer in poland after the war started</description>
     
     <item>
       <title>Krakow</title>
-      <link>/posts/krakow/</link>
+      <link>https://ashedow.github.io/posts/krakow/</link>
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/krakow/</guid>
+      <guid>https://ashedow.github.io/posts/krakow/</guid>
       <description>Subway in Krakow be like &amp;hellip; IT&amp;rsquo;S A TRAP</description>
       
     </item>
     
     <item>
       <title>random Krakow</title>
-      <link>/posts/gallery/random_krakow/</link>
+      <link>https://ashedow.github.io/posts/gallery/random_krakow/</link>
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/gallery/random_krakow/</guid>
+      <guid>https://ashedow.github.io/posts/gallery/random_krakow/</guid>
       <description>random_Krakow
 Subway in Krakow be like &amp;hellip; IT&amp;rsquo;S A TRAP
 What I just found on the street 2022-01 </description>
@@ -251,20 +261,20 @@ What I just found on the street 2022-01 </description>
     
     <item>
       <title>Avia</title>
-      <link>/posts/aero/</link>
+      <link>https://ashedow.github.io/posts/aero/</link>
       <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/aero/</guid>
+      <guid>https://ashedow.github.io/posts/aero/</guid>
       <description>Someday I will fly there</description>
       
     </item>
     
     <item>
       <title>Books</title>
-      <link>/posts/books/</link>
+      <link>https://ashedow.github.io/posts/books/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/books/</guid>
+      <guid>https://ashedow.github.io/posts/books/</guid>
       <description>Books
 COVID-19: The Great Reset
 &amp;ldquo;Americanah&amp;rdquo; book
@@ -274,10 +284,10 @@ COVID-19: The Great Reset
     
     <item>
       <title>Films</title>
-      <link>/posts/films/</link>
+      <link>https://ashedow.github.io/posts/films/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/films/</guid>
+      <guid>https://ashedow.github.io/posts/films/</guid>
       <description>Campari Red Diaries: Fellini Forfard. Первый фильм Фредерико Феллини, созданный с помощью нейросети
 campari film
 How to define USA production film? The most powerful organization is government or near government office.</description>
@@ -286,150 +296,150 @@ How to define USA production film? The most powerful organization is government 
     
     <item>
       <title>Random Amsterdam</title>
-      <link>/posts/gallery/random_amsterdam/</link>
+      <link>https://ashedow.github.io/posts/gallery/random_amsterdam/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/gallery/random_amsterdam/</guid>
+      <guid>https://ashedow.github.io/posts/gallery/random_amsterdam/</guid>
       <description>Random Amsterdam</description>
       
     </item>
     
     <item>
       <title>Random Berlin</title>
-      <link>/posts/gallery/random_berlin/</link>
+      <link>https://ashedow.github.io/posts/gallery/random_berlin/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/gallery/random_berlin/</guid>
+      <guid>https://ashedow.github.io/posts/gallery/random_berlin/</guid>
       <description>Random Berlin</description>
       
     </item>
     
     <item>
       <title>Random Brugge</title>
-      <link>/posts/gallery/random_brugge/</link>
+      <link>https://ashedow.github.io/posts/gallery/random_brugge/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/gallery/random_brugge/</guid>
+      <guid>https://ashedow.github.io/posts/gallery/random_brugge/</guid>
       <description>Random Brugge</description>
       
     </item>
     
     <item>
       <title>Random Brussels</title>
-      <link>/posts/gallery/random_brussels/</link>
+      <link>https://ashedow.github.io/posts/gallery/random_brussels/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/gallery/random_brussels/</guid>
+      <guid>https://ashedow.github.io/posts/gallery/random_brussels/</guid>
       <description>Random Brussels</description>
       
     </item>
     
     <item>
       <title>Random Ekb</title>
-      <link>/posts/gallery/random_ekb/</link>
+      <link>https://ashedow.github.io/posts/gallery/random_ekb/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/gallery/random_ekb/</guid>
+      <guid>https://ashedow.github.io/posts/gallery/random_ekb/</guid>
       <description>Random Ekb</description>
       
     </item>
     
     <item>
       <title>Random Helsinki</title>
-      <link>/posts/gallery/random_helsinki/</link>
+      <link>https://ashedow.github.io/posts/gallery/random_helsinki/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/gallery/random_helsinki/</guid>
+      <guid>https://ashedow.github.io/posts/gallery/random_helsinki/</guid>
       <description>Random Helsinki</description>
       
     </item>
     
     <item>
       <title>Random India</title>
-      <link>/posts/gallery/random_india/</link>
+      <link>https://ashedow.github.io/posts/gallery/random_india/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/gallery/random_india/</guid>
+      <guid>https://ashedow.github.io/posts/gallery/random_india/</guid>
       <description>Random India</description>
       
     </item>
     
     <item>
       <title>Random Kislovodsk</title>
-      <link>/posts/gallery/random_kislovodsk/</link>
+      <link>https://ashedow.github.io/posts/gallery/random_kislovodsk/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/gallery/random_kislovodsk/</guid>
+      <guid>https://ashedow.github.io/posts/gallery/random_kislovodsk/</guid>
       <description>Random Kislovodsk</description>
       
     </item>
     
     <item>
       <title>Random Lappeenranta</title>
-      <link>/posts/gallery/random_lappeenranta/</link>
+      <link>https://ashedow.github.io/posts/gallery/random_lappeenranta/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/gallery/random_lappeenranta/</guid>
+      <guid>https://ashedow.github.io/posts/gallery/random_lappeenranta/</guid>
       <description>Random Lappeenranta</description>
       
     </item>
     
     <item>
       <title>Random Minsk</title>
-      <link>/posts/gallery/random_minsk/</link>
+      <link>https://ashedow.github.io/posts/gallery/random_minsk/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/gallery/random_minsk/</guid>
+      <guid>https://ashedow.github.io/posts/gallery/random_minsk/</guid>
       <description>Random Minsk</description>
       
     </item>
     
     <item>
       <title>Random Moscow</title>
-      <link>/posts/gallery/random_moscow/</link>
+      <link>https://ashedow.github.io/posts/gallery/random_moscow/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/gallery/random_moscow/</guid>
+      <guid>https://ashedow.github.io/posts/gallery/random_moscow/</guid>
       <description>Random Moscow</description>
       
     </item>
     
     <item>
       <title>Random Nizhny Novgorod</title>
-      <link>/posts/gallery/random_nizhnynovgorod/</link>
+      <link>https://ashedow.github.io/posts/gallery/random_nizhnynovgorod/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/gallery/random_nizhnynovgorod/</guid>
+      <guid>https://ashedow.github.io/posts/gallery/random_nizhnynovgorod/</guid>
       <description>Random Nizhny Novgorod</description>
       
     </item>
     
     <item>
       <title>Random picture sketch</title>
-      <link>/posts/sketch/</link>
+      <link>https://ashedow.github.io/posts/sketch/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/sketch/</guid>
+      <guid>https://ashedow.github.io/posts/sketch/</guid>
       <description>Random picture sketch</description>
       
     </item>
     
     <item>
       <title>Random Prague</title>
-      <link>/posts/gallery/random_prague/</link>
+      <link>https://ashedow.github.io/posts/gallery/random_prague/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/gallery/random_prague/</guid>
+      <guid>https://ashedow.github.io/posts/gallery/random_prague/</guid>
       <description>Random Prague</description>
       
     </item>
     
     <item>
       <title>Random Ru</title>
-      <link>/posts/gallery/random_ru/</link>
+      <link>https://ashedow.github.io/posts/gallery/random_ru/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/gallery/random_ru/</guid>
+      <guid>https://ashedow.github.io/posts/gallery/random_ru/</guid>
       <description>Random Ru city
 Кажется Саратов</description>
       
@@ -437,50 +447,50 @@ How to define USA production film? The most powerful organization is government 
     
     <item>
       <title>Random SPb</title>
-      <link>/posts/gallery/random_spb/</link>
+      <link>https://ashedow.github.io/posts/gallery/random_spb/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/gallery/random_spb/</guid>
+      <guid>https://ashedow.github.io/posts/gallery/random_spb/</guid>
       <description>Random SPb</description>
       
     </item>
     
     <item>
       <title>Random Tallin</title>
-      <link>/posts/gallery/random_tallin/</link>
+      <link>https://ashedow.github.io/posts/gallery/random_tallin/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/gallery/random_tallin/</guid>
+      <guid>https://ashedow.github.io/posts/gallery/random_tallin/</guid>
       <description>Random Tallin</description>
       
     </item>
     
     <item>
       <title>Random Tula</title>
-      <link>/posts/gallery/random_tula/</link>
+      <link>https://ashedow.github.io/posts/gallery/random_tula/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/gallery/random_tula/</guid>
+      <guid>https://ashedow.github.io/posts/gallery/random_tula/</guid>
       <description>Random Tula</description>
       
     </item>
     
     <item>
       <title>Love and car</title>
-      <link>/ru_posts/love_and_car/</link>
+      <link>https://ashedow.github.io/ru_posts/love_and_car/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/ru_posts/love_and_car/</guid>
+      <guid>https://ashedow.github.io/ru_posts/love_and_car/</guid>
       <description>Я нашёл гараж. Это куда сложнее</description>
       
     </item>
     
     <item>
       <title>My project</title>
-      <link>/posts/my_project_meme/</link>
+      <link>https://ashedow.github.io/posts/my_project_meme/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/my_project_meme/</guid>
+      <guid>https://ashedow.github.io/posts/my_project_meme/</guid>
       <description>My project
 My second project
 My university</description>
@@ -489,10 +499,10 @@ My university</description>
     
     <item>
       <title>Wonderful candles at a disgusting price</title>
-      <link>/posts/candles/</link>
+      <link>https://ashedow.github.io/posts/candles/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/candles/</guid>
+      <guid>https://ashedow.github.io/posts/candles/</guid>
       <description>Wonderful candles at a disgusting price
 whiskeyriversoap.com</description>
       
@@ -500,10 +510,10 @@ whiskeyriversoap.com</description>
     
     <item>
       <title>Типизация стирального порошка</title>
-      <link>/ru_posts/nan/</link>
+      <link>https://ashedow.github.io/ru_posts/nan/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/ru_posts/nan/</guid>
+      <guid>https://ashedow.github.io/ru_posts/nan/</guid>
       <description>Типизация стирального порошка</description>
       
     </item>

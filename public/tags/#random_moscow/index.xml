@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>#random_Moscow on Micro blog</title>
-    <link>/tags/#random_moscow/</link>
+    <link>https://ashedow.github.io/tags/#random_moscow/</link>
     <description>Recent content in #random_Moscow on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/#random_moscow/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/tags/#random_moscow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Random Moscow</title>
-      <link>/posts/gallery/random_moscow/</link>
+      <link>https://ashedow.github.io/posts/gallery/random_moscow/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/gallery/random_moscow/</guid>
+      <guid>https://ashedow.github.io/posts/gallery/random_moscow/</guid>
       <description>Random Moscow</description>
     </item>
     

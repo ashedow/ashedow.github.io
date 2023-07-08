@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Micro blog</title>
-    <link>/ru/</link>
+    <link>https://ashedow.github.io/ru/</link>
     <description>Recent content on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru</language><atom:link href="/ru/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru</language><atom:link href="https://ashedow.github.io/ru/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

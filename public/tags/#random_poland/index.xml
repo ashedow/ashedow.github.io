@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>#random_Poland on Micro blog</title>
-    <link>/tags/#random_poland/</link>
+    <link>https://ashedow.github.io/tags/#random_poland/</link>
     <description>Recent content in #random_Poland on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 13 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/#random_poland/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/tags/#random_poland/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ведьмаку заплатите ...</title>
-      <link>/ru_posts/wiedzmin/</link>
+      <link>https://ashedow.github.io/ru_posts/wiedzmin/</link>
       <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/ru_posts/wiedzmin/</guid>
+      <guid>https://ashedow.github.io/ru_posts/wiedzmin/</guid>
       <description>Ведьмаку заплатите хоть парочкой злотых, Хоть парочкой злотых ведьмаку заплатите</description>
     </item>
     
     <item>
       <title>Films</title>
-      <link>/posts/films/</link>
+      <link>https://ashedow.github.io/posts/films/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/films/</guid>
+      <guid>https://ashedow.github.io/posts/films/</guid>
       <description>Campari Red Diaries: Fellini Forfard. Первый фильм Фредерико Феллини, созданный с помощью нейросети
 campari film
 How to define USA production film? The most powerful organization is government or near government office.</description>

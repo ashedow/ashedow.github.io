@@ -2,37 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>#sketch on Micro blog</title>
-    <link>/tags/#sketch/</link>
+    <link>https://ashedow.github.io/tags/#sketch/</link>
     <description>Recent content in #sketch on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 27 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/#sketch/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/tags/#sketch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demoscene as UNESCO cultural heritage and unperformable music</title>
+      <link>https://ashedow.github.io/posts/music/demoscene_and_unperformable_music/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashedow.github.io/posts/music/demoscene_and_unperformable_music/</guid>
+      <description>Demoscene accepted as UNESCO cultural heritage in The Netherlands and topic about unperformable music # The Dutch inscription is continuing the success story of the demoscene as first digital culture accepted by the UNESCO.</description>
+    </item>
+    
     <item>
       <title>CultureWorldMap</title>
-      <link>/posts/culturemaps/</link>
+      <link>https://ashedow.github.io/posts/culturemaps/</link>
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/culturemaps/</guid>
+      <guid>https://ashedow.github.io/posts/culturemaps/</guid>
       <description>I hate f*king ~fairyland~ bi tools (lie) # My Tableau CultureWorldMap
 How do Europeans call something that is too far away # Some maps by Yanko Tsvetkov # Yanko Tsvetkov atlasofprejudice.</description>
     </item>
     
     <item>
       <title>Random sketch comics</title>
-      <link>/posts/sketch_comic/</link>
+      <link>https://ashedow.github.io/posts/sketch_comic/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/sketch_comic/</guid>
+      <guid>https://ashedow.github.io/posts/sketch_comic/</guid>
       <description>How I used to draw #comics 2-3 years ago
 Random sketch comics</description>
     </item>
     
     <item>
       <title>Random picture sketch</title>
-      <link>/posts/sketch/</link>
+      <link>https://ashedow.github.io/posts/sketch/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/sketch/</guid>
+      <guid>https://ashedow.github.io/posts/sketch/</guid>
       <description>Random picture sketch</description>
     </item>
     
