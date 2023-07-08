@@ -11,6 +11,7 @@ draft: false
 Understanding biology. Parallels between Biology and other sciences
 
 > [Will we ever understand biology like we currently understand physics*? My take is no (and it seems clear) but curious to hear other takes!](https://twitter.com/ArtirKel/status/1458188399328694274)
+{{< tweet user="ArtirKel" id="1458188399328694274" >}}
 
 The study of organisms looks no less complex than the study of distant space systems.
 
@@ -21,6 +22,7 @@ On the other hand, watching the AI in Drug Discovery but not being involved in t
 We have many tools and experiments, research, papers, pre-prints ... but databases are not open
 
 > I just like this lecture about stats https://youtu.be/hVimVzgtD6w?t=921. trash in-trash out. "we cannot give the data free to the students, free to the entrepreneurs of the world". 
+{{< youtube hVimVzgtD6w >}}
 
 It's hard to start to analyse it.
 At most what is available is rare data from platforms like Kaggle, sometimes some other open data like [enamine](https://enamine.net/compound-collections/real-compounds/real-database), [chemify](https://www.chemify.io/) or a piece of data from services like drugbank.
@@ -49,5 +51,6 @@ UPD:
 
 Automatic chemical design level 1 refers to a degree of ideation automation in chemical design where the machine generates ideas for molecular structures, while the chemist still provides varying amounts of guidance and retains the responsibility of final selection and assessment of the synthesisability of the molecules.
 
+[continually updated list of awesome-molecular-generation on GitHub](https://github.com/amorehead/awesome-molecular-generation)
 
 [Notes on end-to-end biology](https://nintil.com/biology-llms)
