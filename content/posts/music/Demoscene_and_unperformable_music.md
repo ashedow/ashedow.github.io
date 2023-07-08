@@ -21,6 +21,8 @@ But let's talk about something more obscure
 
 [fr-08: .the .product by Farbrausch](https://www.pouet.net/prod.php?which=1221)
 ![](https://www.youtube.com/watch?v=QqHTwtXvYW4)
+{{< youtube QqHTwtXvYW4 >}}
+
 
 
 ## But let's talk about impossible music
@@ -31,8 +33,8 @@ There are some musical works which are, in some way or another, impossible to pe
 
 ## At the very least, several types of unperformable music
 
-Music which I do not like...
-Listen on daily basis
+> Music which I do not like...
+> Listen on daily basis
 
 The [Bull of heaven](http://bullofheaven.com/) American experimental/avant-garde band. Between the end of 2010 and 2011, the band started creating various music puzzles, anti-music, and even lengthier pieces of music. Examples include MP3 files that are actually RAR archives, password-encrypted files, pieces embedded within other formats, such as pdf, jpg, txt, exe and jpg, pieces listed with negative song lengths, and a variety of SWF files.
 
@@ -60,8 +62,8 @@ Finally was played by several people:
 [](https://www.youtube.com/watch?v=_5FFYMe-MGE&list=TLPQMDcwNzIwMjPPmqOQsFjjTQ&index=2)
 {{< youtube _5FFYMe-MGE >}}
 
-```The above piece uses "Night of Nights" as an introduction and shifts into "Death Waltz" or "U.N. Owen Was Her."  As a challenge for a select 14 of my students for our annual recital I assigned these two pieces.  We are not professionals and this work is meant purely as a learning experience and for the enjoyment of our audiences, but after a year of intense practice and coordination, we are proud to have made this finished product.
-```
+> The above piece uses "Night of Nights" as an introduction and shifts into "Death Waltz" or "U.N. Owen Was Her."  As a challenge for a select 14 of my students for our annual recital I assigned these two pieces.  We are not professionals and this work is meant purely as a learning experience and for the enjoyment of our audiences, but after a year of intense practice and coordination, we are proud to have made this finished product.
+
 
 [Synthesia - Night of Nights](https://www.youtube.com/watch?v=A2d_Oty3QsM) - another "musical piece", which can't be played by 1-2 people
 {{< youtube A2d_Oty3QsM >}}
