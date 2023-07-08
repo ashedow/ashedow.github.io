@@ -3,7 +3,7 @@ title: "Demoscene as UNESCO cultural heritage and unperformable music"
 date: 2023-07-07
 description: "Demoscene accepted as UNESCO cultural heritage in The Netherlands and topic about unperformable music"
 featured_image: ""
-tags: ["#music", "#sketch"]
+tags: ["#music", "#sketch", "#article"]
 draft: false
 ---
 
