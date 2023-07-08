@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>#video on Micro blog</title>
-    <link>/tags/#video/</link>
+    <link>https://ashedow.github.io/tags/#video/</link>
     <description>Recent content in #video on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 27 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/#video/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/tags/#video/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Random Balkan music</title>
-      <link>/posts/balkan_music/</link>
+      <link>https://ashedow.github.io/posts/music/balkan_music/</link>
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/balkan_music/</guid>
+      <guid>https://ashedow.github.io/posts/music/balkan_music/</guid>
       <description>Random Balkan music
 Kinda quintessence of Serbian „polako” https://www.youtube.com/watch?v=0zvEG93T2mE
 How to survive the zombie apocalypse with rakija https://www.youtube.com/watch?v=JiUq2gmQ3E4
@@ -23,10 +23,10 @@ Day on the wheels https://youtu.</description>
     
     <item>
       <title>Euro</title>
-      <link>/posts/yayoikusama/</link>
+      <link>https://ashedow.github.io/posts/yayoikusama/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/yayoikusama/</guid>
+      <guid>https://ashedow.github.io/posts/yayoikusama/</guid>
       <description>Yayoi Kusama
 http://www.yayoi-kusama.jp/
 One of the world&amp;rsquo;s most famous dotty artists
@@ -36,10 +36,10 @@ A track for inspiration https://www.youtube.com/watch?v=udQIZkmxOfA</description
     
     <item>
       <title>How to discover history with Mudlarks?  </title>
-      <link>/posts/mudlarks/</link>
+      <link>https://ashedow.github.io/posts/mudlarks/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/mudlarks/</guid>
+      <guid>https://ashedow.github.io/posts/mudlarks/</guid>
       <description>How to discover history with Mudlarks?
 https://www.youtube.com/watch?v=nIGIv29tJFY https://www.instagram.com/mudlark_mud_god/ http://www.thamesandfield.com/
 https://www.pla.co.uk/Environment/Thames-foreshore-permits</description>
@@ -47,20 +47,20 @@ https://www.pla.co.uk/Environment/Thames-foreshore-permits</description>
     
     <item>
       <title>Music pic</title>
-      <link>/posts/music_pic/</link>
+      <link>https://ashedow.github.io/posts/music/music_pic/</link>
       <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/music_pic/</guid>
+      <guid>https://ashedow.github.io/posts/music/music_pic/</guid>
       <description>Music pic
 Konbini song Konbini song, but in AContrari style</description>
     </item>
     
     <item>
       <title>Films</title>
-      <link>/posts/films/</link>
+      <link>https://ashedow.github.io/posts/films/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/films/</guid>
+      <guid>https://ashedow.github.io/posts/films/</guid>
       <description>Campari Red Diaries: Fellini Forfard. Первый фильм Фредерико Феллини, созданный с помощью нейросети
 campari film
 How to define USA production film? The most powerful organization is government or near government office.</description>

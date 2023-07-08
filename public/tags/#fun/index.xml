@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>#fun on Micro blog</title>
-    <link>/tags/#fun/</link>
+    <link>https://ashedow.github.io/tags/#fun/</link>
     <description>Recent content in #fun on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 17 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/#fun/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/tags/#fun/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>*nix Beer</title>
-      <link>/posts/beer/</link>
+      <link>https://ashedow.github.io/posts/beer/</link>
       <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/beer/</guid>
+      <guid>https://ashedow.github.io/posts/beer/</guid>
       <description>*nix beer
 Beer time
 Polish beer Browar zakładowy
@@ -21,10 +21,10 @@ Random beer in poland after the war started</description>
     
     <item>
       <title>My project</title>
-      <link>/posts/my_project_meme/</link>
+      <link>https://ashedow.github.io/posts/my_project_meme/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/my_project_meme/</guid>
+      <guid>https://ashedow.github.io/posts/my_project_meme/</guid>
       <description>My project
 My second project
 My university</description>
@@ -32,20 +32,20 @@ My university</description>
     
     <item>
       <title>Wonderful candles at a disgusting price</title>
-      <link>/posts/candles/</link>
+      <link>https://ashedow.github.io/posts/candles/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/candles/</guid>
+      <guid>https://ashedow.github.io/posts/candles/</guid>
       <description>Wonderful candles at a disgusting price
 whiskeyriversoap.com</description>
     </item>
     
     <item>
       <title>Типизация стирального порошка</title>
-      <link>/ru_posts/nan/</link>
+      <link>https://ashedow.github.io/ru_posts/nan/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/ru_posts/nan/</guid>
+      <guid>https://ashedow.github.io/ru_posts/nan/</guid>
       <description>Типизация стирального порошка</description>
     </item>
     

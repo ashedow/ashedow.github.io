@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>#art on Micro blog</title>
-    <link>/tags/#art/</link>
+    <link>https://ashedow.github.io/tags/#art/</link>
     <description>Recent content in #art on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/#art/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/tags/#art/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hamid Naderi Yeganeh. Math art</title>
-      <link>/posts/math_art_hamid_naderi/</link>
+      <link>https://ashedow.github.io/posts/math_art_hamid_naderi/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/math_art_hamid_naderi/</guid>
+      <guid>https://ashedow.github.io/posts/math_art_hamid_naderi/</guid>
       <description>Hamid Naderi Yeganeh Mathematical artist in Qom, Iran. He Create artworks by mathematical formulas.
 About Hamid Naderi Yeganeh
 Twitter
@@ -21,10 +21,10 @@ Inst</description>
     
     <item>
       <title>Euro</title>
-      <link>/posts/yayoikusama/</link>
+      <link>https://ashedow.github.io/posts/yayoikusama/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/yayoikusama/</guid>
+      <guid>https://ashedow.github.io/posts/yayoikusama/</guid>
       <description>Yayoi Kusama
 http://www.yayoi-kusama.jp/
 One of the world&amp;rsquo;s most famous dotty artists

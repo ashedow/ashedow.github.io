@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>#article on Micro blog</title>
-    <link>/tags/#article/</link>
+    <link>https://ashedow.github.io/tags/#article/</link>
     <description>Recent content in #article on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 17 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/#article/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/tags/#article/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>India, Jio, and the Four Internets</title>
-      <link>/posts/four_internets/</link>
+      <link>https://ashedow.github.io/posts/four_internets/</link>
       <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/four_internets/</guid>
+      <guid>https://ashedow.github.io/posts/four_internets/</guid>
       <description>India, Jio, and the Four Internets
 and how, exactly, platforms die (seems as story about twitter, next reddit, next sf &amp;hellip;)</description>
     </item>

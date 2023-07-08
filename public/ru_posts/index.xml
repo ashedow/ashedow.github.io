@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Micro blog</title>
-    <link>/ru_posts/</link>
+    <link>https://ashedow.github.io/ru_posts/</link>
     <description>Recent content in Posts on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="/ru_posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="https://ashedow.github.io/ru_posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Panic attack</title>
-      <link>/ru_posts/panic_attack/</link>
+      <link>https://ashedow.github.io/ru_posts/panic_attack/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>/ru_posts/panic_attack/</guid>
+      <guid>https://ashedow.github.io/ru_posts/panic_attack/</guid>
       <description>Panic attack. How to
 Guide по ПА (нас попросили - мы написали)
 Паническая атака как единичное явление обычно бывает следствием проникновения в сознание некоторой пугающей и/или болезненной информации.
@@ -21,28 +21,28 @@ Guide по ПА (нас попросили - мы написали)
     
     <item>
       <title>Ведьмаку заплатите ...</title>
-      <link>/ru_posts/wiedzmin/</link>
+      <link>https://ashedow.github.io/ru_posts/wiedzmin/</link>
       <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/ru_posts/wiedzmin/</guid>
+      <guid>https://ashedow.github.io/ru_posts/wiedzmin/</guid>
       <description>Ведьмаку заплатите хоть парочкой злотых, Хоть парочкой злотых ведьмаку заплатите</description>
     </item>
     
     <item>
       <title>Love and car</title>
-      <link>/ru_posts/love_and_car/</link>
+      <link>https://ashedow.github.io/ru_posts/love_and_car/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/ru_posts/love_and_car/</guid>
+      <guid>https://ashedow.github.io/ru_posts/love_and_car/</guid>
       <description>Я нашёл гараж. Это куда сложнее</description>
     </item>
     
     <item>
       <title>Типизация стирального порошка</title>
-      <link>/ru_posts/nan/</link>
+      <link>https://ashedow.github.io/ru_posts/nan/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/ru_posts/nan/</guid>
+      <guid>https://ashedow.github.io/ru_posts/nan/</guid>
       <description>Типизация стирального порошка</description>
     </item>
     

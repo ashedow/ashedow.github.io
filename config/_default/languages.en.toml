@@ -1,9 +1,10 @@
-languageCode = "en"
+languageCode = "en-us"
 languageName = "English"
 weight = 1
 title = "Micro blog"
 
-[params]
+[languages]
+[languages.en]
   displayName = "EN"
   isoCode = "en"
   rtl = false
@@ -22,5 +23,3 @@ title = "Micro blog"
     { linkedin = "https://www.linkedin.com/in/ashedow/" },
     { github = "https://github.com/ashedow" },
   ]
-
-  

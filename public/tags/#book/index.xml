@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>#book on Micro blog</title>
-    <link>/tags/#book/</link>
+    <link>https://ashedow.github.io/tags/#book/</link>
     <description>Recent content in #book on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 27 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/#book/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/tags/#book/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Eight or Nine Wise Words about Letter-Writing, by Lewis Carroll</title>
-      <link>/posts/letter_writing/</link>
+      <link>https://ashedow.github.io/posts/letter_writing/</link>
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/letter_writing/</guid>
+      <guid>https://ashedow.github.io/posts/letter_writing/</guid>
       <description>Eight or Nine Wise Words about Letter-Writing, by Lewis Carroll
 https://www.gutenberg.org/files/38065/38065-h/38065-h.htm</description>
     </item>
     
     <item>
       <title>Books</title>
-      <link>/posts/books/</link>
+      <link>https://ashedow.github.io/posts/books/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/books/</guid>
+      <guid>https://ashedow.github.io/posts/books/</guid>
       <description>Books
 COVID-19: The Great Reset
 &amp;ldquo;Americanah&amp;rdquo; book

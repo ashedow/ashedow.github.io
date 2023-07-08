@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>#random_Brussels on Micro blog</title>
-    <link>/tags/#random_brussels/</link>
+    <link>https://ashedow.github.io/tags/#random_brussels/</link>
     <description>Recent content in #random_Brussels on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/#random_brussels/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/tags/#random_brussels/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Random Brussels</title>
-      <link>/posts/gallery/random_brussels/</link>
+      <link>https://ashedow.github.io/posts/gallery/random_brussels/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/gallery/random_brussels/</guid>
+      <guid>https://ashedow.github.io/posts/gallery/random_brussels/</guid>
       <description>Random Brussels</description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>#link on Micro blog</title>
-    <link>/tags/#link/</link>
+    <link>https://ashedow.github.io/tags/#link/</link>
     <description>Recent content in #link on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/#link/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/tags/#link/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hamid Naderi Yeganeh. Math art</title>
-      <link>/posts/math_art_hamid_naderi/</link>
+      <link>https://ashedow.github.io/posts/math_art_hamid_naderi/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/math_art_hamid_naderi/</guid>
+      <guid>https://ashedow.github.io/posts/math_art_hamid_naderi/</guid>
       <description>Hamid Naderi Yeganeh Mathematical artist in Qom, Iran. He Create artworks by mathematical formulas.
 About Hamid Naderi Yeganeh
 Twitter
@@ -21,40 +21,40 @@ Inst</description>
     
     <item>
       <title>Understanding biology</title>
-      <link>/posts/understanding_biology/</link>
+      <link>https://ashedow.github.io/posts/understanding_biology/</link>
       <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/understanding_biology/</guid>
+      <guid>https://ashedow.github.io/posts/understanding_biology/</guid>
       <description>Understanding biology. Parallels between Biology and other sciences
 Will we ever understand biology like we currently understand physics*? My take is no (and it seems clear) but curious to hear other takes!</description>
     </item>
     
     <item>
       <title>India, Jio, and the Four Internets</title>
-      <link>/posts/four_internets/</link>
+      <link>https://ashedow.github.io/posts/four_internets/</link>
       <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/four_internets/</guid>
+      <guid>https://ashedow.github.io/posts/four_internets/</guid>
       <description>India, Jio, and the Four Internets
 and how, exactly, platforms die (seems as story about twitter, next reddit, next sf &amp;hellip;)</description>
     </item>
     
     <item>
       <title>Eight or Nine Wise Words about Letter-Writing, by Lewis Carroll</title>
-      <link>/posts/letter_writing/</link>
+      <link>https://ashedow.github.io/posts/letter_writing/</link>
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/letter_writing/</guid>
+      <guid>https://ashedow.github.io/posts/letter_writing/</guid>
       <description>Eight or Nine Wise Words about Letter-Writing, by Lewis Carroll
 https://www.gutenberg.org/files/38065/38065-h/38065-h.htm</description>
     </item>
     
     <item>
       <title>Euro</title>
-      <link>/posts/yayoikusama/</link>
+      <link>https://ashedow.github.io/posts/yayoikusama/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/yayoikusama/</guid>
+      <guid>https://ashedow.github.io/posts/yayoikusama/</guid>
       <description>Yayoi Kusama
 http://www.yayoi-kusama.jp/
 One of the world&amp;rsquo;s most famous dotty artists
@@ -64,10 +64,10 @@ A track for inspiration https://www.youtube.com/watch?v=udQIZkmxOfA</description
     
     <item>
       <title>How to discover history with Mudlarks?  </title>
-      <link>/posts/mudlarks/</link>
+      <link>https://ashedow.github.io/posts/mudlarks/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/mudlarks/</guid>
+      <guid>https://ashedow.github.io/posts/mudlarks/</guid>
       <description>How to discover history with Mudlarks?
 https://www.youtube.com/watch?v=nIGIv29tJFY https://www.instagram.com/mudlark_mud_god/ http://www.thamesandfield.com/
 https://www.pla.co.uk/Environment/Thames-foreshore-permits</description>
@@ -75,10 +75,10 @@ https://www.pla.co.uk/Environment/Thames-foreshore-permits</description>
     
     <item>
       <title>Books</title>
-      <link>/posts/books/</link>
+      <link>https://ashedow.github.io/posts/books/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/books/</guid>
+      <guid>https://ashedow.github.io/posts/books/</guid>
       <description>Books
 COVID-19: The Great Reset
 &amp;ldquo;Americanah&amp;rdquo; book
