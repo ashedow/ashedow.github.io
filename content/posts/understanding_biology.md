@@ -1,6 +1,7 @@
 ---
 title: "Understanding biology"
 date: 2023-06-23
+edited: 2023-07-08
 description: ''
 featured_image: ""
 tags: ["#bio", "#paper", "#link"]
@@ -22,24 +23,31 @@ We have many tools and experiments, research, papers, pre-prints ... but databas
 > I just like this lecture about stats https://youtu.be/hVimVzgtD6w?t=921. trash in-trash out. "we cannot give the data free to the students, free to the entrepreneurs of the world". 
 
 It's hard to start to analyse it.
-At most what is available is rare data from platforms like Kaggle, sometimes some other open data or a piece of data from services like drugbank.
+At most what is available is rare data from platforms like Kaggle, sometimes some other open data like [enamine](https://enamine.net/compound-collections/real-compounds/real-database), [chemify](https://www.chemify.io/) or a piece of data from services like drugbank.
 
 It is true that this is understandable for security reasons. 
 But I would like to see something similar to "Could a Neuroscientist Understand a Microprocessor" but on drug design or gerontology. 
-```
-“No one ever realized it until now, but here’s a strong contender for the root cause of Disease X”. And that could lead to predictions like “So that means that inhibiting this particular kinase that no one has cared about until now should be a drug for the disease”, or (more likely) "If you can find some way to interfere with this pathway over here, that would attack Disease X at a key point". That would be a very nice thing for software to tell us
-```
+
+So, the main limitations, from my point of view, are:
+* Data. Data availability and quality (Will synetic data be a solution? [one](https://arxiv.org/abs/1906.05221), [two](https://arxiv.org/abs/2004.14308)); little data on structures, tissues, targets, etc.
+* Cultural and ethical limitations
+
+`“No one ever realized it until now, but here’s a strong contender for the root cause of Disease X”. And that could lead to predictions like “So that means that inhibiting this particular kinase that no one has cared about until now should be a drug for the disease”, or (more likely) "If you can find some way to interfere with this pathway over here, that would attack Disease X at a key point". That would be a very nice thing for software to tell us`
 
 and
 
-```
-So at the moment, if you took any of the AI-generated molecules from these projects and showed them to an experienced medicinal chemist, the response would be "Well, yeah, sure", and probably also "You'd better check to make sure those are actually patentable". 
-```
+`So at the moment, if you took any of the AI-generated molecules from these projects and showed them to an experienced medicinal chemist, the response would be "Well, yeah, sure", and probably also "You'd better check to make sure those are actually patentable". `
 
-```
-Did this computational approach speed things up, though? Wills' blog post mentions the number of compounds that the company says were actually synthesized in each of these three cases (350, 163, and 500, respectively). These are not at all out of line with what you would expect from doing a traditional fast-follower effort off of known chemical matter. It would be interesting to know if these were all synthesized from a first run of recommendations of the AI software, or if assay results were fed back in as the compounds appeared and were tested, but either way that seems to be a reasonable amount of SAR, given the fact that you're starting in well-studied chemical space. The time savings would come, though, if the software was able to direct synthesis in a way that you were sure that whatever you went to the trouble of making would also be in those areas of legally clear space.
+`Did this computational approach speed things up, though? Wills' blog post mentions the number of compounds that the company says were actually synthesized in each of these three cases (350, 163, and 500, respectively). These are not at all out of line with what you would expect from doing a traditional fast-follower effort off of known chemical matter. It would be interesting to know if these were all synthesized from a first run of recommendations of the AI software, or if assay results were fed back in as the compounds appeared and were tested, but either way that seems to be a reasonable amount of SAR, given the fact that you're starting in well-studied chemical space. The time savings would come, though, if the software was able to direct synthesis in a way that you were sure that whatever you went to the trouble of making would also be in those areas of legally clear space.`
 
-So as far as I can tell, that's where we are now. But again, credit where it's due: these are early days, and it's going to be the easier problems that yield first. Right now, the AI stuff is working at the level of "Hey, here's a whole bunch of people working on Target X for Disease Y - is there any room for me in there?". That of course doesn't get at the reasons why we still have nearly a 90% failure rate overall in the clinic in this business, which are that it turns generally out that Target X really isn't that useful against Disease Y, or that our compounds directed towards it do other things that we didn't expect. Those are the harder problems```
+`So as far as I can tell, that's where we are now. But again, credit where it's due: these are early days, and it's going to be the easier problems that yield first. Right now, the AI stuff is working at the level of "Hey, here's a whole bunch of people working on Target X for Disease Y - is there any room for me in there?". That of course doesn't get at the reasons why we still have nearly a 90% failure rate overall in the clinic in this business, which are that it turns generally out that Target X really isn't that useful against Disease Y, or that our compounds directed towards it do other things that we didn't expect. Those are the harder problems
+`
+
+UPD:
+
+[Where is generative design in drug discovery today](https://medium.com/@leowossnig/where-is-generative-design-in-drug-discovery-today-7234945177cf) article said that `Molecules that are generated today can satisfy relevant ranges for physicochemical properties like molecular weight, logP, or logD, and pass through MedChem and PAINS filters. They are selective (where needed), and progressively more examples also include experimental validation.`.
+
+Automatic chemical design level 1 refers to a degree of ideation automation in chemical design where the machine generates ideas for molecular structures, while the chemist still provides varying amounts of guidance and retains the responsibility of final selection and assessment of the synthesisability of the molecules.
 
 
 [Notes on end-to-end biology](https://nintil.com/biology-llms)

@@ -99,7 +99,7 @@ Will we ever understand biology like we currently understand physics*? My take i
     "keywords": ["#bio","#paper","#link"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "649"
+    "wordCount": "783"
   }]
   </script>
 
@@ -849,19 +849,30 @@ We have many tools and experiments, research, papers, pre-prints &hellip; but da
     https://youtu.be/hVimVzgtD6w?t=921</a>. trash in-trash out. &ldquo;we cannot give the data free to the students, free to the entrepreneurs of the world&rdquo;.</p>
 </blockquote>
 <p>It&rsquo;s hard to start to analyse it.
-At most what is available is rare data from platforms like Kaggle, sometimes some other open data or a piece of data from services like drugbank.</p>
+At most what is available is rare data from platforms like Kaggle, sometimes some other open data like <a href="https://enamine.net/compound-collections/real-compounds/real-database"   target="_blank">
+    enamine</a>, <a href="https://www.chemify.io/"   target="_blank">
+    chemify</a> or a piece of data from services like drugbank.</p>
 <p>It is true that this is understandable for security reasons.
 But I would like to see something similar to &ldquo;Could a Neuroscientist Understand a Microprocessor&rdquo; but on drug design or gerontology.</p>
-<pre tabindex="0"><code>“No one ever realized it until now, but here’s a strong contender for the root cause of Disease X”. And that could lead to predictions like “So that means that inhibiting this particular kinase that no one has cared about until now should be a drug for the disease”, or (more likely) &#34;If you can find some way to interfere with this pathway over here, that would attack Disease X at a key point&#34;. That would be a very nice thing for software to tell us
-</code></pre><p>and</p>
-<pre tabindex="0"><code>So at the moment, if you took any of the AI-generated molecules from these projects and showed them to an experienced medicinal chemist, the response would be &#34;Well, yeah, sure&#34;, and probably also &#34;You&#39;d better check to make sure those are actually patentable&#34;. 
-</code></pre><pre tabindex="0"><code>Did this computational approach speed things up, though? Wills&#39; blog post mentions the number of compounds that the company says were actually synthesized in each of these three cases (350, 163, and 500, respectively). These are not at all out of line with what you would expect from doing a traditional fast-follower effort off of known chemical matter. It would be interesting to know if these were all synthesized from a first run of recommendations of the AI software, or if assay results were fed back in as the compounds appeared and were tested, but either way that seems to be a reasonable amount of SAR, given the fact that you&#39;re starting in well-studied chemical space. The time savings would come, though, if the software was able to direct synthesis in a way that you were sure that whatever you went to the trouble of making would also be in those areas of legally clear space.
+<p>So, the main limitations, from my point of view, are:</p>
+<ul>
+<li>Data. Data availability and quality (Will synetic data be a solution? <a href="https://arxiv.org/abs/1906.05221"   target="_blank">
+    one</a>, <a href="https://arxiv.org/abs/2004.14308"   target="_blank">
+    two</a>); little data on structures, tissues, targets, etc.</li>
+<li>Cultural and ethical limitations</li>
+</ul>
+<p><code>“No one ever realized it until now, but here’s a strong contender for the root cause of Disease X”. And that could lead to predictions like “So that means that inhibiting this particular kinase that no one has cared about until now should be a drug for the disease”, or (more likely) &quot;If you can find some way to interfere with this pathway over here, that would attack Disease X at a key point&quot;. That would be a very nice thing for software to tell us</code></p>
+<p>and</p>
+<p><code>So at the moment, if you took any of the AI-generated molecules from these projects and showed them to an experienced medicinal chemist, the response would be &quot;Well, yeah, sure&quot;, and probably also &quot;You'd better check to make sure those are actually patentable&quot;. </code></p>
+<p><code>Did this computational approach speed things up, though? Wills' blog post mentions the number of compounds that the company says were actually synthesized in each of these three cases (350, 163, and 500, respectively). These are not at all out of line with what you would expect from doing a traditional fast-follower effort off of known chemical matter. It would be interesting to know if these were all synthesized from a first run of recommendations of the AI software, or if assay results were fed back in as the compounds appeared and were tested, but either way that seems to be a reasonable amount of SAR, given the fact that you're starting in well-studied chemical space. The time savings would come, though, if the software was able to direct synthesis in a way that you were sure that whatever you went to the trouble of making would also be in those areas of legally clear space.</code></p>
+<p><code>So as far as I can tell, that's where we are now. But again, credit where it's due: these are early days, and it's going to be the easier problems that yield first. Right now, the AI stuff is working at the level of &quot;Hey, here's a whole bunch of people working on Target X for Disease Y - is there any room for me in there?&quot;. That of course doesn't get at the reasons why we still have nearly a 90% failure rate overall in the clinic in this business, which are that it turns generally out that Target X really isn't that useful against Disease Y, or that our compounds directed towards it do other things that we didn't expect. Those are the harder problems </code></p>
+<p>UPD:</p>
+<p><a href="https://medium.com/@leowossnig/where-is-generative-design-in-drug-discovery-today-7234945177cf"   target="_blank">
+    Where is generative design in drug discovery today</a> article said that <code>Molecules that are generated today can satisfy relevant ranges for physicochemical properties like molecular weight, logP, or logD, and pass through MedChem and PAINS filters. They are selective (where needed), and progressively more examples also include experimental validation.</code>.</p>
+<p>Automatic chemical design level 1 refers to a degree of ideation automation in chemical design where the machine generates ideas for molecular structures, while the chemist still provides varying amounts of guidance and retains the responsibility of final selection and assessment of the synthesisability of the molecules.</p>
+<p><a href="https://nintil.com/biology-llms"   target="_blank">
+    Notes on end-to-end biology</a></p>
 
-So as far as I can tell, that&#39;s where we are now. But again, credit where it&#39;s due: these are early days, and it&#39;s going to be the easier problems that yield first. Right now, the AI stuff is working at the level of &#34;Hey, here&#39;s a whole bunch of people working on Target X for Disease Y - is there any room for me in there?&#34;. That of course doesn&#39;t get at the reasons why we still have nearly a 90% failure rate overall in the clinic in this business, which are that it turns generally out that Target X really isn&#39;t that useful against Disease Y, or that our compounds directed towards it do other things that we didn&#39;t expect. Those are the harder problems```
-
-
-[Notes on end-to-end biology](https://nintil.com/biology-llms)
-</code></pre>
         </br></br>
         
 
