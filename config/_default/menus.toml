@@ -27,16 +27,23 @@
   weight = 200
 
 [[main]]
+  identifier = "telegram"
+  pre = "telegram"
+  url = "https://t.me/random_saved_messages"
+  weight = 300
+
+[[main]]
   identifier = "Linkedin"
   pre = "linkedin"
   url = "https://www.linkedin.com/in/ashedow/"
-  weight = 300
+  weight = 400
 
 [[main]]
   identifier = "github"
   pre = "github"
   url = "https://github.com/nunocoracao/ashedow"
-  weight = 400
+  weight = 500
+
 
 
 # -- Footer Menu --

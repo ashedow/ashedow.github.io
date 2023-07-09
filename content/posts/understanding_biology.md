@@ -27,6 +27,8 @@ We have many tools and experiments, research, papers, pre-prints ... but databas
 It's hard to start to analyse it.
 At most what is available is rare data from platforms like Kaggle, [open reaction database](https://docs.open-reaction-database.org/en/latest/), sometimes some other open data like [enamine](https://enamine.net/compound-collections/real-compounds/real-database), [chemify](https://www.chemify.io/) or a piece of data from services like drugbank.
 
+`But even this might not be enough to allow AI tools to reach their full potential. The best possible training sets would also include data on negative outcomes, such as reaction conditions that don’t produce desired substances. And data need to be recorded in agreed and consistent formats, which they are not at present.`
+
 It is true that this is understandable for security reasons. 
 But I would like to see something similar to "Could a Neuroscientist Understand a Microprocessor" but on drug design or gerontology. 
 
