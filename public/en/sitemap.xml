@@ -71,8 +71,23 @@
     
   
     
+  
+    
+  
+    
+  
+    
       <url>
             <loc>https://ashedow.github.io/posts/understanding_biology/</loc>
+            <lastmod>2023-06-23T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://ashedow.github.io/posts/emoji/</loc>
             <lastmod>2023-06-23T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
@@ -125,8 +140,6 @@
     
   
     
-  
-    
       <url>
             <loc>https://ashedow.github.io/posts/culturemaps/</loc>
             <lastmod>2023-05-27T00:00:00+00:00</lastmod>
@@ -148,6 +161,30 @@
       <url>
             <loc>https://ashedow.github.io/posts/music/balkan_music/</loc>
             <lastmod>2023-05-27T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://ashedow.github.io/posts/st_patrick_food_pairing/</loc>
+            <lastmod>2023-04-18T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://ashedow.github.io/posts/trolley_problem/</loc>
+            <lastmod>2023-04-18T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
@@ -209,6 +246,17 @@
     
   
     
+  
+    
+      <url>
+            <loc>https://ashedow.github.io/posts/gallery/random_poland/</loc>
+            <lastmod>2022-08-02T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
       <url>
             <loc>https://ashedow.github.io/posts/gallery/</loc>
             <lastmod>2022-06-13T20:55:37+01:00</lastmod>
@@ -244,6 +292,17 @@
           </url>
     
   
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://ashedow.github.io/posts/gallery/random_venice/</loc>
+            <lastmod>2022-06-11T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
     
   
     
@@ -294,17 +353,6 @@
   
     
   
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/krakow/</loc>
-            <lastmod>2021-11-10T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
     
   
     

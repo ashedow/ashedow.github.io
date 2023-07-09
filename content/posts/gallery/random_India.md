@@ -7,8 +7,10 @@ tags: ["#random_India"]
 draft: false
 ---
 
-Random India
+## Random India
 
-![](/images/photo_44@05-11-2021_12-28-05.jpg)
-![](/images/photo_45@05-11-2021_12-28-05.jpg)
-![](/images/photo_46@05-11-2021_12-28-05.jpg)
+{{< gallery >}}
+<img src="/images/photo_44@05-11-2021_12-28-05.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="/images/photo_45@05-11-2021_12-28-05.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="/images/photo_46@05-11-2021_12-28-05.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+{{< /gallery >}}

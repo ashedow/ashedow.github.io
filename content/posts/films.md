@@ -16,6 +16,12 @@ Campari Red Diaries: Fellini Forfard. Первый фильм Фредерико
 How to define USA production film?
 The most powerful organization is government or near government office. If not - the shadow-haunted Outside.
 
+***
+
+A typical British series:
+The focus is on several jerks characters. All of whom are annoying in their own way. Essentially all the characters
+
+But at the same time not dull, engaging, drama-filled, humorous, comical
 
 ***
 

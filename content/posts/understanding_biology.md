@@ -25,7 +25,7 @@ We have many tools and experiments, research, papers, pre-prints ... but databas
 {{< youtube hVimVzgtD6w >}}
 
 It's hard to start to analyse it.
-At most what is available is rare data from platforms like Kaggle, sometimes some other open data like [enamine](https://enamine.net/compound-collections/real-compounds/real-database), [chemify](https://www.chemify.io/) or a piece of data from services like drugbank.
+At most what is available is rare data from platforms like Kaggle, [open reaction database](https://docs.open-reaction-database.org/en/latest/), sometimes some other open data like [enamine](https://enamine.net/compound-collections/real-compounds/real-database), [chemify](https://www.chemify.io/) or a piece of data from services like drugbank.
 
 It is true that this is understandable for security reasons. 
 But I would like to see something similar to "Could a Neuroscientist Understand a Microprocessor" but on drug design or gerontology. 

@@ -7,11 +7,14 @@ tags: ["#random_Tallin"]
 draft: false
 ---
 
-Random Tallin
+## Random Tallin
 
-![](/images/photo_76@05-11-2021_12-53-56.jpg)
-![](/images/photo_77@05-11-2021_12-53-56.jpg)
-![](/images/photo_78@05-11-2021_12-53-56.jpg)
-![](/images/photo_79@05-11-2021_12-53-56.jpg)
-![](/images/photo_80@05-11-2021_12-53-56.jpg)
-![](/images/photo_81@05-11-2021_12-53-56.jpg)
+{{< gallery >}}
+
+<img src="/images/photo_76@05-11-2021_12-53-56.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="/images/photo_77@05-11-2021_12-53-56.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="/images/photo_78@05-11-2021_12-53-56.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="/images/photo_79@05-11-2021_12-53-56.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="/images/photo_80@05-11-2021_12-53-56.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="/images/photo_81@05-11-2021_12-53-56.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+{{< /gallery >}}

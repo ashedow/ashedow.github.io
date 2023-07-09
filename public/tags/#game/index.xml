@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>#game on Micro blog</title>
+    <link>https://ashedow.github.io/tags/#game/</link>
+    <description>Recent content in #game on Micro blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/tags/#game/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trolley problem</title>
+      <link>https://ashedow.github.io/posts/trolley_problem/</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashedow.github.io/posts/trolley_problem/</guid>
+      <description>Trolley problem # Small philosophy games https://neal.fun like &amp;ldquo;Absurd trolley problems&amp;rdquo; or &amp;ldquo;Spend Bill Gates&amp;rsquo; Money&amp;rdquo;</description>
+    </item>
+    
+  </channel>
+</rss>
