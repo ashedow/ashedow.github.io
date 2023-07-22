@@ -13,4 +13,8 @@ Music pic
 ![](/images/photo_30@05-11-2021_12-18-54.jpg)
 
 [Konbini song](https://www.youtube.com/watch?v=vA9S_KC38wM)
+{{< youtube vA9S_KC38wM >}}
+
+
 [Konbini song, but in AContrari style](https://youtu.be/WoN84feMqd4)
+{{< youtube WoN84feMqd4 >}}

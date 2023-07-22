@@ -1,12 +1,12 @@
 ---
 title: "About"
-date: 2023-06-21T04:55:01+02:00
+date: 2023-06-21
 draft: false
 ---
 
 I'm tired of forwarding memes to saved messages, so I started this channel.
 
-![](https://youtu.be/S_v172PgToE)
+{{< youtube S_v172PgToE >}}
 
 Tags
 

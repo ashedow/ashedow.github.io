@@ -134,6 +134,9 @@
 
 
 
+<script defer src="/lib/packery/packery.pkgd.min.js" integrity=""></script>
+
+
 
 
   
@@ -820,51 +823,45 @@
         
 
         <p>Random Lappeenranta</p>
-<p>
 
 
-
-
-  
-  
-  
-    <figure>
-      <img class="my-0 rounded-md" src="/images/photo_38@05-11-2021_12-25-25.jpg" alt="" />
-      
-    </figure>
+<div id="gallery-0">
   
 
+<img src="/images/photo_38@05-11-2021_12-25-25.jpg" class="grid-w100 md:grid-w33 xl:grid-w25" />
+<img src="/images/photo_37@05-11-2021_12-25-25.jpg" class="grid-w100 md:grid-w33 xl:grid-w25" />
 
 
+</div>
+
+<script>
+  $(window).on("load", function () {
+    $('#gallery-0').packery({
+      percentPosition: true,
+      gutter: 5,
+      resize: true
+    });
+  })
+</script>
 
 
-
-
-  
-  
-  
-    <figure>
-      <img class="my-0 rounded-md" src="/images/photo_37@05-11-2021_12-25-25.jpg" alt="" />
-      
-    </figure>
-  
-
-</p>
-<p>
-
-
-
-
-  
-  
-  
-    <figure>
-      <img class="my-0 rounded-md" src="/images/photo_112@05-11-2021_18-19-29.jpg" alt="" />
-      
-    </figure>
+<div id="gallery-1">
   
 
-</p>
+<img src="/images/photo_112@05-11-2021_18-19-29.jpg" class="grid-w100 md:grid-w33 xl:grid-w25" />
+
+
+</div>
+
+<script>
+  $(window).on("load", function () {
+    $('#gallery-1').packery({
+      percentPosition: true,
+      gutter: 5,
+      resize: true
+    });
+  })
+</script>
 
         </br></br>
         
@@ -1290,7 +1287,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2021-11-05 00:00:00 &#43;0000 UTC">5 November 2021</time><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">1 min</span>
+  <time datetime="2021-11-05 00:00:00 &#43;0000 UTC">5 November 2021</time><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">2 mins</span>
   
 
   

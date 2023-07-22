@@ -23,11 +23,7 @@
       
       <guid>https://ashedow.github.io/posts/music/balkan_music/</guid>
       <description>Random Balkan music
-Kinda quintessence of Serbian „polako” https://www.youtube.com/watch?v=0zvEG93T2mE
-How to survive the zombie apocalypse with rakija https://www.youtube.com/watch?v=JiUq2gmQ3E4
-No escape https://www.youtube.com/watch?v=jtgA0jvhp2A
-A normal day in the balkans https://youtu.be/hp9hwjdPKvc
-Day on the wheels https://youtu.</description>
+Kinda quintessence of Serbian „polako” How to survive the zombie apocalypse with rakija No escape A normal day in the balkans Day on the wheels Funked up east</description>
     </item>
     
     <item>
@@ -40,13 +36,22 @@ Day on the wheels https://youtu.</description>
     </item>
     
     <item>
+      <title>Music equipments</title>
+      <link>https://ashedow.github.io/posts/music/music_equipments/</link>
+      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashedow.github.io/posts/music/music_equipments/</guid>
+      <description>Music equipments # Abacusynth # Plugin: Analogue version: Ore-some Volts synthesizer module # Ore-some Volts synthesizer module that generates random control voltages, gates and triggers from URANIUM ORE by Nervous Squirrel</description>
+    </item>
+    
+    <item>
       <title>Music pic</title>
       <link>https://ashedow.github.io/posts/music/music_pic/</link>
       <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ashedow.github.io/posts/music/music_pic/</guid>
       <description>Music pic
-Konbini song Konbini song, but in AContrari style</description>
+Konbini song Konbini song, but in AContrari style </description>
     </item>
     
   </channel>

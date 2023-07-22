@@ -7,8 +7,11 @@ tags: ["#random_ekb"]
 draft: false
 ---
 
-Random Ekb
+## Random Ekb
 
-![](/images/photo_107@05-11-2021_18-15-08.jpg)
-![](/images/photo_108@05-11-2021_18-15-08.jpg)
-![](/images/photo_109@05-11-2021_18-15-08.jpg)
+{{< gallery >}}
+
+<img src="/images/photo_107@05-11-2021_18-15-08.jpg" class="grid-w100 md:grid-w33 xl:grid-w25" />
+<img src="/images/photo_108@05-11-2021_18-15-08.jpg" class="grid-w100 md:grid-w33 xl:grid-w25" />
+<img src="/images/photo_109@05-11-2021_18-15-08.jpg" class="grid-w100 md:grid-w33 xl:grid-w25" />
+{{< /gallery >}}

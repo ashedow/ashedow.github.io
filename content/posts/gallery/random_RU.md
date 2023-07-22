@@ -9,4 +9,4 @@ draft: false
 
 Random Ru city
 
-![](/images/photo_74@05-11-2021_12-38-16.jpg) Кажется Саратов
+![](/images/photo_74@05-11-2021_12-38-16.jpg) Sems like Saratov?

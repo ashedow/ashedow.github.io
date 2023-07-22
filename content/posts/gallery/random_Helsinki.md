@@ -9,4 +9,8 @@ draft: false
 
 Random Helsinki
 
-![](/images/photo_34@05-11-2021_12-22-54.jpg)
+
+{{< gallery >}}
+
+<img src="/images/photo_34@05-11-2021_12-22-54.jpg" class="grid-w100 md:grid-w33 xl:grid-w25" />
+{{< /gallery >}}

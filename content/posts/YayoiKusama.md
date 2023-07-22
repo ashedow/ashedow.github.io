@@ -16,9 +16,11 @@ http://www.yayoi-kusama.jp/
 One of the world's most famous dotty artists 
 
 Story of Yayoi Kusama
-https://www.youtube.com/watch?v=9L48R_z77iQ
-https://www.youtube.com/watch?v=wgSBtXNJjhs
+{{< youtube 9L48R_z77iQ >}}
 
-A track for inspiration
-https://www.youtube.com/watch?v=udQIZkmxOfA
+{{< youtube wgSBtXNJjhs >}}
+
+[A track for inspiration](https://www.youtube.com/watch?v=udQIZkmxOfA)
+{{< youtube udQIZkmxOfA >}}
+
 

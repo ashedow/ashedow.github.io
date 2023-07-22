@@ -42,3 +42,21 @@ Most probably I'm so excited That's because it's the joy of recognition and the 
 Years and Years - a film from 2019. What if the mix Utopia apocalyptic vibe, Don't look up, some of the black mirrors were set in UK? Kinda an alternative version of the story.
 https://www.imdb.com/title/tt8694364/?ref_=nv_sr_srsg_1 
 As Britain slowly turns into a dictatorship over the years, the lives of a typical busy family from Manchester converge on one crucial night in 2019. 
+
+***
+
+That new AI-generated Seinfeld channel on Twitch is pulling me in way more than anything on Netflix does
+
+[Channel](https://www.twitch.tv/watchmeforever")
+
+***
+
+Great homage to Wes Anderson’s style of filmmaking. Bleach performance by the wooden puppets!
+
+This is a pilot version of the stop-motion samurai film that tells the story of "Jingoro Hidari," a legendary Edo-era craftsman. All the characters are made by wood and animated frame by frame, just like how Jingoro's wooden sculptures came to life in his many anecdotes. We hope you enjoy this film, which mixes dynamic actions as seen in Japanimation, and the rich analog expressions of stop-motion animation.
+
+{{< youtube DpefYPLH67A >}}
+
+https://hidari-movie.com/
+https://twitter.com/hidari_movie
+https://www.instagram.com/hidari_movie/

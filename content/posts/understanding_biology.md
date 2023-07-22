@@ -27,13 +27,13 @@ We have many tools and experiments, research, papers, pre-prints ... but databas
 It's hard to start to analyse it.
 At most what is available is rare data from platforms like Kaggle, [open reaction database](https://docs.open-reaction-database.org/en/latest/), sometimes some other open data like [enamine](https://enamine.net/compound-collections/real-compounds/real-database), [chemify](https://www.chemify.io/) or a piece of data from services like drugbank.
 
-`But even this might not be enough to allow AI tools to reach their full potential. The best possible training sets would also include data on negative outcomes, such as reaction conditions that don’t produce desired substances. And data need to be recorded in agreed and consistent formats, which they are not at present.`
+`But even this might not be [enough to allow AI tools to reach their full potential](https://jgreener64.github.io/posts/science_the_hard_way/#fnref:blog). The best possible training sets would also include data on negative outcomes, such as reaction conditions that don’t produce desired substances. And data need to be recorded in agreed and consistent formats, which they are not at present.`
 
 It is true that this is understandable for security reasons. 
 But I would like to see something similar to "Could a Neuroscientist Understand a Microprocessor" but on drug design or gerontology. 
 
 So, the main limitations, from my point of view, are:
-* Data. Data availability and quality (Will synetic data be a solution? [one](https://arxiv.org/abs/1906.05221), [two](https://arxiv.org/abs/2004.14308)); little data on structures, tissues, targets, etc.
+* [Data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7382642/). Data availability and quality (Will synetic data be a solution? [one](https://arxiv.org/abs/1906.05221), [two](https://arxiv.org/abs/2004.14308)); little data on structures, tissues, targets, etc.
 * Cultural and ethical limitations
 
 `“No one ever realized it until now, but here’s a strong contender for the root cause of Disease X”. And that could lead to predictions like “So that means that inhibiting this particular kinase that no one has cared about until now should be a drug for the disease”, or (more likely) "If you can find some way to interfere with this pathway over here, that would attack Disease X at a key point". That would be a very nice thing for software to tell us`
