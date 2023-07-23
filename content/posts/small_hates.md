@@ -18,7 +18,7 @@ How to communicate and what to pay special attention to when building effective 
 How to ask question and vlidate youself.
 How to set up and achieva a goals.
 How to deal with conflicts.
-Planning, agendas, presentations, letters, presentations, practical ideas to become a team player  etc.
+Planning, agendas, presentations, letters, presentations, practical ideas to become a team player, time management tips etc.
 
 These are all great parts of the course. Even if in places it is overly drawn out
 

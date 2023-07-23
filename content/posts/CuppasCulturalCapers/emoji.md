@@ -13,3 +13,7 @@ draft: false
 Short [video](https://www.youtube.com/watch?v=geJBuuuPyBU) on the differences between European and Chinese cultures through the lens of emoji.
 
 {{< youtube geJBuuuPyBU>}}
+
+And another one about [Chinese language](https://youtu.be/QY0AMmLuiqk)
+
+{{< youtube QY0AMmLuiqk>}}
