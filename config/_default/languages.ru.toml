@@ -16,7 +16,7 @@ title = "Micro blog"
 [author]
   name = "Ashedow"
 #  image = "img/blowfish_logo.png"
-  headline = "Dumb, dummy, downer, humoreless"
+  #headline = "Dumb, dummy, downer, humoreless"
   bio = ""
   links = [
     { linkedin = "https://www.linkedin.com/in/ashedow/" },

@@ -4,11 +4,15 @@ date: 2023-06-21
 draft: false
 ---
 
-I'm tired of forwarding memes to saved messages, so I started this channel.
+Hello world! I'm Iana (Ashedow) and I'm interested in everything. 
+Шэь interested in a huge number of things, from culture and anthropology, in all its forms, to airplanes and medicine.
 
-{{< youtube S_v172PgToE >}}
+Right now, I am most excited about developing in the area of big data analysis and visualization.
 
-Tags
+This site is kinda result of compilation and reworking of a huge amount of my notes, links, sheets and so on.
+
+
+Tag list for my posts:
 
 location:
 
