@@ -26,3 +26,14 @@ Polish beer Browar zakładowy
 Random beer in poland after the war started
 
 ![](/images/photo_868@10-09-2022_19-39-00.jpg)
+
+***
+
+Serbian beer be like
+
+![](/images/pi_beer.jpeg)
+
+***
+
+Beer 101: What is pasteurization?
+![](/images/beer101_pasteurization.jpeg)

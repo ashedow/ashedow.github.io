@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title> #music on Micro blog</title>
+    <title>#music on Micro blog</title>
     <link>https://ashedow.github.io/tags/#music/</link>
-    <description>Recent content in  #music on Micro blog</description>
+    <description>Recent content in #music on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/tags/#music/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Demoscene as UNESCO cultural heritage and unperformable music</title>
-      <link>https://ashedow.github.io/posts/music/demoscene_and_unperformable_music/</link>
+      <link>https://ashedow.github.io/posts/demoscene_and_unperformable_music/</link>
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ashedow.github.io/posts/music/demoscene_and_unperformable_music/</guid>
+      <guid>https://ashedow.github.io/posts/demoscene_and_unperformable_music/</guid>
       <description>Demoscene accepted as UNESCO cultural heritage in The Netherlands and topic about unperformable music # The Dutch inscription is continuing the success story of the demoscene as first digital culture accepted by the UNESCO.</description>
     </item>
     
     <item>
       <title>Experiments in music</title>
-      <link>https://ashedow.github.io/posts/music/music_experiments/</link>
+      <link>https://ashedow.github.io/posts/music_experiments/</link>
       <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ashedow.github.io/posts/music/music_experiments/</guid>
+      <guid>https://ashedow.github.io/posts/music_experiments/</guid>
       <description>Experiments in music # Music, in all its forms, is all around us.
 I was interested in combining something completely incongruous.
 And one of the experiments is Chopin + meow noise</description>
@@ -29,10 +29,10 @@ And one of the experiments is Chopin + meow noise</description>
     
     <item>
       <title>Random Balkan music</title>
-      <link>https://ashedow.github.io/posts/music/balkan_music/</link>
+      <link>https://ashedow.github.io/posts/balkan_music/</link>
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ashedow.github.io/posts/music/balkan_music/</guid>
+      <guid>https://ashedow.github.io/posts/balkan_music/</guid>
       <description>Random Balkan music
 Kinda quintessence of Serbian „polako” How to survive the zombie apocalypse with rakija No escape A normal day in the balkans Day on the wheels Funked up east</description>
     </item>
@@ -51,28 +51,28 @@ Story of Yayoi Kusama A track for inspiration </description>
     
     <item>
       <title>Max Raabe - as german sounds</title>
-      <link>https://ashedow.github.io/posts/music/music_maxraabe/</link>
+      <link>https://ashedow.github.io/posts/music_maxraabe/</link>
       <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ashedow.github.io/posts/music/music_maxraabe/</guid>
+      <guid>https://ashedow.github.io/posts/music_maxraabe/</guid>
       <description>Max Raabe - as german sounds</description>
     </item>
     
     <item>
       <title>Music equipments</title>
-      <link>https://ashedow.github.io/posts/music/music_equipments/</link>
+      <link>https://ashedow.github.io/posts/music_equipments/</link>
       <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ashedow.github.io/posts/music/music_equipments/</guid>
+      <guid>https://ashedow.github.io/posts/music_equipments/</guid>
       <description>Music equipments # Abacusynth # Plugin: Analogue version: Ore-some Volts synthesizer module # Ore-some Volts synthesizer module that generates random control voltages, gates and triggers from URANIUM ORE by Nervous Squirrel</description>
     </item>
     
     <item>
       <title>Music pic</title>
-      <link>https://ashedow.github.io/posts/music/music_pic/</link>
+      <link>https://ashedow.github.io/posts/music_pic/</link>
       <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ashedow.github.io/posts/music/music_pic/</guid>
+      <guid>https://ashedow.github.io/posts/music_pic/</guid>
       <description>Music pic
 Konbini song Konbini song, but in AContrari style </description>
     </item>

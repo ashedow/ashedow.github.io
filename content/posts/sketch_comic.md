@@ -53,5 +53,5 @@ The main aim was to create a short, monochromatic fragment-strip story, without 
 ### Random sketch comics
 
 {{< gallery >}}
-![](/images/photo_1045@21-02-2023_05-04-15.jpg)
+<img src="/images/photo_1045@21-02-2023_05-04-15.jpg" class="grid-w100 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}

@@ -17,8 +17,8 @@ mainSections = ["posts"]
 
 disableImageOptimization = false
 
-# defaultBackgroundImage = "/img/ocean.jpg"
-# defaultFeaturedImage = "/img/ocean.jpg"
+defaultBackgroundImage = "/images/ocean.jpg"
+defaultFeaturedImage = "/images/ocean.jpg"
 
 highlightCurrentMenuArea = true
 smartTOC = true
@@ -36,13 +36,13 @@ smartTOCHideUnfocusedChildren = true
 
 [homepage]
   layout = "profile" # valid options: page, profile, hero, card, background, custom
-  # homepageImage = "/img/iceland.jpg" # used in: hero, and card
+  homepageImage = "/img/iceland.jpg" # used in: hero, and card
   showRecent = true
-  showRecentItems = 6
+  showRecentItems = 9
   showMoreLink = true
-  showMoreLinkDest = "/posts"
+  showMoreLinkDest = "posts"
   cardView = true
-  cardViewScreenWidth = false
+  cardViewScreenWidth = true
   layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
@@ -55,7 +55,7 @@ smartTOCHideUnfocusedChildren = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background
   showBreadcrumbs = true
-  showDraftLabel = true
+  showDraftLabel = false
   showEdit = true
   # editURL = "https://github.com/nunocoracao/blowfish/tree/main/exampleSite/content"
   editAppendPath = false

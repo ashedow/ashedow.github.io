@@ -12,12 +12,12 @@
 
 [[main]]
   name = "Posts"
-  pageRef = "ru_posts"
+  pageRef = "RuPosts"
   weight = 10
 
 [[main]]
-  name = "Gallery"
-  pageRef = "gallery"
+  name = "Photos"
+  pageRef = "photos"
   weight = 20
 
 [[main]]
