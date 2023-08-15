@@ -18,6 +18,16 @@ How to communicate and what to pay special attention to when building effective 
 How to ask question and vlidate youself.
 How to set up and achieva a goals.
 How to deal with conflicts.
+How to identify what needs to be accomplished and get it done.
+How toecognize the verbal and behavioral signals of procrastination onset and how to deal with it
+How to motivite youself and how to become more adaptable—and embrace adaptability as an ongoing part of your life.
+How to bounce back from difficult situations, by building your "resiliency threshold."
+How to avoid biases in interactions with others. How to ask questions and analyzing information improve critical thinking.
+How to manage your emotions about work more effectively
+How to keep the conversation flowing by yielding to customers and pacing their words and expressions. How to discover techniques that can help you build rapport in specific situations, including chat interactions, emails, and circumstances in which you need to deliver bad news.
+How to talk to customers (and how not to talk to them!). How to find the right tone and how reading the situation can help you make sense to the customer.
+How to adequately address their issue when your interaction starts off on such a sour note? How to use partnership language to leave people feeling heard and satisfied, and how to properly apologize. 
+How to effectively deal with issues, while maintaining a positive relationship with your customers (and your own sanity). How to identify and resolve larger systemic issues within your company.
 Planning, agendas, presentations, letters, presentations, practical ideas to become a team player, time management tips etc.
 
 These are all great parts of the course. Even if in places it is overly drawn out

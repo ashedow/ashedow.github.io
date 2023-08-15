@@ -4,7 +4,7 @@ date: 2021-11-17
 edited: 2022-09-10
 description: ''
 featured_image: "/images/photo_22@04-11-2021_12-57-50.jpg"
-tags: ["#picture", "#beer", "#fun", "#alcohol"]
+tags: ["#picture", "#beer", "#fun", "#alcohol", "#visualbeereducation"]
 draft: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "CultureWorldMap"
 date: 2023-05-27
-edited: 2023-07-01
+edited: 2023-08-05
 description: ""
 featured_image: "/images/photo_1183@27-05-2023_07-08-01.jpg"
 tags: ["#CuppasCulturalCapers", "#tableau", "#visualization", "#sketch", "#sheets", "#comics", "#random_EU"]
@@ -40,3 +40,9 @@ Cats vs. dogs over the world
 Cats 
 
 ![](/images/photo_1103@17-04-2023_01-44-50.jpg)
+
+## Some more links
+
+[Theory of mind](https://en.wikipedia.org/wiki/Theory_of_mind) project https://www.culturacompass.com/ by https://evilunion.com - Узнайте, на жителя какой страны вы похожи. based on https://www.worldvaluessurvey.org/wvs.jsp 
+
+[Cities and ambitious by Paul Graham](http://www.paulgraham.com/cities.html) and [ru translate](https://ideanomics.ru/articles/923)

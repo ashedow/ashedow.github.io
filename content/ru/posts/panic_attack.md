@@ -3,7 +3,7 @@ title: "Panic attack"
 date: 2023-07-01
 description: ''
 featured_image: ""
-tags: ["#guide", "#panic_attack"]
+tags: ["#guide", "#panic_attack", "#mentalhealth"]
 draft: false
 ---
 
