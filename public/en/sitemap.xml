@@ -9,9 +9,13 @@
     
   
     
+  
+    
+  
+    
       <url>
             <loc>https://ashedow.github.io/</loc>
-            <lastmod>2023-08-05T00:00:00+00:00</lastmod>
+            <lastmod>2023-08-21T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
             <xhtml:link
@@ -29,11 +33,46 @@
   
     
       <url>
-            <loc>https://ashedow.github.io/posts/</loc>
-            <lastmod>2023-08-05T00:00:00+00:00</lastmod>
+            <loc>https://ashedow.github.io/posts/photos/</loc>
+            <lastmod>2023-08-21T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
+    
+  
+    
+      <url>
+            <loc>https://ashedow.github.io/posts/</loc>
+            <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://ashedow.github.io/posts/photos/random_paris/</loc>
+            <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://ashedow.github.io/posts/cube_food/</loc>
+            <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
     
   
     
@@ -43,12 +82,6 @@
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
-    
-  
-    
-  
-    
-  
     
   
     
@@ -157,15 +190,6 @@
     
       <url>
             <loc>https://ashedow.github.io/posts/how_to_usa_visa/</loc>
-            <lastmod>2023-06-23T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/photos/</loc>
             <lastmod>2023-06-23T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
@@ -287,8 +311,6 @@
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
-    
-  
     
   
     
@@ -787,6 +809,15 @@
     
       <url>
             <loc>https://ashedow.github.io/posts/candles/</loc>
+            <lastmod>2021-11-04T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://ashedow.github.io/ru/posts/diplom_meme/</loc>
             <lastmod>2021-11-04T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>

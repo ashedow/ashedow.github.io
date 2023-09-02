@@ -10,9 +10,15 @@ draft: false
 
 *nix beer
 
-![](/images/photo_22@04-11-2021_12-57-50.jpg)
-![](/images/photo_21@04-11-2021_12-57-50.jpg)
-![](/images/photo_23@04-11-2021_12-57-50.jpg)
+
+{{< gallery >}}
+
+<img src="/images/photo_22@04-11-2021_12-57-50.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="/images/photo_21@04-11-2021_12-57-50.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="/images/photo_23@04-11-2021_12-57-50.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+
+{{< /gallery >}}
+
 
 Beer time 
 
