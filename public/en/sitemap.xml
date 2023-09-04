@@ -7,6 +7,14 @@
     
   
     
+  
+    
+  
+    
+  
+    
+  
+    
       <url>
             <loc>https://ashedow.github.io/</loc>
             <lastmod>2023-09-04T00:00:00+00:00</lastmod>
@@ -45,6 +53,13 @@
           </url>
     
   
+    
+      <url>
+            <loc>https://ashedow.github.io/posts/work_song/</loc>
+            <lastmod>2023-09-04T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
     
   
     
@@ -126,8 +141,6 @@
     
   
     
-  
-    
       <url>
             <loc>https://ashedow.github.io/posts/demoscene_and_unperformable_music/</loc>
             <lastmod>2023-07-07T00:00:00+00:00</lastmod>
@@ -176,8 +189,6 @@
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
-    
-  
     
   
     
@@ -837,14 +848,6 @@
       <url>
             <loc>https://ashedow.github.io/ru/posts/nan/</loc>
             <lastmod>2021-11-04T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/work_song/</loc>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
