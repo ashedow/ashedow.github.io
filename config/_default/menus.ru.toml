@@ -47,7 +47,7 @@
 [[main]]
   identifier = "github"
   pre = "github"
-  url = "https://github.com/nunocoracao/ashedow"
+  url = "https://github.com/ashedow"
   weight = 500
 
 
