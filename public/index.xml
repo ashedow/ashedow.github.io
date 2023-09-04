@@ -6,7 +6,19 @@
     <description>Recent content on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Visualization for dummies ... from dummies</title>
+      <link>https://ashedow.github.io/posts/viz_talk/</link>
+      <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashedow.github.io/posts/viz_talk/</guid>
+      <description>Visualization for dummies &amp;hellip; from dummies # This is my talk from 2022 about visualisations
+pdf
+Notebook</description>
+      
+    </item>
+    
     <item>
       <title>Random Paris</title>
       <link>https://ashedow.github.io/posts/photos/random_paris/</link>
@@ -187,10 +199,10 @@ The phishing attack in the article doesn&amp;rsquo;t seem too dangerous. BUT! Th
     
     <item>
       <title>Experiments in music</title>
-      <link>https://ashedow.github.io/posts/music_experiments/</link>
+      <link>https://ashedow.github.io/posts/music_chaos_sketch/</link>
       <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ashedow.github.io/posts/music_experiments/</guid>
+      <guid>https://ashedow.github.io/posts/music_chaos_sketch/</guid>
       <description>Experiments in music # Music, in all its forms, is all around us.
 I was interested in combining something completely incongruous.
 And one of the experiments is Chopin + meow noise</description>

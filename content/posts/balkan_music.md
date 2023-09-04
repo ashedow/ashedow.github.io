@@ -26,6 +26,10 @@ Random Balkan music
 [Day on the wheels](https://youtu.be/TJO1sThO5kk)
 {{< youtube TJO1sThO5kk >}}
 
+[](https://youtu.be/RTGYvDYYhKI?si=ksKIAa5LP4_1Fftc)
+{{< youtube RTGYvDYYhKI >}}
+
+
 [Funked up east](https://youtube.com/@mishapanfilov)
 
 [Gypsy techno](https://youtube.com/@gipsytechno)
