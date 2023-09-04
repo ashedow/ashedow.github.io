@@ -750,6 +750,37 @@ whiskeyriversoap.com</description>
     </item>
     
     <item>
+      <title>CI/CD 101 notes</title>
+      <link>https://ashedow.github.io/posts/ci_cd_101/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashedow.github.io/posts/ci_cd_101/</guid>
+      <description>CI/CD # Continuous Integration Continuous Delivery Continuous Deployment Continuous Integration # Check-in code Build Run autontion test Merge code to main branch erly and often. test faaster than 5 mins or t least shorter thn 15 mins</description>
+      
+    </item>
+    
+    <item>
+      <title>Iptables notes</title>
+      <link>https://ashedow.github.io/posts/iptables_notes/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashedow.github.io/posts/iptables_notes/</guid>
+      <description>Iptables # One of the utility firewall developed for Linux systems is iptables.
+How iptables Work # Network traffic is made up of packets. Data is broken up into smaller pieces (called packets), sent over a network, then put back together.</description>
+      
+    </item>
+    
+    <item>
+      <title>more vs less vs most</title>
+      <link>https://ashedow.github.io/posts/more_less_most/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashedow.github.io/posts/more_less_most/</guid>
+      <description>more vs less vs most # There is an old joke consisting of three words: “less is more”. (This is the “pun” referred to by guillermo chamorro&amp;rsquo;s second comment to the question.</description>
+      
+    </item>
+    
+    <item>
       <title>About SSL from 2015</title>
       <link>https://ashedow.github.io/ru/posts/ssl_about_2015/</link>
       <pubDate>Wed, 27 May 2015 00:00:00 +0000</pubDate>

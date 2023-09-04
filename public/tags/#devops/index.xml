@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>#DevOps on Micro blog</title>
+    <link>https://ashedow.github.io/tags/#devops/</link>
+    <description>Recent content in #DevOps on Micro blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 27 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/tags/#devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CI/CD 101 notes</title>
+      <link>https://ashedow.github.io/posts/ci_cd_101/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashedow.github.io/posts/ci_cd_101/</guid>
+      <description>CI/CD # Continuous Integration Continuous Delivery Continuous Deployment Continuous Integration # Check-in code Build Run autontion test Merge code to main branch erly and often. test faaster than 5 mins or t least shorter thn 15 mins</description>
+    </item>
+    
+  </channel>
+</rss>
