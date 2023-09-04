@@ -749,5 +749,26 @@ whiskeyriversoap.com</description>
       
     </item>
     
+    <item>
+      <title>About SSL from 2015</title>
+      <link>https://ashedow.github.io/ru/posts/ssl_about_2015/</link>
+      <pubDate>Wed, 27 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashedow.github.io/ru/posts/ssl_about_2015/</guid>
+      <description>SSL сертификаты (~ 2015 year) # Что это такое, зачем оно нужно, каким бывает, как установить и все все все. # SSL # SSL — это сокращение от Secure Socket Layer — это стандартная интернет технология безопасности, которая используется, чтобы обеспечить зашифрованное соединение между веб-сервером (сайтом) и браузером (https протокол).</description>
+      
+    </item>
+    
+    <item>
+      <title>sot tool</title>
+      <link>https://ashedow.github.io/ru/posts/sor/</link>
+      <pubDate>Wed, 27 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashedow.github.io/ru/posts/sor/</guid>
+      <description>sor - универсальная утилита для мониторинга процессов в реальном времени # Итак в центре внимания sar - многофункциональная утилита, для полноценного анализа системы. Входит в пакет sysstat.
+sysstat – удобная утилита для измерения и анализа производительности системы.</description>
+      
+    </item>
+    
   </channel>
 </rss>
