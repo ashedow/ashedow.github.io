@@ -13,6 +13,13 @@ This site is kinda result of compilation and reworking of a huge amount of my no
 
 Gallery - mostly about travel photos
 
+Social 
+
+[Github](https://github.com/ashedow)
+[Linkedin](https://www.linkedin.com/in/ashedow/)
+[Telegram channel](https://t.me/random_saved_messages)
+[Mail](ashedow@proton.me)
+
 Top topics:
 
 
