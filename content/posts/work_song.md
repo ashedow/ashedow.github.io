@@ -1,3 +1,13 @@
+---
+title: "Work song"
+date: 2023-09-04
+description: ''
+featured_image: ""
+tags: ["#music", "#history", "#video", "#CuppasCulturalCapers"]
+draft: false
+---
+
+
 # Work song
 
 # shanty, chantey, or chanty
