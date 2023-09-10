@@ -22,6 +22,8 @@ And one of the experiments is Chopin + meow noise
 
 [flack file](/images/files/Chaos_chopinst_meow_noise_v001.flac)
 
+[less noise](/images/files/Chopin_meow_v001.flac)
+
 ***
 
 Choral + DnB

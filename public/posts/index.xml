@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forecast models</title>
+      <link>https://ashedow.github.io/posts/forecast_models/</link>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashedow.github.io/posts/forecast_models/</guid>
+      <description>Weather models # weather model is a special computer program that solves very complex mathematical equations at specific points on the Earth from a specific set of weather data collected by weather stations, radars, satellites, and other weather instruments for the purpose of making a weather forecast.</description>
+    </item>
+    
     <item>
       <title>Visualization for dummies ... from dummies</title>
       <link>https://ashedow.github.io/posts/viz_talk/</link>
@@ -168,6 +177,26 @@ The phishing attack in the article doesn&amp;rsquo;t seem too dangerous. BUT! Th
       <description>Experiments in music # Music, in all its forms, is all around us.
 I was interested in combining something completely incongruous.
 And one of the experiments is Chopin + meow noise</description>
+    </item>
+    
+    <item>
+      <title>Metar. How to read</title>
+      <link>https://ashedow.github.io/posts/metar/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashedow.github.io/posts/metar/</guid>
+      <description>How to read METAR # Here’s what a typical METAR looks like:
+METAR KGGG 1617753Z AUTO 14021G26 3/4SM+ TSRA BR BKN008 OVC012CB 18/17 A2970 RMK PRESFR
+So a typical METAR report contains the following information in sequential order:</description>
+    </item>
+    
+    <item>
+      <title>TAF. How to read</title>
+      <link>https://ashedow.github.io/posts/taf/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashedow.github.io/posts/taf/</guid>
+      <description>How to read TAF # TAF (Terminal Aerodrome Forecast) is a weather forecast at an airport or military base for a specific period (usually 24 hours). TAFs are an educated guess, METARs aren’t.</description>
     </item>
     
     <item>

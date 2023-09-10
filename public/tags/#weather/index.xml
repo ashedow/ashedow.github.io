@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>#weather on Micro blog</title>
+    <link>https://ashedow.github.io/tags/#weather/</link>
+    <description>Recent content in #weather on Micro blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/tags/#weather/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forecast models</title>
+      <link>https://ashedow.github.io/posts/forecast_models/</link>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashedow.github.io/posts/forecast_models/</guid>
+      <description>Weather models # weather model is a special computer program that solves very complex mathematical equations at specific points on the Earth from a specific set of weather data collected by weather stations, radars, satellites, and other weather instruments for the purpose of making a weather forecast.</description>
+    </item>
+    
+    <item>
+      <title>Metar. How to read</title>
+      <link>https://ashedow.github.io/posts/metar/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashedow.github.io/posts/metar/</guid>
+      <description>How to read METAR # Here’s what a typical METAR looks like:
+METAR KGGG 1617753Z AUTO 14021G26 3/4SM+ TSRA BR BKN008 OVC012CB 18/17 A2970 RMK PRESFR
+So a typical METAR report contains the following information in sequential order:</description>
+    </item>
+    
+    <item>
+      <title>TAF. How to read</title>
+      <link>https://ashedow.github.io/posts/taf/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashedow.github.io/posts/taf/</guid>
+      <description>How to read TAF # TAF (Terminal Aerodrome Forecast) is a weather forecast at an airport or military base for a specific period (usually 24 hours). TAFs are an educated guess, METARs aren’t.</description>
+    </item>
+    
+  </channel>
+</rss>
