@@ -1,5 +1,5 @@
 ---
-title: "Forecast models"
+title: "Weather forecast models"
 date: 2023-09-10
 description: ''
 featured_image: ""
