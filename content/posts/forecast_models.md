@@ -264,3 +264,6 @@ Significant weather phenomena.
 
 
 https://windy.app/blog/what-is-a-weather-forecast-model-guide-on-forecast-models-all-around-the-world.html
+https://windy.app/blog/the-collection-of-articles-about-weather-models.html
+https://windy.app/support/windy-app-weather-forecast-models.html
+https://windy.app/news/icon-d2-weather-model-central-europe.html
