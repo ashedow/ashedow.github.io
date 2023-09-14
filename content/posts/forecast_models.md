@@ -9,10 +9,9 @@ draft: false
 
 # Weather models
 
-weather model is a special computer program that solves very complex mathematical equations at specific points on the Earth from a specific set of weather data collected by weather stations, radars, satellites, and other weather instruments for the purpose of making a weather forecast.
+Weather model is a special computer program that solves very complex mathematical equations at specific points on the Earth from a specific set of weather data collected by weather stations, radars, satellites, and other weather instruments for the purpose of making a weather forecast.
 
 ## Main types of weather models
-
 
 [Model comparator](https://weathermodels.com/index.php?r=site%2Fpreview&mode=comparator)
 And [some more](https://weathernerds.org/)
@@ -32,6 +31,12 @@ NWS’s weather and water models:
 Global models produce forecast output for the whole globe, generally extending a week or two into the future. 
 Regional models on the other hand have much higher resolutions, but only cover some part (region) of the globe, and only provide forecasts a couple days out in time. 
 
+In addition, all weather models, one way or another, compete for accuracy — or rather, meteorologists who work with them: they share the results and write scientific articles about it... Europeans are believed to be better at predicting weather in temperate latitudes. Americans are slightly better at predicting weather in tropical latitudes because they have hurricanes, but this is debatable.
+
+Why weather models sometimes give inaccurate weather forecasts?
+
+In short, in general, we just can’t measure the weather absolutely accurately.
+
 ## Global
 
 ### ECMWF (European Centre for medium-range weather forecasts) 
@@ -43,7 +48,6 @@ Resolution: various (14 km)
 * Updates frequency: 2 times/day
 
 The ECMWF is a European global forecast seamless model and it is widely regarded as the best and most reliable model currently in existence. It uses a concept called 4D, which is an assimilation that allows the model to be constantly updated as new satellite or other input data becomes available. It is a well-known fact that the ECMWF was the only model that accurately predicted where Hurricane Sandy was moving. 
-
 
 
 ### GFS (Global Forecast System)
@@ -139,6 +143,14 @@ The HRRR is a NOAA real-time 3-km resolution, hourly updated, cloud-resolving, c
 * Updates frequency: 24 times/day. update intervals 1 hour (3 hours for Alaska)
 * local model for North America
 
+### AROME
+
+AROME is a regional France and the surrounding territories weather model by the Meteo France (French National Meteorological Service). Headquarters: Paris, France.
+
+* Resolution (grid): 1.25 km
+* Depth (period): 1,7 days
+* Step: 1 h
+* Expected update: 5 times a day (every 5 h)
 
 ### ALADIN weather model (Aire Limitée Adaptation dynamique Développement InterNational)
 
@@ -190,6 +202,16 @@ The [RTOFS](https://luckgrib.com/models/rtofs_global/) is a forecasting model of
 [BoM](http://www.bom.gov.au/cyclone/)
 
 
+### OpenWRF
+
+The Open WRF (Open Weather Research and Forecasting) is a regional Mediterranean weather model by the University of Athens and a group of enthusiasts based on the WRF technology. Headquarters: Athens, Greece.
+
+* Resolution (grid): 4 km
+* Depth (period): 2 days
+* Step: 1 h
+* Expected update: 8 times a day (every 3 h)
+
+
 ### Weather services
 
 [ECMWF](https://www.ecmwf.int/) - is the European Centre for Medium-Range Weather Forecasts.
@@ -202,27 +224,36 @@ The [RTOFS](https://luckgrib.com/models/rtofs_global/) is a forecasting model of
 [Meteo pl](https://maps.meteo.pl/) - UM and COAMPS 
 [Finnish Meteorological Institute (FMI)](Ilmailusaa.fi) - ECMWF with local HIRLAM model. Maintained by FMI is the official distribution channel for the aviation weather services in Finland along with AFS. Since the beginning of 2020 the website serves also as a self-briefing system including all weather charts and messages globally required by ICAO and EU regulation.
 [meteo](http://meteo.rlp.cz/) - Air navigation service of the Czech Republic
-
+[buienradar](https://www.buienradar.nl)
 
 ### Sensors and sources
 
 Meteo stations maps
+
 [databasin](https://databasin.org/datasets/15a31dec689b4c958ee491ff30fcce75)
+
 [noaa](https://www.ncdc.noaa.gov/cdo-web/datatools/findstation)
 
 [purpleair](https://www2.purpleair.com/)
+
 [SaveEcoBot](https://www.saveecobot.com/) is an environmental map and chatbot with an independent air quality sensors network run by non-profit organisation SaveDnipro with an aim to defend environmental rights of the people in developing countries.
+
 [Exposure and Dose Rates](https://www.epa.gov/radnet/about-exposure-and-dose-rates) - US Radiation
+
 The EUropean Radiological Data Exchange Platform (EURDEP) - Europe Radiation. [WHO](https://www.who.int/news-room/questions-and-answers/item/radiation-ionizing-radiation)
 
 
 [EUMETSAT](https://www.eumetsat.int/) - European Organisation for the Exploitation of Meteorological Satellites.
+
 [DWD](https://www.dwd.de/) The Deutscher Wetterdienst is a public institution with partial legal capacity under the Federal Ministry for Digital and Transport.
+
 [Open Data Weather](https://www.dwd.de/DE/leistungen/opendata/hilfe.html;jsessionid=D8FF12A48DF4FA8FB55288CA16420FF9.live31081?nn=495490) - Erläuternde Dateien (content in general)
 
 [OpenAQ](https://openaq.org/#/community/projects) is a non-profit organisation that has built the world’s largest open-source air quality data platform aggregating and harmonizing air quality data from reference-grade and low-cost sensor sources. By connecting communities with open data, OpenAQ aims to support the work of scientists, journalists, educators, entrepreneurs, community activists, and other air quality advocates fighting air inequality across the globe.
 
 [WMO](https://public.wmo.int/en) - World Meteorological Organization (WMO)
+
+AVIATION WEATHER CENTER [AWC](https://www.aviationweather.gov/)
 
 storm track forecast are:
 National Oceanic and Atmospheric Administration
@@ -263,7 +294,16 @@ Turbulence in clouds
 Significant weather phenomena.
 
 
+Good collection of topics about weather condition https://windy.app/blog/big-collection-of-articles-about-weather-forecasting.html
+
+ICAO standarts https://www.icao.int/airnavigation/METP/Pages/default_old.aspx
+
+Weather Conditions Worldwide https://www.icao.int/safety/iStars/Pages/Weather-Conditions.aspx
+
 https://windy.app/blog/what-is-a-weather-forecast-model-guide-on-forecast-models-all-around-the-world.html
+
 https://windy.app/blog/the-collection-of-articles-about-weather-models.html
+
 https://windy.app/support/windy-app-weather-forecast-models.html
+
 https://windy.app/news/icon-d2-weather-model-central-europe.html

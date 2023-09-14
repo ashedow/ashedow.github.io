@@ -10,12 +10,14 @@ draft: false
 
 # Work song
 
-# shanty, chantey, or chanty
+## shanty, chantey, or chanty
+
 is a genre of traditional folk song that was once commonly sung as a work song to accompany rhythmical labor aboard large merchant sailing vessels. The term shanty most accurately refers to a specific style of work song belonging to this historical repertoire. However, in recent, popular usage, the scope of its definition is sometimes expanded to admit a wider range of repertoire and characteristics, or to refer to a "maritime work song" in general.
 
 Records of work songs are as old as historical records, and anthropological evidence suggests that most agrarian societies tend to have them.[1] Most modern commentators on work songs have included both songs sung while working as well as songs about work since the two categories are seen as interconnected.[2] Norm Cohen divided collected work songs into domestic, agricultural or pastoral, sea shanties, African-American work songs, songs and chants of direction, and street cries.[3] Ted Gioia further divided agricultural and pastoral songs into hunting, cultivation and herding songs, and highlighted the industrial or proto-industrial songs of cloth workers (see Waulking song), factory workers, seamen, lumberjacks, cowboys and miners. He also added prisoner songs and modern work songs.
 
 ## Books
+
 Cecil Sharps English Folk-Chanteys (1914) was one of the first large collections of shanties made by a non-sailor and according to the methods of folklore. Its title reflects the interests and biases of its author.
 
 https://traditionalshanties.com/ site
@@ -64,7 +66,8 @@ https://soviethistory.msu.edu/1943-2/the-strange-alliance/1943-the-strange-allia
 
 ***
 
-Whomen work song
+Women work song
+
 Waulking songs from Scotland are a traditional genre performed while women communally beat and felted cloth.
 
 Women have only recently joined the workforce in large numbers and most women's work songs have been created within modern genres. Dolly Parton's "Nine to Five" is pop country, Cher's "Working Girl" is also an office work anthem. Donna Summer's "She Works Hard for the Money" is disco/techno and refers to "the oldest profession"
