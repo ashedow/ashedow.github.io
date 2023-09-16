@@ -29,3 +29,7 @@ And one of the experiments is Chopin + meow noise
 Choral + DnB
 
 *Soon*
+
+[Choral + light bit](/images/files/choral-mixed-with-dnb-amen-bit_091623.mp3)
+[Choral + light bit](/images/files/organ-epic-chorale-dnb-agressive-drums-190-bpm_091623.mp3)
+[Epic, noizy](/images/files/organ-viola-cello-epic-chorale-agressive-drums-290-bpm_091623.mp3)
