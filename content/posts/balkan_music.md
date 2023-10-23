@@ -46,4 +46,9 @@ Post punk
 [mirzino jato apsolutno tvoj](https://youtu.be/Y4749BBS4k0)
 {{< youtube Y4749BBS4k0 >}}
 
-Some more bands - Data, Mirzino Jato,Mladen Vojicic,Beograd,Dopuser,Peda Radovic, Biljana Milinkovic Radas,Ksenja,Max Intro.
+[Beograd](https://www.youtube.com/watch?v=6bcKU-ekDtE)
+{{< youtube 6bcKU-ekDtE>}}
+
+[Repetitor](https://www.youtube.com/@rpttrbgd) - pank
+
+Some more bands - Data, Mirzino Jato, Mladen Vojicic, Dopuser, Peda Radovic, Biljana Milinkovic Radas,Ksenja, Max Intro, Goblini, Ritam Nereda, Plejboj, Obojeni Program, Block out, Nikola Vranjkovic.

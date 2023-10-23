@@ -53,6 +53,8 @@ UPD:
 
 Automatic chemical design level 1 refers to a degree of ideation automation in chemical design where the machine generates ideas for molecular structures, while the chemist still provides varying amounts of guidance and retains the responsibility of final selection and assessment of the synthesisability of the molecules.
 
+[Exploiting sand was a mistake or Physics as Information Processing ~ Chris Fields ~ 2023 QIP course](https://www.youtube.com/playlist?list=PLNm0u2n1Iwdq0UnnnnkUr446lUz00x6E7) [link](https://www.activeinference.org/education/Physics-Fields-2023)
+
 [continually updated list of awesome-molecular-generation on GitHub](https://github.com/amorehead/awesome-molecular-generation)
 
 [Notes on end-to-end biology](https://nintil.com/biology-llms)

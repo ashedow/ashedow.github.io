@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> #data on Micro blog</title>
+    <link>https://ashedow.github.io/tags/#data/</link>
+    <description>Recent content in  #data on Micro blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/tags/#data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geodata notes</title>
+      <link>https://ashedow.github.io/posts/geo/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashedow.github.io/posts/geo/</guid>
+      <description>Glossary of geodata # Attributes: the meanings or labels of a data point Coordinate (reference) system (CRS): metadata describing the space in which coordinates exist, e.g. origin, axes, units, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

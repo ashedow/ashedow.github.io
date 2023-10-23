@@ -41,6 +41,10 @@ Cats
 
 ![](/images/photo_1103@17-04-2023_01-44-50.jpg)
 
+![](/images/land-or-blood.jpeg)
+
+![](/images/potential-eu-leaving-names.jpeg)
+
 ## Some more links
 
 [Theory of mind](https://en.wikipedia.org/wiki/Theory_of_mind) project https://www.culturacompass.com/ by https://evilunion.com - Узнайте, на жителя какой страны вы похожи. based on https://www.worldvaluessurvey.org/wvs.jsp 

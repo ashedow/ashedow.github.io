@@ -7,9 +7,13 @@
     
   
     
+  
+    
+  
+    
       <url>
             <loc>https://ashedow.github.io/</loc>
-            <lastmod>2023-09-10T00:00:00+00:00</lastmod>
+            <lastmod>2023-10-21T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
             <xhtml:link
@@ -28,10 +32,64 @@
     
       <url>
             <loc>https://ashedow.github.io/posts/</loc>
-            <lastmod>2023-09-10T00:00:00+00:00</lastmod>
+            <lastmod>2023-10-21T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
+    
+  
+    
+      <url>
+            <loc>https://ashedow.github.io/posts/ss7/</loc>
+            <lastmod>2023-10-21T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://ashedow.github.io/posts/geo/</loc>
+            <lastmod>2023-10-15T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://ashedow.github.io/posts/some_of_unicode_proplems/</loc>
+            <lastmod>2023-10-09T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://ashedow.github.io/posts/heels_types/</loc>
+            <lastmod>2023-10-04T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
     
   
     
@@ -417,16 +475,12 @@
     
   
     
-  
-    
       <url>
             <loc>https://ashedow.github.io/posts/euro/</loc>
             <lastmod>2023-03-04T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
-    
-  
     
   
     
@@ -906,8 +960,6 @@
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
-    
-  
     
   
     

@@ -6,7 +6,48 @@
     <description>Recent content on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SS7 or when scp it is not OpenSSH secure file copy</title>
+      <link>https://ashedow.github.io/posts/ss7/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashedow.github.io/posts/ss7/</guid>
+      <description>SS7 or when scp it is not OpenSSH secure file copy # SS7 - Signaling System 7 is a set of international telecommunication signaling protocols that are used to set up most of the world’s public switched telephone network (PSTN) telephone calls.</description>
+      
+    </item>
+    
+    <item>
+      <title>Geodata notes</title>
+      <link>https://ashedow.github.io/posts/geo/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashedow.github.io/posts/geo/</guid>
+      <description>Glossary of geodata # Attributes: the meanings or labels of a data point Coordinate (reference) system (CRS): metadata describing the space in which coordinates exist, e.g. origin, axes, units, etc.</description>
+      
+    </item>
+    
+    <item>
+      <title>Some of unicode problems</title>
+      <link>https://ashedow.github.io/posts/some_of_unicode_proplems/</link>
+      <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashedow.github.io/posts/some_of_unicode_proplems/</guid>
+      <description>Some of text problems or # A long time ago, I came across a wonderful list of things Falsehoods Programmers Believe and Falsehoods Programmers Believe About Falsehoods Lists
+Now its time to update some knoleage about it</description>
+      
+    </item>
+    
+    <item>
+      <title>Heels and shoes</title>
+      <link>https://ashedow.github.io/posts/heels_types/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashedow.github.io/posts/heels_types/</guid>
+      <description> </description>
+      
+    </item>
+    
     <item>
       <title>Weather forecast models</title>
       <link>https://ashedow.github.io/posts/forecast_models/</link>
