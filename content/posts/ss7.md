@@ -240,6 +240,43 @@ Both PSTN and **Integrated Services Digital Network** (**ISDN**) carry voice ove
 
 ISDNs aren’t used these days. It was one of the first forms of higher-speed internet in the days of dial-up.
 
+### Definitions
+* **AIN** - Advanced Intelligent Network
+* **ANSI** - American National Standards Institute
+* **CAS** - Channel Associated Signaling
+* **CCS** - Common Channel Signaling
+* **CLASS** - Custom Local-Area Signaling Services
+* **DPC** - Destination Point Code is used to identify the message destination (this is key for the routing of the message on the SS7 network)
+* **ETSI** - European Telecommunications Standards Institute
+* **GT** - Global Title used as a directory number used as an alias for a physical network
+* **GTT** - Global Title Translation is the conversion of the GT address into a physical address
+* **ISDN** - Integrated Services Digital Network
+* **ISDN**-PRI - Integrated Services Digital NetworkPrimary Rate Interface
+* **ISUP** - ISDN User Part
+* **ITU** - International Telecommunication Union
+* **ITU-T** - Telecommunication Standardization Sector
+* **Linkset** - Links between two SPs are logically grouped for administrative and load-sharing reasons. A logical group of links between two SP is called a linkset
+* **MFR2** - Multi-frequency R2
+* **MTP** - Message Transfer Part
+* **OPC** - Originating Point Code is used to identify which node originated the message
+* **PC** - Point Code
+* **PCS** - Personal Communications Services
+* **PSTN** - Public Switched Telephone Network
+* **RBS** - Robbed-bit-signaling refers to CAS signaling on a T1
+* **SCP** - Service Control Point
+* **SMS** - Short Message Service
+* **SP** - Signaling Point
+* **SS7** - Signaling System No. 7
+* **SSN** - Subsystem Number
+* **SSP** - Service Switching Point or Signal Switching Point
+* **STP** - Signal Transfer Point
+* **TCAP** - Transaction Capabilities Application Part
+* **T1-PRI** - T-carrier 1-Primary Rate Interface
+* **SCCP** - Signaling Connection Control Part
+ 
+
+### Links
+
 https://www.techtarget.com/
 
 https://www.patton.com/whitepapers/intro-to-ss7-tutorial/ or https://www.patton.com/whitepapers/intro_to_ss7_tutorial.pdf or [pdf](/documents/intro_to_ss7_tutorial.pdf)
