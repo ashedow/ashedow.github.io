@@ -7,7 +7,7 @@ tags: ["#unicode", "#text"]
 draft: false
 ---
 
-# Some of text problems or 
+# Some of text problems or some of falsehoods 
 
 A long time ago, I came across a wonderful list of things [Falsehoods Programmers Believe](https://github.com/kdeldycke/awesome-falsehood) and [Falsehoods Programmers Believe About Falsehoods Lists](https://kevin.deldycke.com/2016/12/falsehoods-programmers-believe-about-falsehoods-lists/)
 
@@ -22,6 +22,8 @@ During my life, text has been a major source of information.
 In my work, I have regularly encountered the nuances of storing textual information, from illegibly written text and messy layout and fonts in a Word document to the processing of streaming data
 
 In 2008, the following story happened [A Cellphone's Missing Dot Kills Two People, Puts Three More in Jail](https://gizmodo.com/a-cellphones-missing-dot-kills-two-people-puts-three-m-382026)
+
+Or how [the Wubi Effect](https://radiolab.org/podcast/wubi-effect) is affecting Chinese language
 
 So there is no doubt about the importance of textual information
 
@@ -42,13 +44,27 @@ UTF-8 is an encoding, a way of turning a sequence of codepoints into bytes. All 
 
 A character is a fairly fuzzy concept. Letters and numbers and punctuation are characters. But so are Braille and frogs and halves of flags. Basically a thing in the Unicode table somewhere.
 
-A glyph is a visual representation of some symbol, provided by a font. It might represent a single character, or it might represent several. Or both!
+Unicode refers to these numbers as code points.
 
-Unicode is divided into seventeen planes, numbered zero through sixteen. Plane 0 is also called the Basic Multilingual Plane, or just BMP, so called because it contains the alphabets of most modern languages. The other planes are much less common and are sometimes informally referred to as the astral planes.
+Since everybody in the world agrees on which numbers correspond to which characters, and we all agree to use Unicode, we can read each other’s texts.
+
+Currently, the largest defined code point is 0x10FFFF. That gives us a space of about 1.1 million code points.
+
+About 170,000, or 15%, are currently defined. An additional 11% are reserved for private use. The rest, about 800,000 code points, are not allocated at the moment. They could become characters in the future.
+
+Here’s roughly how it looks:
+
+![](/images/overview@2x.png)
+
+#### Private Use?
+These are code points reserved for app developers and will never be defined by Unicode itself.
+
+For example, there’s no place for the Apple logo in Unicode, so Apple puts it at U+F8FF which is within the Private Use block. In any other font, it’ll render as missing glyph 􀣺, but in fonts that ship with macOS, you’ll see .
 
 
 
-Principles of the Unicode Standard
+
+### Principles of the Unicode Standard
 
 The Unicode Standard set forth the following fundamental principles:
 * Universal repertoire - Every writing system ever used shall be respected and represented in the standard

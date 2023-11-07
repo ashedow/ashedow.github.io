@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WILMA or how to accommodate passengers on an aeroplane</title>
+      <link>https://ashedow.github.io/posts/wilma/</link>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashedow.github.io/posts/wilma/</guid>
+      <description>WILMA or how to accommodate passengers on an aeroplane # United Airlines plans to improve boarding efficiency by implementing a new process called &amp;ldquo;WILMA&amp;rdquo; (window-middle-aisle). This change is set to begin on October 26, with Group 4 passengers boarding first.</description>
+    </item>
+    
     <item>
       <title>SS7 or when scp it is not OpenSSH secure file copy</title>
       <link>https://ashedow.github.io/posts/ss7/</link>
@@ -31,8 +40,7 @@
       <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://ashedow.github.io/posts/some_of_unicode_proplems/</guid>
-      <description>Some of text problems or # A long time ago, I came across a wonderful list of things Falsehoods Programmers Believe and Falsehoods Programmers Believe About Falsehoods Lists
-Now its time to update some knoleage about it</description>
+      <description>Some of text problems or some of falsehoods # A long time ago, I came across a wonderful list of things Falsehoods Programmers Believe and Falsehoods Programmers Believe About Falsehoods Lists</description>
     </item>
     
     <item>

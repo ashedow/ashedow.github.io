@@ -3,7 +3,7 @@ title: "Avia"
 date: 2021-11-06
 description: ''
 featured_image: ""
-tags: ["#avia", "video"]
+tags: ["#avia", "#video"]
 draft: false
 ---
 
