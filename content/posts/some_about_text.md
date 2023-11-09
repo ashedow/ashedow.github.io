@@ -15,7 +15,7 @@ Now its time to update some knoleage about it
 
 > Text is everything.
 
-![](images/4J7Il0m.png)
+![](/images/4J7Il0m.png)
 
 
 During my life, text has been a major source of information. 
@@ -25,6 +25,9 @@ In 2008, the following story happened [A Cellphone's Missing Dot Kills Two Peopl
 
 Or how [the Wubi Effect](https://radiolab.org/podcast/wubi-effect) is affecting Chinese language
 
+[The Korean Writing System](http://gernot-katzers-spice-pages.com/var/korean_hangul_unicode.html) [PDF](/documents/Korean_Hangul_Syllabary_in_Unicode.pdf)
+
+And character Set Issues by A.J. Flavell ["i18n: HTML Character set issues beyond HTML3.2"](https://web.archive.org/web/20060427130229/ppewww.ph.gla.ac.uk/~flavell/charset/)
 So there is no doubt about the importance of textual information
 
 For example, here are a couple of articles with lists of misconceptions that are true not only for programmers
@@ -83,7 +86,7 @@ The Unicode Standard set forth the following fundamental principles:
 
 
 
-Even email
+## Even email
 
 
 Are you sure that your email validation is right?
@@ -115,7 +118,8 @@ and `Alla.jd.Doe@domain.com` same as `alla.jd.doe@domain.com` and .toLower(Alla.
 
 
 
-twitter
+twitter bulgarian issue
+
 https://x.com/nikitonsky/status/1171115067112398849?s=20
 
 > Text is everything.
@@ -125,7 +129,7 @@ https://x.com/nikitonsky/status/1171115067112398849?s=20
 https://github.com/RoelN/Font-Falsehoods
 
 
-> Case is also a broblem
+## Case is also a broblem
 
 For example there are more than two cases. Unicode actually has three cases. There’s lowercase, and there’s uppercase. And there’s titlecase. 
 
@@ -153,6 +157,13 @@ One-to-many: (ß → SS )
 Contextual: (…Σ ↔ …ς AND …ΣΤ… ↔ …στ… )
 Locale-sensitive: ( I ↔ ı AND İ ↔ i )
 
+
+## Do not forget about text rendering
+
+[Text Rendering Hates You](https://faultlore.com/blah/text-hates-you)
+
+## More Reading
+
 More [Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode)
 
 
@@ -166,7 +177,7 @@ And https://hsivonen.fi/string-length/
 
 [Breaking Our Latin-1 Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/)
 
-# More Reading
+
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets](http://www.joelonsoftware.com/articles/Unicode.html) - By Joel Spolsky
 * [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
 * [The Unicode Consortium's Recommended Reading List](http://www.unicode.org/resources/readinglist.html)
