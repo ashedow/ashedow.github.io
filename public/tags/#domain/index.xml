@@ -6,16 +6,15 @@
     <description>Recent content in #domain on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/tags/#domain/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ashedow.github.io/tags/#domain/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A little about new  .zip domains</title>
       <link>https://ashedow.github.io/posts/google_zip_domain/</link>
       <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/google_zip_domain/</guid>
       <description>A little about new .zip domains # [A little about new [.zip domains by google][https://support.google.com/domains/answer/13384501?hl=en]
 The phishing attack in the article doesn&amp;rsquo;t seem too dangerous. BUT! The top comment in the post on this issue , theoretically half implemented a much more clever and scary attack that horrified me</description>
     </item>
-    
   </channel>
 </rss>

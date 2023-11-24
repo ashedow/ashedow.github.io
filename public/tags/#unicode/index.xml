@@ -6,15 +6,14 @@
     <description>Recent content in #unicode on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/tags/#unicode/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ashedow.github.io/tags/#unicode/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Some of unicode problems</title>
       <link>https://ashedow.github.io/posts/some_about_text/</link>
       <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/some_about_text/</guid>
       <description>Some of text problems or some of falsehoods # A long time ago, I came across a wonderful list of things Falsehoods Programmers Believe and Falsehoods Programmers Believe About Falsehoods Lists</description>
     </item>
-    
   </channel>
 </rss>

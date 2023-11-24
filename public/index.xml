@@ -6,7 +6,17 @@
     <description>Recent content on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vintage colourism from The Public Domain Review</title>
+      <link>https://ashedow.github.io/posts/colour_wheels_charts_tables/</link>
+      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashedow.github.io/posts/colour_wheels_charts_tables/</guid>
+      <description>Vintage colourism from The Public Domain Review # Colour wheels charts and tables through history</description>
+      
+    </item>
+    
     <item>
       <title>WILMA or how to accommodate passengers on an aeroplane</title>
       <link>https://ashedow.github.io/posts/wilma/</link>
@@ -891,6 +901,21 @@ How iptables Work # Network traffic is made up of packets. Data is broken up int
       <guid>https://ashedow.github.io/ru/posts/sor/</guid>
       <description>sor - универсальная утилита для мониторинга процессов в реальном времени # Итак в центре внимания sar - многофункциональная утилита, для полноценного анализа системы. Входит в пакет sysstat.
 sysstat – удобная утилита для измерения и анализа производительности системы.</description>
+      
+    </item>
+    
+    <item>
+      <title>Random Berlin</title>
+      <link>https://ashedow.github.io/posts/importance_of_decision_making/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashedow.github.io/posts/importance_of_decision_making/</guid>
+      <description>Oh fuck! or why decision making is one of the crucial parts of (not only) pilots course
+https://www.aviation101.com/aqpgrassroots
+FAA
+https://www.faa.gov/sites/faa.gov/files/04_phak_ch2.pdf
+EASA
+https://www.easa.europa.eu/sites/default/files/dfu/HE4_Single-Pilot-Decision-Making-v1.pdf</description>
       
     </item>
     

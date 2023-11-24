@@ -25,7 +25,14 @@ In 2008, the following story happened [A Cellphone's Missing Dot Kills Two Peopl
 
 Or how [the Wubi Effect](https://radiolab.org/podcast/wubi-effect) is affecting Chinese language
 
+[Internationalis(z)ing Code - Computerphile](https://youtu.be/0j74jcxSunY) - About the difference in languages according to gender, number and place in a sentence; dates and numbers
+
+
 [The Korean Writing System](http://gernot-katzers-spice-pages.com/var/korean_hangul_unicode.html) [PDF](/documents/Korean_Hangul_Syllabary_in_Unicode.pdf)
+
+
+[Piękna gra typografią i brzmi trochę jakby Czech rapował](https://www.youtube.com/watch?v=T2iISWltdzc) - In 2010, Polish musicians Łona and Webber wrote a short composition and demonstrated how the Polish language sounds without diacritical marks.
+
 
 And character Set Issues by A.J. Flavell ["i18n: HTML Character set issues beyond HTML3.2"](https://web.archive.org/web/20060427130229/ppewww.ph.gla.ac.uk/~flavell/charset/)
 So there is no doubt about the importance of textual information
@@ -60,6 +67,7 @@ Here’s roughly how it looks:
 ![](/images/overview@2x.png)
 
 #### Private Use?
+
 These are code points reserved for app developers and will never be defined by Unicode itself.
 
 For example, there’s no place for the Apple logo in Unicode, so Apple puts it at U+F8FF which is within the Private Use block. In any other font, it’ll render as missing glyph 􀣺, but in fonts that ship with macOS, you’ll see .
@@ -124,7 +132,8 @@ https://x.com/nikitonsky/status/1171115067112398849?s=20
 
 > Text is everything.
 >
-> Fonts is everywhere
+
+## Fonts is everywhere
 
 https://github.com/RoelN/Font-Falsehoods
 
@@ -177,7 +186,6 @@ And https://hsivonen.fi/string-length/
 
 [Breaking Our Latin-1 Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/)
 
-
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets](http://www.joelonsoftware.com/articles/Unicode.html) - By Joel Spolsky
 * [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
 * [The Unicode Consortium's Recommended Reading List](http://www.unicode.org/resources/readinglist.html)
@@ -187,5 +195,3 @@ And https://hsivonen.fi/string-length/
 
 
 [Falsehoods programmers believe about text](https://wiesmann.codiferes.net/wordpress/archives/30296)
-
-[Internationalis(z)ing Code - Computerphile](https://www.youtube.com/watch?v=0j74jcxSunY)

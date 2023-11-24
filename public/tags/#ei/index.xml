@@ -6,15 +6,14 @@
     <description>Recent content in #EI on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/tags/#ei/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ashedow.github.io/tags/#ei/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I would say a few words about communication courses</title>
       <link>https://ashedow.github.io/posts/small_hates/</link>
       <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/small_hates/</guid>
       <description>I would say a few words about communication courses # Techniques to improve the quality and speed of communication. Following anti-fragility principles and being prepared for black swans. How to give and receive high-quality feedback.</description>
     </item>
-    
   </channel>
 </rss>

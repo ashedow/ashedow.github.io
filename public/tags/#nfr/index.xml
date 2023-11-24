@@ -6,16 +6,15 @@
     <description>Recent content in #nfr on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/tags/#nfr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ashedow.github.io/tags/#nfr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>(Non) Functional Requirements</title>
       <link>https://ashedow.github.io/posts/nfr/</link>
       <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/nfr/</guid>
       <description>Functional Requirements and Non-Functional Requirements # The traditional comparison between functional and non-functional requirements is as follows:
 Functional requirements apply to the specific behaviors of a system. Non-functional requirements are measurable criteria that you can use to evaluate the success of an overall system, solution, or product.</description>
     </item>
-    
   </channel>
 </rss>

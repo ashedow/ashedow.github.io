@@ -6,21 +6,19 @@
     <description>Recent content in #fun on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/tags/#fun/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ashedow.github.io/tags/#fun/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trolley problem</title>
       <link>https://ashedow.github.io/posts/trolley_problem/</link>
       <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/trolley_problem/</guid>
       <description>Trolley problem # Small philosophy games https://neal.fun like &amp;ldquo;Absurd trolley problems&amp;rdquo; or &amp;ldquo;Spend Bill Gates&amp;rsquo; Money&amp;rdquo;</description>
     </item>
-    
     <item>
       <title>*nix Beer</title>
       <link>https://ashedow.github.io/posts/beer/</link>
       <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/beer/</guid>
       <description>*nix beer
 Beer time
@@ -29,12 +27,10 @@ Random beer in poland after the war started
 Serbian beer be like
 Beer 101: What is pasteurization? </description>
     </item>
-    
     <item>
       <title>My project</title>
       <link>https://ashedow.github.io/posts/my_project_meme_ddos/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/my_project_meme_ddos/</guid>
       <description>My project
 My second project
@@ -42,34 +38,27 @@ My university
 Finally I deside to stop this filth and dig up the stewardess. My diplom project
 Aircraft crash. An aeroplane crashed on a deserted island.</description>
     </item>
-    
     <item>
       <title>Wonderful candles at a disgusting price</title>
       <link>https://ashedow.github.io/posts/candles/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/candles/</guid>
       <description>Wonderful candles at a disgusting price
 whiskeyriversoap.com</description>
     </item>
-    
     <item>
       <title>Дипломная работа «И так сойдёт»</title>
       <link>https://ashedow.github.io/ru/posts/diplom_meme/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/ru/posts/diplom_meme/</guid>
       <description>Офигенная дипломная работа выпускницы Школы Дизайна НИУ ВШЭ с исследованием русского феномена «И так сойдёт». Рекомендую и по сайту полазить (лучше с десктопа) и саму работу почитать.</description>
     </item>
-    
     <item>
       <title>Типизация стирального порошка</title>
       <link>https://ashedow.github.io/ru/posts/nan/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/ru/posts/nan/</guid>
       <description>Типизация стирального порошка</description>
     </item>
-    
   </channel>
 </rss>

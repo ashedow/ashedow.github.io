@@ -6,105 +6,92 @@
     <description>Recent content in Posts on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ashedow.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vintage colourism from The Public Domain Review</title>
+      <link>https://ashedow.github.io/posts/colour_wheels_charts_tables/</link>
+      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://ashedow.github.io/posts/colour_wheels_charts_tables/</guid>
+      <description>Vintage colourism from The Public Domain Review # Colour wheels charts and tables through history</description>
+    </item>
     <item>
       <title>WILMA or how to accommodate passengers on an aeroplane</title>
       <link>https://ashedow.github.io/posts/wilma/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/wilma/</guid>
       <description>WILMA or how to accommodate passengers on an aeroplane # United Airlines plans to improve boarding efficiency by implementing a new process called &amp;ldquo;WILMA&amp;rdquo; (window-middle-aisle). This change is set to begin on October 26, with Group 4 passengers boarding first.</description>
     </item>
-    
     <item>
       <title>SS7 or when scp it is not OpenSSH secure file copy</title>
       <link>https://ashedow.github.io/posts/ss7/</link>
       <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/ss7/</guid>
       <description>SS7 or when scp it is not OpenSSH secure file copy # SS7 - Signaling System 7 is a set of international telecommunication signaling protocols that are used to set up most of the world’s public switched telephone network (PSTN) telephone calls.</description>
     </item>
-    
     <item>
       <title>Geodata notes</title>
       <link>https://ashedow.github.io/posts/geo/</link>
       <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/geo/</guid>
       <description>Glossary of geodata # Attributes: the meanings or labels of a data point Coordinate (reference) system (CRS): metadata describing the space in which coordinates exist, e.g. origin, axes, units, etc.</description>
     </item>
-    
     <item>
       <title>Some of unicode problems</title>
       <link>https://ashedow.github.io/posts/some_about_text/</link>
       <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/some_about_text/</guid>
       <description>Some of text problems or some of falsehoods # A long time ago, I came across a wonderful list of things Falsehoods Programmers Believe and Falsehoods Programmers Believe About Falsehoods Lists</description>
     </item>
-    
     <item>
       <title>Heels and shoes</title>
       <link>https://ashedow.github.io/posts/heels_types/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/heels_types/</guid>
       <description> </description>
     </item>
-    
     <item>
       <title>Weather forecast models</title>
       <link>https://ashedow.github.io/posts/forecast_models/</link>
       <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/forecast_models/</guid>
       <description>Weather models # Weather model is a special computer program that solves very complex mathematical equations at specific points on the Earth from a specific set of weather data collected by weather stations, radars, satellites, and other weather instruments for the purpose of making a weather forecast.</description>
     </item>
-    
     <item>
       <title>(Non) Functional Requirements</title>
       <link>https://ashedow.github.io/posts/nfr/</link>
       <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/nfr/</guid>
       <description>Functional Requirements and Non-Functional Requirements # The traditional comparison between functional and non-functional requirements is as follows:
 Functional requirements apply to the specific behaviors of a system. Non-functional requirements are measurable criteria that you can use to evaluate the success of an overall system, solution, or product.</description>
     </item>
-    
     <item>
       <title>Visualization for dummies ... from dummies</title>
       <link>https://ashedow.github.io/posts/viz_talk/</link>
       <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/viz_talk/</guid>
       <description>Visualization for dummies &amp;hellip; from dummies # This is my talk from 2022 about visualisations
 pdf
 Notebook</description>
     </item>
-    
     <item>
       <title>Work song</title>
       <link>https://ashedow.github.io/posts/work_song/</link>
       <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/work_song/</guid>
       <description>Work song # shanty, chantey, or chanty # is a genre of traditional folk song that was once commonly sung as a work song to accompany rhythmical labor aboard large merchant sailing vessels.</description>
     </item>
-    
     <item>
       <title>Fortified wine short note</title>
       <link>https://ashedow.github.io/posts/fortified_wine/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/fortified_wine/</guid>
       <description>Fortified wine. Short notes # Fortified wines are fortified by the addition of extra alcohol in the form of brandy or spirits to bring them up to an alcohol content of 18%–20%.</description>
     </item>
-    
     <item>
       <title>The Cube Rule of Food Identification</title>
       <link>https://ashedow.github.io/posts/cube_food/</link>
       <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/cube_food/</guid>
       <description>The Cube Rule of Food Identification # https://cuberule.com/
 ⓪ Salad cube with all six sides empty
@@ -113,279 +100,223 @@ Notebook</description>
 ③ Taco
 ④ Sushi</description>
     </item>
-    
     <item>
       <title>Surprising forms of suicidal thoughts</title>
       <link>https://ashedow.github.io/posts/suicidalthoughts/</link>
       <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/suicidalthoughts/</guid>
       <description>Surprising forms of suicidal thoughts</description>
     </item>
-    
     <item>
       <title>Which professions in the UK are most likely to feel pressure to drink with workmates?</title>
       <link>https://ashedow.github.io/posts/pressure_to_drink_and_bi_tools/</link>
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/pressure_to_drink_and_bi_tools/</guid>
       <description>A few words about viz tools and Which professions in the UK are most likely to feel pressure to drink with workmates?
 I hate f*king ~fairyland~ bi tools (true)
 The more I use visualisation tools, the less convenient they seem to me.</description>
     </item>
-    
     <item>
       <title>I would say a few words about communication courses</title>
       <link>https://ashedow.github.io/posts/small_hates/</link>
       <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/small_hates/</guid>
       <description>I would say a few words about communication courses # Techniques to improve the quality and speed of communication. Following anti-fragility principles and being prepared for black swans. How to give and receive high-quality feedback.</description>
     </item>
-    
     <item>
       <title>Demoscene as UNESCO cultural heritage and unperformable music</title>
       <link>https://ashedow.github.io/posts/demoscene_and_unperformable_music/</link>
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/demoscene_and_unperformable_music/</guid>
       <description>Demoscene accepted as UNESCO cultural heritage in The Netherlands and topic about unperformable music # The Dutch inscription is continuing the success story of the demoscene as first digital culture accepted by the UNESCO.</description>
     </item>
-    
     <item>
       <title>Hamid Naderi Yeganeh. Math art</title>
       <link>https://ashedow.github.io/posts/math_art_hamid_naderi/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/math_art_hamid_naderi/</guid>
       <description>Hamid Naderi Yeganeh Mathematical artist in Qom, Iran. He Create artworks by mathematical formulas.
 About Hamid Naderi Yeganeh
 Twitter
 Inst</description>
     </item>
-    
     <item>
       <title>How to USA visa</title>
       <link>https://ashedow.github.io/posts/how_to_usa_visa/</link>
       <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/how_to_usa_visa/</guid>
       <description>How to USA visa # It should be a new subject how to USA visa</description>
     </item>
-    
     <item>
       <title>Understanding biology</title>
       <link>https://ashedow.github.io/posts/understanding_biology/</link>
       <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/understanding_biology/</guid>
       <description>Understanding biology. Parallels between Biology and other sciences
 Will we ever understand biology like we currently understand physics*? My take is no (and it seems clear) but curious to hear other takes!</description>
     </item>
-    
     <item>
       <title>What do Chinese people REALLY MEAN when they send Emoji?</title>
       <link>https://ashedow.github.io/posts/emoji/</link>
       <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/emoji/</guid>
       <description>What do Chinese people REALLY MEAN when they send Emoji? # Short video on the differences between European and Chinese cultures through the lens of emoji.
 And another one about Chinese language</description>
     </item>
-    
     <item>
       <title>What is Code Napoléon or why Dutch surnames are so strange</title>
       <link>https://ashedow.github.io/posts/what_is_code_napoleon/</link>
       <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/what_is_code_napoleon/</guid>
       <description>What is Code Napoléon or why Dutch surnames are so strange
 In the late 1700s The Netherlands were pretty politically unstable. A lot of people looked at France, and what went on there after the french revolution in 1789.</description>
     </item>
-    
     <item>
       <title>India, Jio, and the Four Internets</title>
       <link>https://ashedow.github.io/posts/four_internets/</link>
       <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/four_internets/</guid>
       <description>India, Jio, and the Four Internets
 and how, exactly, platforms die (seems as story about twitter, next reddit, next sf &amp;hellip;)</description>
     </item>
-    
     <item>
       <title>A little about new  .zip domains</title>
       <link>https://ashedow.github.io/posts/google_zip_domain/</link>
       <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/google_zip_domain/</guid>
       <description>A little about new .zip domains # [A little about new [.zip domains by google][https://support.google.com/domains/answer/13384501?hl=en]
 The phishing attack in the article doesn&amp;rsquo;t seem too dangerous. BUT! The top comment in the post on this issue , theoretically half implemented a much more clever and scary attack that horrified me</description>
     </item>
-    
     <item>
       <title>Experiments in music</title>
       <link>https://ashedow.github.io/posts/music_chaos_sketch/</link>
       <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/music_chaos_sketch/</guid>
       <description>Experiments in music # Music, in all its forms, is all around us.
 I was interested in combining something completely incongruous.
 And one of the experiments is Chopin + meow noise</description>
     </item>
-    
     <item>
       <title>Metar. How to read</title>
       <link>https://ashedow.github.io/posts/metar/</link>
       <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/metar/</guid>
       <description>How to read METAR # Here’s what a typical METAR looks like:
 METAR KGGG 1617753Z AUTO 14021G26 3/4SM+ TSRA BR BKN008 OVC012CB 18/17 A2970 RMK PRESFR
 So a typical METAR report contains the following information in sequential order:</description>
     </item>
-    
     <item>
       <title>TAF. How to read</title>
       <link>https://ashedow.github.io/posts/taf/</link>
       <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/taf/</guid>
       <description>How to read TAF # TAF (Terminal Aerodrome Forecast) is a weather forecast at an airport or military base for a specific period (usually 24 hours). TAFs are an educated guess, METARs aren’t.</description>
     </item>
-    
     <item>
       <title>CultureWorldMap</title>
       <link>https://ashedow.github.io/posts/culturemaps/</link>
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/culturemaps/</guid>
       <description>I hate f*king ~fairyland~ bi tools (lie) # My Tableau CultureWorldMap
 How do Europeans call something that is too far away # Some maps by Yanko Tsvetkov # Yanko Tsvetkov atlasofprejudice.</description>
     </item>
-    
     <item>
       <title>Eight or Nine Wise Words about Letter-Writing, by Lewis Carroll</title>
       <link>https://ashedow.github.io/posts/letter_writing/</link>
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/letter_writing/</guid>
       <description>Eight or Nine Wise Words about Letter-Writing, by Lewis Carroll
 https://www.gutenberg.org/files/38065/38065-h/38065-h.htm</description>
     </item>
-    
     <item>
       <title>Random Balkan music</title>
       <link>https://ashedow.github.io/posts/balkan_music/</link>
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/balkan_music/</guid>
       <description>Random Balkan music
 Kinda quintessence of Serbian „polako” How to survive the zombie apocalypse with rakija No escape A normal day in the balkans Day on the wheels Funked up east</description>
     </item>
-    
     <item>
       <title>St. Patrick&#39;s Day food pairing</title>
       <link>https://ashedow.github.io/posts/st_patrick_food_pairing/</link>
       <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/st_patrick_food_pairing/</guid>
       <description>St Patrick&amp;rsquo;s Day food pairing # Deep fried pickles are a popular snack food that originated in the Southern United States, particularly in the state of Texas. They are typically made by coating dill pickle slices in a batter made from flour, cornmeal, and various spices, and then deep-frying them until they are golden brown and crispy.</description>
     </item>
-    
     <item>
       <title>Trolley problem</title>
       <link>https://ashedow.github.io/posts/trolley_problem/</link>
       <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/trolley_problem/</guid>
       <description>Trolley problem # Small philosophy games https://neal.fun like &amp;ldquo;Absurd trolley problems&amp;rdquo; or &amp;ldquo;Spend Bill Gates&amp;rsquo; Money&amp;rdquo;</description>
     </item>
-    
     <item>
       <title>Euro</title>
       <link>https://ashedow.github.io/posts/euro/</link>
       <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/euro/</guid>
       <description>Euro
 Apart from the story of the euro country and the eurozone and the euro area, the widespread move to online payment and the minimisation of the cache, there are some interesting facts about the euro notes</description>
     </item>
-    
     <item>
       <title>Euro</title>
       <link>https://ashedow.github.io/posts/yayoikusama/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/yayoikusama/</guid>
       <description>Yayoi Kusama
 http://www.yayoi-kusama.jp/
 One of the world&amp;rsquo;s most famous dotty artists
 Story of Yayoi Kusama A track for inspiration </description>
     </item>
-    
     <item>
       <title>How to discover history with Mudlarks?  </title>
       <link>https://ashedow.github.io/posts/mudlarks/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/mudlarks/</guid>
       <description>How to discover history with Mudlarks? https://www.instagram.com/mudlark_mud_god/ http://www.thamesandfield.com/
 https://www.pla.co.uk/Environment/Thames-foreshore-permits</description>
     </item>
-    
     <item>
       <title>Random sketch comics</title>
       <link>https://ashedow.github.io/posts/sketch_comic/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/sketch_comic/</guid>
       <description>Degradation of drawing # How I used to draw comics 8-12 years ago # How I used to draw comics 4-5 years ago # PDF file
 How I used to draw comics 2-3 years ago # Now # The main aim was to create a short, monochromatic fragment-strip story, without text that could be read in any order, and imagine a story based on the reader&amp;rsquo;s mind/personal interpretation.</description>
     </item>
-    
     <item>
       <title>Max Raabe - as german sounds</title>
       <link>https://ashedow.github.io/posts/music_maxraabe/</link>
       <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/music_maxraabe/</guid>
       <description>Max Raabe - as german sounds</description>
     </item>
-    
     <item>
       <title>Music equipments</title>
       <link>https://ashedow.github.io/posts/music_equipments/</link>
       <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/music_equipments/</guid>
       <description>Music equipments # Abacusynth # Plugin: Analogue version: Ore-some Volts synthesizer module # Ore-some Volts synthesizer module that generates random control voltages, gates and triggers from URANIUM ORE by Nervous Squirrel</description>
     </item>
-    
     <item>
       <title>Music pic</title>
       <link>https://ashedow.github.io/posts/music_pic/</link>
       <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/music_pic/</guid>
       <description>Music pic
 Konbini song Konbini song, but in AContrari style </description>
     </item>
-    
     <item>
       <title>Time pic</title>
       <link>https://ashedow.github.io/posts/time_pic/</link>
       <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/time_pic/</guid>
       <description>Time pic</description>
     </item>
-    
     <item>
       <title>*nix Beer</title>
       <link>https://ashedow.github.io/posts/beer/</link>
       <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/beer/</guid>
       <description>*nix beer
 Beer time
@@ -394,53 +325,43 @@ Random beer in poland after the war started
 Serbian beer be like
 Beer 101: What is pasteurization? </description>
     </item>
-    
     <item>
       <title>Avia</title>
       <link>https://ashedow.github.io/posts/aero/</link>
       <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/aero/</guid>
       <description>Someday I will fly there</description>
     </item>
-    
     <item>
       <title>Books</title>
       <link>https://ashedow.github.io/posts/books/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/books/</guid>
       <description>Books
 COVID-19: The Great Reset
 &amp;ldquo;Americanah&amp;rdquo; book
 &amp;ldquo;Americanah&amp;rdquo; by Chimamanda Ngozi Adichie is a highly acclaimed novel that has received widespread recognition for its nuanced and insightful examination of race, identity, and immigration.</description>
     </item>
-    
     <item>
       <title>Films</title>
       <link>https://ashedow.github.io/posts/films/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/films/</guid>
       <description>Campari Red Diaries: Fellini Forfard. Первый фильм Фредерико Феллини, созданный с помощью нейросети
 campari film
 How to define USA production film? The most powerful organization is government or near government office.</description>
     </item>
-    
     <item>
       <title>Random picture sketch</title>
       <link>https://ashedow.github.io/posts/sketch/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/sketch/</guid>
       <description>Random picture sketch</description>
     </item>
-    
     <item>
       <title>My project</title>
       <link>https://ashedow.github.io/posts/my_project_meme_ddos/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/my_project_meme_ddos/</guid>
       <description>My project
 My second project
@@ -448,44 +369,47 @@ My university
 Finally I deside to stop this filth and dig up the stewardess. My diplom project
 Aircraft crash. An aeroplane crashed on a deserted island.</description>
     </item>
-    
     <item>
       <title>Wonderful candles at a disgusting price</title>
       <link>https://ashedow.github.io/posts/candles/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/candles/</guid>
       <description>Wonderful candles at a disgusting price
 whiskeyriversoap.com</description>
     </item>
-    
     <item>
       <title>CI/CD 101 notes</title>
       <link>https://ashedow.github.io/posts/ci_cd_101/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/ci_cd_101/</guid>
       <description>CI/CD # Continuous Integration Continuous Delivery Continuous Deployment Continuous Integration # Check-in code Build Run autontion test Merge code to main branch erly and often. test faaster than 5 mins or t least shorter thn 15 mins</description>
     </item>
-    
     <item>
       <title>Iptables notes</title>
       <link>https://ashedow.github.io/posts/iptables_notes/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/iptables_notes/</guid>
       <description>Iptables # One of the utility firewall developed for Linux systems is iptables.
 How iptables Work # Network traffic is made up of packets. Data is broken up into smaller pieces (called packets), sent over a network, then put back together.</description>
     </item>
-    
     <item>
       <title>more vs less vs most</title>
       <link>https://ashedow.github.io/posts/more_less_most/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/more_less_most/</guid>
       <description>more vs less vs most # There is an old joke consisting of three words: “less is more”. (This is the “pun” referred to by guillermo chamorro&amp;rsquo;s second comment to the question.</description>
     </item>
-    
+    <item>
+      <title>Random Berlin</title>
+      <link>https://ashedow.github.io/posts/importance_of_decision_making/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ashedow.github.io/posts/importance_of_decision_making/</guid>
+      <description>Oh fuck! or why decision making is one of the crucial parts of (not only) pilots course
+https://www.aviation101.com/aqpgrassroots
+FAA
+https://www.faa.gov/sites/faa.gov/files/04_phak_ch2.pdf
+EASA
+https://www.easa.europa.eu/sites/default/files/dfu/HE4_Single-Pilot-Decision-Making-v1.pdf</description>
+    </item>
   </channel>
 </rss>

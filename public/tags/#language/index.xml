@@ -6,16 +6,15 @@
     <description>Recent content in #language on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/tags/#language/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ashedow.github.io/tags/#language/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is Code Napoléon or why Dutch surnames are so strange</title>
       <link>https://ashedow.github.io/posts/what_is_code_napoleon/</link>
       <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://ashedow.github.io/posts/what_is_code_napoleon/</guid>
       <description>What is Code Napoléon or why Dutch surnames are so strange
 In the late 1700s The Netherlands were pretty politically unstable. A lot of people looked at France, and what went on there after the french revolution in 1789.</description>
     </item>
-    
   </channel>
 </rss>
