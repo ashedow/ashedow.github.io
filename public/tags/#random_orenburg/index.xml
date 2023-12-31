@@ -6,14 +6,17 @@
     <description>Recent content in #random_Orenburg on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ashedow.github.io/tags/#random_orenburg/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2023 Ashedow</copyright>
+    <lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/tags/#random_orenburg/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Random Orenburg</title>
       <link>https://ashedow.github.io/posts/photos/random_orenburg/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
       <guid>https://ashedow.github.io/posts/photos/random_orenburg/</guid>
-      <description> Random Orenburg # </description>
+      <description>Random Orenburg # </description>
+      
     </item>
+    
   </channel>
 </rss>

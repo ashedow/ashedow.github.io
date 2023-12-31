@@ -6,14 +6,17 @@
     <description>Recent content in #random_Helsinki on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ashedow.github.io/tags/#random_helsinki/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2023 Ashedow</copyright>
+    <lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/tags/#random_helsinki/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Random Helsinki</title>
       <link>https://ashedow.github.io/posts/photos/random_helsinki/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://ashedow.github.io/posts/photos/random_helsinki/</guid>
       <description>Random Helsinki</description>
+      
     </item>
+    
   </channel>
 </rss>

@@ -1,1059 +1,560 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/</loc>
-            <lastmod>2023-12-31T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-            <xhtml:link
-              rel="alternate"
-              hreflang="ru"
-              href="https://ashedow.github.io/ru/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="https://ashedow.github.io/"
-              />
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/</loc>
-            <lastmod>2023-12-31T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/spiraldynamics/</loc>
-            <lastmod>2023-12-31T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/colour_wheels_charts_tables/</loc>
-            <lastmod>2023-11-22T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/wilma/</loc>
-            <lastmod>2023-11-06T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/ss7/</loc>
-            <lastmod>2023-10-21T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/geo/</loc>
-            <lastmod>2023-10-15T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/some_about_text/</loc>
-            <lastmod>2023-10-09T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/heels_types/</loc>
-            <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/forecast_models/</loc>
-            <lastmod>2023-09-10T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/nfr/</loc>
-            <lastmod>2023-09-06T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/viz_talk/</loc>
-            <lastmod>2023-09-04T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/work_song/</loc>
-            <lastmod>2023-09-04T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/fortified_wine/</loc>
-            <lastmod>2023-09-01T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/photos/</loc>
-            <lastmod>2023-08-21T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/photos/random_paris/</loc>
-            <lastmod>2023-08-21T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/cube_food/</loc>
-            <lastmod>2023-08-21T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/suicidalthoughts/</loc>
-            <lastmod>2023-08-05T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/pressure_to_drink_and_bi_tools/</loc>
-            <lastmod>2023-07-23T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/small_hates/</loc>
-            <lastmod>2023-07-20T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/demoscene_and_unperformable_music/</loc>
-            <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/math_art_hamid_naderi/</loc>
-            <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/ru/posts/panic_attack/</loc>
-            <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/ru/</loc>
-            <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/ru/posts/</loc>
-            <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/how_to_usa_visa/</loc>
-            <lastmod>2023-06-23T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/photos/random_edinburgh/</loc>
-            <lastmod>2023-06-23T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/understanding_biology/</loc>
-            <lastmod>2023-06-23T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/emoji/</loc>
-            <lastmod>2023-06-23T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/about/</loc>
-            <lastmod>2023-06-21T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/what_is_code_napoleon/</loc>
-            <lastmod>2023-06-20T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/four_internets/</loc>
-            <lastmod>2023-06-17T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/google_zip_domain/</loc>
-            <lastmod>2023-06-10T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/music_chaos_sketch/</loc>
-            <lastmod>2023-05-29T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/metar/</loc>
-            <lastmod>2023-05-29T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/taf/</loc>
-            <lastmod>2023-05-29T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/culturemaps/</loc>
-            <lastmod>2023-05-27T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/letter_writing/</loc>
-            <lastmod>2023-05-27T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/balkan_music/</loc>
-            <lastmod>2023-05-27T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/st_patrick_food_pairing/</loc>
-            <lastmod>2023-04-18T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/trolley_problem/</loc>
-            <lastmod>2023-04-18T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/euro/</loc>
-            <lastmod>2023-03-04T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/yayoikusama/</loc>
-            <lastmod>2023-02-21T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/mudlarks/</loc>
-            <lastmod>2023-02-21T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/sketch_comic/</loc>
-            <lastmod>2023-02-21T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/music_maxraabe/</loc>
-            <lastmod>2022-08-05T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/photos/random_poland/</loc>
-            <lastmod>2022-08-02T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/photos/random_orenburg/</loc>
-            <lastmod>2022-06-30T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/photos/random_vilnius/</loc>
-            <lastmod>2022-06-30T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/photos/random_warszawa/</loc>
-            <lastmod>2022-06-30T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/photos/random_venice/</loc>
-            <lastmod>2022-06-11T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/ru/posts/wiedzmin/</loc>
-            <lastmod>2022-02-13T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/music_equipments/</loc>
-            <lastmod>2021-12-17T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/music_pic/</loc>
-            <lastmod>2021-12-17T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/time_pic/</loc>
-            <lastmod>2021-12-17T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/beer/</loc>
-            <lastmod>2021-11-17T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/photos/random_krakow/</loc>
-            <lastmod>2021-11-10T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/aero/</loc>
-            <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/books/</loc>
-            <lastmod>2021-11-05T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/films/</loc>
-            <lastmod>2021-11-05T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/photos/random_amsterdam/</loc>
-            <lastmod>2021-11-05T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/photos/random_berlin/</loc>
-            <lastmod>2021-11-05T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/photos/random_brugge/</loc>
-            <lastmod>2021-11-05T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/photos/random_brussels/</loc>
-            <lastmod>2021-11-05T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/photos/random_ekb/</loc>
-            <lastmod>2021-11-05T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/photos/random_helsinki/</loc>
-            <lastmod>2021-11-05T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/photos/random_india/</loc>
-            <lastmod>2021-11-05T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/photos/random_jp/</loc>
-            <lastmod>2021-11-05T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/photos/random_kazan/</loc>
-            <lastmod>2021-11-05T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/photos/random_kislovodsk/</loc>
-            <lastmod>2021-11-05T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/photos/random_lappeenranta/</loc>
-            <lastmod>2021-11-05T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/photos/random_minsk/</loc>
-            <lastmod>2021-11-05T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/photos/random_moscow/</loc>
-            <lastmod>2021-11-05T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/photos/random_nizhnynovgorod/</loc>
-            <lastmod>2021-11-05T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/sketch/</loc>
-            <lastmod>2021-11-05T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/photos/random_prague/</loc>
-            <lastmod>2021-11-05T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/photos/random_ru/</loc>
-            <lastmod>2021-11-05T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/photos/random_spb/</loc>
-            <lastmod>2021-11-05T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/photos/random_tallin/</loc>
-            <lastmod>2021-11-05T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/photos/random_tula/</loc>
-            <lastmod>2021-11-05T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/ru/posts/love_and_car/</loc>
-            <lastmod>2021-11-04T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/my_project_meme_ddos/</loc>
-            <lastmod>2021-11-04T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/candles/</loc>
-            <lastmod>2021-11-04T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/ru/posts/diplom_meme/</loc>
-            <lastmod>2021-11-04T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/ru/posts/nan/</loc>
-            <lastmod>2021-11-04T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/ci_cd_101/</loc>
-            <lastmod>2019-05-27T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/iptables_notes/</loc>
-            <lastmod>2019-05-27T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/more_less_most/</loc>
-            <lastmod>2019-05-27T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/ru/posts/ssl_about_2015/</loc>
-            <lastmod>2015-05-27T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/ru/posts/sor/</loc>
-            <lastmod>2015-05-27T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ashedow.github.io/posts/importance_of_decision_making/</loc>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
+
+  <url>
+    <loc>https://ashedow.github.io/</loc>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://ashedow.github.io/ru/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ashedow.github.io/"
+    />
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/</loc>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/spiraldynamics/</loc>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/colour_wheels_charts_tables/</loc>
+    <lastmod>2023-11-22T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/wilma/</loc>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/ss7/</loc>
+    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/geo/</loc>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/some_about_text/</loc>
+    <lastmod>2023-10-09T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/heels_types/</loc>
+    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/forecast_models/</loc>
+    <lastmod>2023-09-10T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/nfr/</loc>
+    <lastmod>2023-09-06T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/viz_talk/</loc>
+    <lastmod>2023-09-04T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/work_song/</loc>
+    <lastmod>2023-09-04T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/fortified_wine/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/photos/</loc>
+    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/photos/random_paris/</loc>
+    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/cube_food/</loc>
+    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/suicidalthoughts/</loc>
+    <lastmod>2023-08-05T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/pressure_to_drink_and_bi_tools/</loc>
+    <lastmod>2023-07-23T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/small_hates/</loc>
+    <lastmod>2023-07-20T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/demoscene_and_unperformable_music/</loc>
+    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/math_art_hamid_naderi/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/ru/posts/panic_attack/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/ru/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/ru/posts/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/how_to_usa_visa/</loc>
+    <lastmod>2023-06-23T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/photos/random_edinburgh/</loc>
+    <lastmod>2023-06-23T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/understanding_biology/</loc>
+    <lastmod>2023-06-23T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/emoji/</loc>
+    <lastmod>2023-06-23T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/about/</loc>
+    <lastmod>2023-06-21T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/what_is_code_napoleon/</loc>
+    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/four_internets/</loc>
+    <lastmod>2023-06-17T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/google_zip_domain/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/music_chaos_sketch/</loc>
+    <lastmod>2023-05-29T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/metar/</loc>
+    <lastmod>2023-05-29T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/taf/</loc>
+    <lastmod>2023-05-29T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/culturemaps/</loc>
+    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/letter_writing/</loc>
+    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/balkan_music/</loc>
+    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/st_patrick_food_pairing/</loc>
+    <lastmod>2023-04-18T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/trolley_problem/</loc>
+    <lastmod>2023-04-18T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/euro/</loc>
+    <lastmod>2023-03-04T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/yayoikusama/</loc>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/mudlarks/</loc>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/sketch_comic/</loc>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/music_maxraabe/</loc>
+    <lastmod>2022-08-05T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/photos/random_poland/</loc>
+    <lastmod>2022-08-02T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/photos/random_orenburg/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/photos/random_vilnius/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/photos/random_warszawa/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/photos/random_venice/</loc>
+    <lastmod>2022-06-11T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/ru/posts/wiedzmin/</loc>
+    <lastmod>2022-02-13T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/music_equipments/</loc>
+    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/music_pic/</loc>
+    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/time_pic/</loc>
+    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/beer/</loc>
+    <lastmod>2021-11-17T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/photos/random_krakow/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/aero/</loc>
+    <lastmod>2021-11-06T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/books/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/films/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/photos/random_amsterdam/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/photos/random_berlin/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/photos/random_brugge/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/photos/random_brussels/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/photos/random_ekb/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/photos/random_helsinki/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/photos/random_india/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/photos/random_jp/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/photos/random_kazan/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/photos/random_kislovodsk/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/photos/random_lappeenranta/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/photos/random_minsk/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/photos/random_moscow/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/photos/random_nizhnynovgorod/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/sketch/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/photos/random_prague/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/photos/random_ru/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/photos/random_spb/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/photos/random_tallin/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/photos/random_tula/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/ru/posts/love_and_car/</loc>
+    <lastmod>2021-11-04T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/my_project_meme_ddos/</loc>
+    <lastmod>2021-11-04T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/candles/</loc>
+    <lastmod>2021-11-04T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/ru/posts/diplom_meme/</loc>
+    <lastmod>2021-11-04T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/ru/posts/nan/</loc>
+    <lastmod>2021-11-04T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/ci_cd_101/</loc>
+    <lastmod>2019-05-27T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/iptables_notes/</loc>
+    <lastmod>2019-05-27T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/more_less_most/</loc>
+    <lastmod>2019-05-27T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/ru/posts/ssl_about_2015/</loc>
+    <lastmod>2015-05-27T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/ru/posts/sor/</loc>
+    <lastmod>2015-05-27T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ashedow.github.io/posts/importance_of_decision_making/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>

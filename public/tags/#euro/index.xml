@@ -6,14 +6,18 @@
     <description>Recent content in #euro on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Mar 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ashedow.github.io/tags/#euro/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2023 Ashedow</copyright>
+    <lastBuildDate>Sat, 04 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/tags/#euro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Euro</title>
       <link>https://ashedow.github.io/posts/euro/</link>
       <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
       <guid>https://ashedow.github.io/posts/euro/</guid>
-      <description>Euro&#xA;Apart from the story of the euro country and the eurozone and the euro area, the widespread move to online payment and the minimisation of the cache, there are some interesting facts about the euro notes</description>
+      <description>Euro
+Apart from the story of the euro country and the eurozone and the euro area, the widespread move to online payment and the minimisation of the cache, there are some interesting facts about the euro notes</description>
+      
     </item>
+    
   </channel>
 </rss>

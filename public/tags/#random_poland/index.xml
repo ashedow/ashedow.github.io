@@ -6,28 +6,39 @@
     <description>Recent content in #random_Poland on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ashedow.github.io/tags/#random_poland/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2023 Ashedow</copyright>
+    <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/tags/#random_poland/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Random Poland</title>
       <link>https://ashedow.github.io/posts/photos/random_poland/</link>
       <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
       <guid>https://ashedow.github.io/posts/photos/random_poland/</guid>
       <description>Random Poland # By kwartalnikprzekroj inst</description>
+      
     </item>
+    
     <item>
       <title>Ведьмаку заплатите ...</title>
       <link>https://ashedow.github.io/ru/posts/wiedzmin/</link>
       <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
+      
       <guid>https://ashedow.github.io/ru/posts/wiedzmin/</guid>
       <description>Ведьмаку заплатите хоть парочкой злотых, Хоть парочкой злотых ведьмаку заплатите</description>
+      
     </item>
+    
     <item>
       <title>Films</title>
       <link>https://ashedow.github.io/posts/films/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://ashedow.github.io/posts/films/</guid>
-      <description>Campari Red Diaries: Fellini Forfard. Первый фильм Фредерико Феллини, созданный с помощью нейросети&#xA;campari film&#xA;How to define USA production film? The most powerful organization is government or near government office.</description>
+      <description>Campari Red Diaries: Fellini Forfard. Первый фильм Фредерико Феллини, созданный с помощью нейросети
+campari film
+How to define USA production film? The most powerful organization is government or near government office.</description>
+      
     </item>
+    
   </channel>
 </rss>

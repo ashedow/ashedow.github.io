@@ -6,6 +6,7 @@
     <description>Recent content in Categories on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <copyright>© 2023 Ashedow</copyright>
     <atom:link href="https://ashedow.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

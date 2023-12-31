@@ -6,28 +6,38 @@
     <description>Recent content in #note on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Oct 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ashedow.github.io/tags/#note/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2023 Ashedow</copyright>
+    <lastBuildDate>Sun, 15 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/tags/#note/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Geodata notes</title>
       <link>https://ashedow.github.io/posts/geo/</link>
       <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      
       <guid>https://ashedow.github.io/posts/geo/</guid>
-      <description>Glossary of geodata # Attributes: the meanings or labels of a data point Coordinate (reference) system (CRS): metadata describing the space in which coordinates exist, e.g. origin, axes, units, etc.</description>
+      <description>Glossary of geodata # Attributes: the meanings or labels of a data point Coordinate (reference) system (CRS): metadata describing the space in which coordinates exist, e.g. origin, axes, units, etc. Coordinates: numbers describing a data point&amp;rsquo;s position within a CRS.</description>
+      
     </item>
+    
     <item>
       <title>Iptables notes</title>
       <link>https://ashedow.github.io/posts/iptables_notes/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
       <guid>https://ashedow.github.io/posts/iptables_notes/</guid>
-      <description>Iptables # One of the utility firewall developed for Linux systems is iptables.&#xA;How iptables Work # Network traffic is made up of packets. Data is broken up into smaller pieces (called packets), sent over a network, then put back together.</description>
+      <description>Iptables # One of the utility firewall developed for Linux systems is iptables.
+How iptables Work # Network traffic is made up of packets. Data is broken up into smaller pieces (called packets), sent over a network, then put back together.</description>
+      
     </item>
+    
     <item>
       <title>more vs less vs most</title>
       <link>https://ashedow.github.io/posts/more_less_most/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
       <guid>https://ashedow.github.io/posts/more_less_most/</guid>
       <description>more vs less vs most # There is an old joke consisting of three words: “less is more”. (This is the “pun” referred to by guillermo chamorro&amp;rsquo;s second comment to the question.</description>
+      
     </item>
+    
   </channel>
 </rss>

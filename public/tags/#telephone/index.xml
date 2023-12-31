@@ -6,14 +6,17 @@
     <description>Recent content in #telephone on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Oct 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ashedow.github.io/tags/#telephone/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2023 Ashedow</copyright>
+    <lastBuildDate>Sat, 21 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/tags/#telephone/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SS7 or when scp it is not OpenSSH secure file copy</title>
       <link>https://ashedow.github.io/posts/ss7/</link>
       <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      
       <guid>https://ashedow.github.io/posts/ss7/</guid>
       <description>SS7 or when scp it is not OpenSSH secure file copy # SS7 - Signaling System 7 is a set of international telecommunication signaling protocols that are used to set up most of the world’s public switched telephone network (PSTN) telephone calls.</description>
+      
     </item>
+    
   </channel>
 </rss>

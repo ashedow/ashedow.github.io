@@ -6,14 +6,22 @@
     <description>Recent content in #visualbeereducation on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Nov 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ashedow.github.io/tags/#visualbeereducation/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2023 Ashedow</copyright>
+    <lastBuildDate>Wed, 17 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/tags/#visualbeereducation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>*nix Beer</title>
       <link>https://ashedow.github.io/posts/beer/</link>
       <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://ashedow.github.io/posts/beer/</guid>
-      <description>*nix beer&#xA;Beer time&#xA;Polish beer Browar zakładowy&#xA;Random beer in poland after the war started&#xA;Serbian beer be like&#xA;Beer 101: What is pasteurization? </description>
+      <description>*nix beer
+Beer time
+Polish beer Browar zakładowy
+Random beer in poland after the war started
+Serbian beer be like
+Beer 101: What is pasteurization? </description>
+      
     </item>
+    
   </channel>
 </rss>

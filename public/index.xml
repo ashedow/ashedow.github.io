@@ -6,6 +6,7 @@
     <description>Recent content on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <copyright>© 2023 Ashedow</copyright>
     <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spiral Dynamics</title>
@@ -55,7 +56,7 @@ https://www.researchgate.net/publication/312033145_A_Brief_History_of_Spiral_Dyn
       <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://ashedow.github.io/posts/geo/</guid>
-      <description>Glossary of geodata # Attributes: the meanings or labels of a data point Coordinate (reference) system (CRS): metadata describing the space in which coordinates exist, e.g. origin, axes, units, etc.</description>
+      <description>Glossary of geodata # Attributes: the meanings or labels of a data point Coordinate (reference) system (CRS): metadata describing the space in which coordinates exist, e.g. origin, axes, units, etc. Coordinates: numbers describing a data point&amp;rsquo;s position within a CRS.</description>
       
     </item>
     
@@ -153,7 +154,8 @@ Notebook</description>
 ① Toast cube with bottom face solid
 ② Sandwich
 ③ Taco
-④ Sushi</description>
+④ Sushi
+⑤ Quiche</description>
       
     </item>
     
@@ -241,7 +243,8 @@ Guide по ПА (нас попросили - мы написали)
       <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://ashedow.github.io/posts/photos/random_edinburgh/</guid>
-      <description>Random Edinburgh # Edinburgh is the United Kingdom. Simply because there are huge, several hectares of parks in the city centre that are closed to residents and tourists alike.</description>
+      <description>Random Edinburgh # Edinburgh is the United Kingdom. Simply because there are huge, several hectares of parks in the city centre that are closed to residents and tourists alike.
+And you should never ask why they are closed.</description>
       
     </item>
     
@@ -469,7 +472,7 @@ How I used to draw comics 2-3 years ago # Now # The main aim was to create a sho
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ashedow.github.io/posts/photos/random_orenburg/</guid>
-      <description> Random Orenburg # </description>
+      <description>Random Orenburg # </description>
       
     </item>
     
@@ -479,7 +482,7 @@ How I used to draw comics 2-3 years ago # Now # The main aim was to create a sho
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ashedow.github.io/posts/photos/random_vilnius/</guid>
-      <description> Random Vilnius # </description>
+      <description>Random Vilnius # </description>
       
     </item>
     
@@ -612,7 +615,7 @@ How to define USA production film? The most powerful organization is government 
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ashedow.github.io/posts/photos/random_amsterdam/</guid>
-      <description> Random Amsterdam # </description>
+      <description>Random Amsterdam # </description>
       
     </item>
     
@@ -622,7 +625,7 @@ How to define USA production film? The most powerful organization is government 
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ashedow.github.io/posts/photos/random_berlin/</guid>
-      <description> Random Berlin # </description>
+      <description>Random Berlin # </description>
       
     </item>
     
@@ -632,7 +635,7 @@ How to define USA production film? The most powerful organization is government 
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ashedow.github.io/posts/photos/random_brugge/</guid>
-      <description> Random Brugge # </description>
+      <description>Random Brugge # </description>
       
     </item>
     
@@ -642,7 +645,7 @@ How to define USA production film? The most powerful organization is government 
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ashedow.github.io/posts/photos/random_brussels/</guid>
-      <description> Random Brussels # </description>
+      <description>Random Brussels # </description>
       
     </item>
     
@@ -652,7 +655,7 @@ How to define USA production film? The most powerful organization is government 
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ashedow.github.io/posts/photos/random_ekb/</guid>
-      <description> Random Ekb # </description>
+      <description>Random Ekb # </description>
       
     </item>
     
@@ -672,7 +675,7 @@ How to define USA production film? The most powerful organization is government 
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ashedow.github.io/posts/photos/random_india/</guid>
-      <description> Random India # </description>
+      <description>Random India # </description>
       
     </item>
     
@@ -704,7 +707,7 @@ https://twitter.com/ceramimic2021/status/1586513709379497987</description>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ashedow.github.io/posts/photos/random_kislovodsk/</guid>
-      <description> Random Kislovodsk # </description>
+      <description>Random Kislovodsk # </description>
       
     </item>
     
@@ -734,7 +737,7 @@ https://twitter.com/ceramimic2021/status/1586513709379497987</description>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ashedow.github.io/posts/photos/random_moscow/</guid>
-      <description> Random Moscow # </description>
+      <description>Random Moscow # </description>
       
     </item>
     
@@ -764,7 +767,7 @@ https://twitter.com/ceramimic2021/status/1586513709379497987</description>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ashedow.github.io/posts/photos/random_prague/</guid>
-      <description> Random Prague # </description>
+      <description>Random Prague # </description>
       
     </item>
     
@@ -785,7 +788,7 @@ Sems like Saratov?</description>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ashedow.github.io/posts/photos/random_spb/</guid>
-      <description> Random SPb # </description>
+      <description>Random SPb # </description>
       
     </item>
     
@@ -795,7 +798,7 @@ Sems like Saratov?</description>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ashedow.github.io/posts/photos/random_tallin/</guid>
-      <description> Random Tallin # </description>
+      <description>Random Tallin # </description>
       
     </item>
     
@@ -805,7 +808,7 @@ Sems like Saratov?</description>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ashedow.github.io/posts/photos/random_tula/</guid>
-      <description> Random Tula # </description>
+      <description>Random Tula # </description>
       
     </item>
     

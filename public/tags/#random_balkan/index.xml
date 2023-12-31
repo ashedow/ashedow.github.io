@@ -6,14 +6,18 @@
     <description>Recent content in #random_Balkan on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 27 May 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ashedow.github.io/tags/#random_balkan/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2023 Ashedow</copyright>
+    <lastBuildDate>Sat, 27 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/tags/#random_balkan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Random Balkan music</title>
       <link>https://ashedow.github.io/posts/balkan_music/</link>
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      
       <guid>https://ashedow.github.io/posts/balkan_music/</guid>
-      <description>Random Balkan music&#xA;Kinda quintessence of Serbian „polako” How to survive the zombie apocalypse with rakija No escape A normal day in the balkans Day on the wheels Funked up east</description>
+      <description>Random Balkan music
+Kinda quintessence of Serbian „polako” How to survive the zombie apocalypse with rakija No escape A normal day in the balkans Day on the wheels Funked up east</description>
+      
     </item>
+    
   </channel>
 </rss>

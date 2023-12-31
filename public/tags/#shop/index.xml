@@ -6,14 +6,18 @@
     <description>Recent content in #shop on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Nov 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ashedow.github.io/tags/#shop/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2023 Ashedow</copyright>
+    <lastBuildDate>Thu, 04 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/tags/#shop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wonderful candles at a disgusting price</title>
       <link>https://ashedow.github.io/posts/candles/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://ashedow.github.io/posts/candles/</guid>
-      <description>Wonderful candles at a disgusting price&#xA;whiskeyriversoap.com</description>
+      <description>Wonderful candles at a disgusting price
+whiskeyriversoap.com</description>
+      
     </item>
+    
   </channel>
 </rss>

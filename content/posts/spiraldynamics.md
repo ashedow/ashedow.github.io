@@ -14,4 +14,3 @@ https://www.smartliving365.com/how-spiral-dynamics-helps-to-explain-why-its-hard
 https://www.landsiedel.com/en/nlp-library/spiral-dynamics.html
 
 https://www.researchgate.net/publication/312033145_A_Brief_History_of_Spiral_Dynamics [PDF](/documents/butters-spiraldynamics.pdf)
-

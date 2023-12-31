@@ -6,56 +6,87 @@
     <description>Recent content in #picture on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Dec 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ashedow.github.io/tags/#picture/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2023 Ashedow</copyright>
+    <lastBuildDate>Fri, 17 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/tags/#picture/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Music pic</title>
       <link>https://ashedow.github.io/posts/music_pic/</link>
       <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://ashedow.github.io/posts/music_pic/</guid>
-      <description>Music pic&#xA;Konbini song Konbini song, but in AContrari style </description>
+      <description>Music pic
+Konbini song Konbini song, but in AContrari style </description>
+      
     </item>
+    
     <item>
       <title>Time pic</title>
       <link>https://ashedow.github.io/posts/time_pic/</link>
       <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://ashedow.github.io/posts/time_pic/</guid>
       <description>Time pic</description>
+      
     </item>
+    
     <item>
       <title>*nix Beer</title>
       <link>https://ashedow.github.io/posts/beer/</link>
       <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://ashedow.github.io/posts/beer/</guid>
-      <description>*nix beer&#xA;Beer time&#xA;Polish beer Browar zakładowy&#xA;Random beer in poland after the war started&#xA;Serbian beer be like&#xA;Beer 101: What is pasteurization? </description>
+      <description>*nix beer
+Beer time
+Polish beer Browar zakładowy
+Random beer in poland after the war started
+Serbian beer be like
+Beer 101: What is pasteurization? </description>
+      
     </item>
+    
     <item>
       <title>Random picture sketch</title>
       <link>https://ashedow.github.io/posts/sketch/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://ashedow.github.io/posts/sketch/</guid>
       <description>Random picture sketch</description>
+      
     </item>
+    
     <item>
       <title>My project</title>
       <link>https://ashedow.github.io/posts/my_project_meme_ddos/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://ashedow.github.io/posts/my_project_meme_ddos/</guid>
-      <description>My project&#xA;My second project&#xA;My university&#xA;Finally I deside to stop this filth and dig up the stewardess. My diplom project&#xA;Aircraft crash. An aeroplane crashed on a deserted island.</description>
+      <description>My project
+My second project
+My university
+Finally I deside to stop this filth and dig up the stewardess. My diplom project
+Aircraft crash. An aeroplane crashed on a deserted island.</description>
+      
     </item>
+    
     <item>
       <title>Дипломная работа «И так сойдёт»</title>
       <link>https://ashedow.github.io/ru/posts/diplom_meme/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://ashedow.github.io/ru/posts/diplom_meme/</guid>
       <description>Офигенная дипломная работа выпускницы Школы Дизайна НИУ ВШЭ с исследованием русского феномена «И так сойдёт». Рекомендую и по сайту полазить (лучше с десктопа) и саму работу почитать.</description>
+      
     </item>
+    
     <item>
       <title>Типизация стирального порошка</title>
       <link>https://ashedow.github.io/ru/posts/nan/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://ashedow.github.io/ru/posts/nan/</guid>
       <description>Типизация стирального порошка</description>
+      
     </item>
+    
   </channel>
 </rss>

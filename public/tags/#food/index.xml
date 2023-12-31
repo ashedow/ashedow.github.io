@@ -6,21 +6,33 @@
     <description>Recent content in #food on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Aug 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ashedow.github.io/tags/#food/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2023 Ashedow</copyright>
+    <lastBuildDate>Mon, 21 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/tags/#food/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Cube Rule of Food Identification</title>
       <link>https://ashedow.github.io/posts/cube_food/</link>
       <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      
       <guid>https://ashedow.github.io/posts/cube_food/</guid>
-      <description>The Cube Rule of Food Identification # https://cuberule.com/&#xA;⓪ Salad cube with all six sides empty&#xA;① Toast cube with bottom face solid&#xA;② Sandwich&#xA;③ Taco&#xA;④ Sushi</description>
+      <description>The Cube Rule of Food Identification # https://cuberule.com/
+⓪ Salad cube with all six sides empty
+① Toast cube with bottom face solid
+② Sandwich
+③ Taco
+④ Sushi
+⑤ Quiche</description>
+      
     </item>
+    
     <item>
       <title>St. Patrick&#39;s Day food pairing</title>
       <link>https://ashedow.github.io/posts/st_patrick_food_pairing/</link>
       <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      
       <guid>https://ashedow.github.io/posts/st_patrick_food_pairing/</guid>
       <description>St Patrick&amp;rsquo;s Day food pairing # Deep fried pickles are a popular snack food that originated in the Southern United States, particularly in the state of Texas. They are typically made by coating dill pickle slices in a batter made from flour, cornmeal, and various spices, and then deep-frying them until they are golden brown and crispy.</description>
+      
     </item>
+    
   </channel>
 </rss>

@@ -6,28 +6,42 @@
     <description>Recent content in #avia on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Nov 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ashedow.github.io/tags/#avia/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2023 Ashedow</copyright>
+    <lastBuildDate>Mon, 06 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashedow.github.io/tags/#avia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WILMA or how to accommodate passengers on an aeroplane</title>
       <link>https://ashedow.github.io/posts/wilma/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+      
       <guid>https://ashedow.github.io/posts/wilma/</guid>
       <description>WILMA or how to accommodate passengers on an aeroplane # United Airlines plans to improve boarding efficiency by implementing a new process called &amp;ldquo;WILMA&amp;rdquo; (window-middle-aisle). This change is set to begin on October 26, with Group 4 passengers boarding first.</description>
+      
     </item>
+    
     <item>
       <title>Avia</title>
       <link>https://ashedow.github.io/posts/aero/</link>
       <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://ashedow.github.io/posts/aero/</guid>
       <description>Someday I will fly there</description>
+      
     </item>
+    
     <item>
       <title>Random Berlin</title>
       <link>https://ashedow.github.io/posts/importance_of_decision_making/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://ashedow.github.io/posts/importance_of_decision_making/</guid>
-      <description>Oh fuck! or why decision making is one of the crucial parts of (not only) pilots course&#xA;https://www.aviation101.com/aqpgrassroots&#xA;FAA&#xA;https://www.faa.gov/sites/faa.gov/files/04_phak_ch2.pdf&#xA;EASA&#xA;https://www.easa.europa.eu/sites/default/files/dfu/HE4_Single-Pilot-Decision-Making-v1.pdf</description>
+      <description>Oh fuck! or why decision making is one of the crucial parts of (not only) pilots course
+https://www.aviation101.com/aqpgrassroots
+FAA
+https://www.faa.gov/sites/faa.gov/files/04_phak_ch2.pdf
+EASA
+https://www.easa.europa.eu/sites/default/files/dfu/HE4_Single-Pilot-Decision-Making-v1.pdf</description>
+      
     </item>
+    
   </channel>
 </rss>
