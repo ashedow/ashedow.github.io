@@ -33,8 +33,10 @@ Or how [the Wubi Effect](https://radiolab.org/podcast/wubi-effect) is affecting 
 
 [Piękna gra typografią i brzmi trochę jakby Czech rapował](https://www.youtube.com/watch?v=T2iISWltdzc) - In 2010, Polish musicians Łona and Webber wrote a short composition and demonstrated how the Polish language sounds without diacritical marks.
 
+[unicode vs html](https://no-ht.ml/) Think about all the things they've told you that you 𝑛𝑒𝑒𝑑. HTML is NOT the answer!
 
 And character Set Issues by A.J. Flavell ["i18n: HTML Character set issues beyond HTML3.2"](https://web.archive.org/web/20060427130229/ppewww.ph.gla.ac.uk/~flavell/charset/)
+
 So there is no doubt about the importance of textual information
 
 For example, here are a couple of articles with lists of misconceptions that are true not only for programmers
@@ -133,9 +135,34 @@ https://x.com/nikitonsky/status/1171115067112398849?s=20
 > Text is everything.
 >
 
+## Even colors have a textual representation
+
+[OKLCH в CSS: по­че­му мы ушли от RGB и HSL](https://web-standards.ru/articles/oklch-in-css-why-quit-rgb-hsl/) and 
+* [OKLCH](https://oklch.com)
+* [LCH](https://lea.verou.me/blog/2020/04/lch-colors-in-css-what-why-and-how/)
+* [history of Oklab](https://bottosson.github.io/posts/oklab/)
+
+and couple of instruments to work with colour:
+* https://github.com/fpetrakov/stylelint-gamut
+* https://github.com/fpetrakov/convert-to-oklch
+
+
+
 ## Fonts is everywhere
 
 https://github.com/RoelN/Font-Falsehoods
+
+More links about fonts:
+* https://type.today
+[DrawBot](https://www.drawbot.com/ )
+Шрифт Beowolf https://www.fontshop.com/families/ff-beowolf 
+Вариативные шрифты https://v-fonts.com/ 
+Курсы по шрифтам: https://www.typedesignworkshop.org/ru  http://bolditalic.type.school/ 
+шрифты: Trinité и Lexicon дизайнера Bram de Does
+
+https://monaspace.githubnext.com/
+
+https://developer.apple.com/sf-symbols/ - vWith over 5,000 symbols, SF Symbols is a library of iconography designed to integrate seamlessly with San Francisco, the system font for Apple platforms. Symbols come in nine weights and three scales, and automatically align with text. They can be exported and edited using vector graphics editing tools to create custom symbols with shared design characteristics and accessibility features. SF Symbols 5 introduces a collection of expressive animations, over 700 new symbols, and enhanced tools for custom symbols.
 
 
 ## Case is also a broblem

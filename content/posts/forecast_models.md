@@ -18,6 +18,8 @@ And [some more](https://weathernerds.org/)
 And [Model Guidance](https://mag.ncep.noaa.gov/model-guidance-model-area.php)
 [Forecasting models charts](https://weather.us/model-charts) and other articles
 
+[Numerical weather prediction](https://en.wikipedia.org/wiki/Numerical_weather_prediction)
+
 NWS’s weather and water models:
 * http://www.srh.noaa.gov/jetstream/constant/models.html
 * http://mag.ncep.noaa.gov/
@@ -38,6 +40,8 @@ Why weather models sometimes give inaccurate weather forecasts?
 In short, in general, we just can’t measure the weather absolutely accurately.
 
 ## Global
+
+[General circulation model](https://en.wikipedia.org/wiki/General_circulation_model)
 
 ### ECMWF (European Centre for medium-range weather forecasts) 
 
@@ -62,6 +66,10 @@ The ECMWF is a European global forecast seamless model and it is widely regarded
 The GFS is the most well-known global weather model and it’s updated every six hours by the American meteorological service. It is actually made up of 4 separate models which work together to paint an accurate picture of weather conditions: atmospheric, ocean, land/soil and sea ice models. However, it doesn’t take topography and shapes of coastlines into account, so it isn’t very accurate for places next to bodies of water. Good for oceans.
 
 The GFS+ is another version of the same model. While the standard GFS27 interpolates data for each point of the 27 km x 27 km square, the GFS+ version always shows the maximum value in each square.
+
+### GFS vs ECMWF
+
+[Are Europeans Better Than Americans at Forecasting Storms?](https://www.scientificamerican.com/article/are-europeans-better-than-americans-at-forecasting-storms1/)
 
 ### ICON (ICOsahedral Nonhydrostatic)
 
@@ -101,6 +109,9 @@ The [CFS](https://www.ncei.noaa.gov/products/weather-climate-models/climate-fore
 
 
 ## Local
+
+You need to remember about [Coriolis force](https://en.wikipedia.org/wiki/Coriolis_force)
+Weather things that happen on one hemisphere rarely fly over the equator.
 
 ### WRF weather model (Weather Research and Forecasting)
 
@@ -219,12 +230,29 @@ The Open WRF (Open Weather Research and Forecasting) is a regional Mediterranean
 [wunderground](www.wunderground.com) - Weather Underground has challenged the conventions around how weather information is shared with the public since 1993. by IBM
 
 [wxcharts](https://www.wxcharts.com) by [metdesk](http://www.metdesk.com/)
+
 [Windy](https://www.windy.com/) - gorgeous interactive world map visualizes real-time weather data
+
 [Ventusky](https://www.ventusky.com/) by [inmeteo](https://www.inmeteo.cz/) - Real-Time Weather Conditions on a Beautiful, Interactive Live Map
+
 [Meteo pl](https://maps.meteo.pl/) - UM and COAMPS 
+
 [Finnish Meteorological Institute (FMI)](Ilmailusaa.fi) - ECMWF with local HIRLAM model. Maintained by FMI is the official distribution channel for the aviation weather services in Finland along with AFS. Since the beginning of 2020 the website serves also as a self-briefing system including all weather charts and messages globally required by ICAO and EU regulation.
+
 [meteo](http://meteo.rlp.cz/) - Air navigation service of the Czech Republic
+
 [buienradar](https://www.buienradar.nl)
+
+[waqi](https://waqi.info/)
+
+[openweathermap](https://openweathermap.org/)
+
+[windguru](https://www.windguru.cz/) - WindGURU is a service specialized in forecasting weather, mostly for windsurfers and kitesurfers (but not only...). Forecasts are based on data produced by weather forecast models. Windguru is able to provide forecasts for any place on planet Earth. The main reason to create this site was the idea to get the forecasts quickly and easily without wild clicking the mouse while searching for meteomaps throughout the internet.
+
+[foreca](https://www.foreca.com/) - This service is partly based on data and products of the [European Centre for Medium-range Weather Forecasts](https://www.ecmwf.int/)
+
+WRF (Weather Research and Forecasting) - [github](https://github.com/NCAR/WRFV3) and [ru article](https://habr.com/ru/articles/117140/)
+
 
 ### Sensors and sources
 

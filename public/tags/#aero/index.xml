@@ -20,9 +20,7 @@
       <link>https://ashedow.github.io/posts/metar/</link>
       <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
       <guid>https://ashedow.github.io/posts/metar/</guid>
-      <description>How to read METAR # Here’s what a typical METAR looks like:
-METAR KGGG 1617753Z AUTO 14021G26 3/4SM+ TSRA BR BKN008 OVC012CB 18/17 A2970 RMK PRESFR
-So a typical METAR report contains the following information in sequential order:</description>
+      <description>How to read METAR # Here’s what a typical METAR looks like:&#xA;METAR KGGG 1617753Z AUTO 14021G26 3/4SM+ TSRA BR BKN008 OVC012CB 18/17 A2970 RMK PRESFR&#xA;So a typical METAR report contains the following information in sequential order:</description>
     </item>
     <item>
       <title>TAF. How to read</title>

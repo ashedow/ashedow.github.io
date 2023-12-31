@@ -69,8 +69,7 @@
 <meta property="article:modified_time" content="2023-10-09T00:00:00+00:00" />
 
 
-  <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Some of unicode problems"/>
+  <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Some of unicode problems"/>
 <meta name="twitter:description" content="Some of text problems or some of falsehoods # A long time ago, I came across a wonderful list of things Falsehoods Programmers Believe and Falsehoods Programmers Believe About Falsehoods Lists"/>
 
   
@@ -98,7 +97,7 @@
     "keywords": ["#unicode","#text"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "1238"
+    "wordCount": "1396"
   }]
   </script>
 
@@ -650,7 +649,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  &lt;time datetime=&#34;2023-10-09 00:00:00 &amp;#43;0000 UTC&#34;&gt;9 October 2023&lt;/time&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span title=&#34;Reading time&#34;&gt;6 mins&lt;/span&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;
+  &lt;time datetime=&#34;2023-10-09 00:00:00 &amp;#43;0000 UTC&#34;&gt;9 October 2023&lt;/time&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span title=&#34;Reading time&#34;&gt;7 mins&lt;/span&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;
 
 
 &lt;span class=&#34;mb-[2px]&#34;&gt;
@@ -840,6 +839,7 @@
       </ul>
     </li>
     <li><a href="#even-email">Even email</a></li>
+    <li><a href="#even-colors-have-a-textual-representation">Even colors have a textual representation</a></li>
     <li><a href="#fonts-is-everywhere">Fonts is everywhere</a></li>
     <li><a href="#case-is-also-a-broblem">Case is also a broblem</a></li>
     <li><a href="#do-not-forget-about-text-rendering">Do not forget about text rendering</a></li>
@@ -868,6 +868,7 @@
       </ul>
     </li>
     <li><a href="#even-email">Even email</a></li>
+    <li><a href="#even-colors-have-a-textual-representation">Even colors have a textual representation</a></li>
     <li><a href="#fonts-is-everywhere">Fonts is everywhere</a></li>
     <li><a href="#case-is-also-a-broblem">Case is also a broblem</a></li>
     <li><a href="#do-not-forget-about-text-rendering">Do not forget about text rendering</a></li>
@@ -967,9 +968,11 @@ In my work, I have regularly encountered the nuances of storing textual informat
     PDF</a></p>
 <p><a href="https://www.youtube.com/watch?v=T2iISWltdzc"   target="_blank">
     Piękna gra typografią i brzmi trochę jakby Czech rapował</a> - In 2010, Polish musicians Łona and Webber wrote a short composition and demonstrated how the Polish language sounds without diacritical marks.</p>
+<p><a href="https://no-ht.ml/"   target="_blank">
+    unicode vs html</a> Think about all the things they&rsquo;ve told you that you 𝑛𝑒𝑒𝑑. HTML is NOT the answer!</p>
 <p>And character Set Issues by A.J. Flavell <a href="https://web.archive.org/web/20060427130229/ppewww.ph.gla.ac.uk/~flavell/charset/"   target="_blank">
-    &ldquo;i18n: HTML Character set issues beyond HTML3.2&rdquo;</a>
-So there is no doubt about the importance of textual information</p>
+    &ldquo;i18n: HTML Character set issues beyond HTML3.2&rdquo;</a></p>
+<p>So there is no doubt about the importance of textual information</p>
 <p>For example, here are a couple of articles with lists of misconceptions that are true not only for programmers</p>
 <ul>
 <li><a href="http://garbled.benhamill.com/2017/04/18/falsehoods-programmers-believe-about-language"   target="_blank">
@@ -1087,6 +1090,31 @@ jschauma@[IPv6:::1]
 <blockquote>
 <p>Text is everything.</p>
 </blockquote>
+<div id="even-colors-have-a-textual-representation" class="anchor"></div>
+<h2 class="relative group">Even colors have a textual representation 
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#even-colors-have-a-textual-representation" aria-label="Anchor">#</a></span>        
+    
+</h2>
+<p><a href="https://web-standards.ru/articles/oklch-in-css-why-quit-rgb-hsl/"   target="_blank">
+    OKLCH в CSS: по­че­му мы ушли от RGB и HSL</a> and</p>
+<ul>
+<li><a href="https://oklch.com"   target="_blank">
+    OKLCH</a></li>
+<li><a href="https://lea.verou.me/blog/2020/04/lch-colors-in-css-what-why-and-how/"   target="_blank">
+    LCH</a></li>
+<li><a href="https://bottosson.github.io/posts/oklab/"   target="_blank">
+    history of Oklab</a></li>
+</ul>
+<p>and couple of instruments to work with colour:</p>
+<ul>
+<li><a href="https://github.com/fpetrakov/stylelint-gamut"   target="_blank">
+    https://github.com/fpetrakov/stylelint-gamut</a></li>
+<li><a href="https://github.com/fpetrakov/convert-to-oklch"   target="_blank">
+    https://github.com/fpetrakov/convert-to-oklch</a></li>
+</ul>
 <div id="fonts-is-everywhere" class="anchor"></div>
 <h2 class="relative group">Fonts is everywhere 
     <span
@@ -1097,6 +1125,25 @@ jschauma@[IPv6:::1]
 </h2>
 <p><a href="https://github.com/RoelN/Font-Falsehoods"   target="_blank">
     https://github.com/RoelN/Font-Falsehoods</a></p>
+<p>More links about fonts:</p>
+<ul>
+<li><a href="https://type.today"   target="_blank">
+    https://type.today</a>
+<a href="https://www.drawbot.com/"   target="_blank">
+    DrawBot</a>
+Шрифт Beowolf <a href="https://www.fontshop.com/families/ff-beowolf"   target="_blank">
+    https://www.fontshop.com/families/ff-beowolf</a>
+Вариативные шрифты <a href="https://v-fonts.com/"   target="_blank">
+    https://v-fonts.com/</a>
+Курсы по шрифтам: <a href="https://www.typedesignworkshop.org/ru"   target="_blank">
+    https://www.typedesignworkshop.org/ru</a>  <a href="http://bolditalic.type.school/"   target="_blank">
+    http://bolditalic.type.school/</a>
+шрифты: Trinité и Lexicon дизайнера Bram de Does</li>
+</ul>
+<p><a href="https://monaspace.githubnext.com/"   target="_blank">
+    https://monaspace.githubnext.com/</a></p>
+<p><a href="https://developer.apple.com/sf-symbols/"   target="_blank">
+    https://developer.apple.com/sf-symbols/</a> - vWith over 5,000 symbols, SF Symbols is a library of iconography designed to integrate seamlessly with San Francisco, the system font for Apple platforms. Symbols come in nine weights and three scales, and automatically align with text. They can be exported and edited using vector graphics editing tools to create custom symbols with shared design characteristics and accessibility features. SF Symbols 5 introduces a collection of expressive animations, over 700 new symbols, and enhanced tools for custom symbols.</p>
 <div id="case-is-also-a-broblem" class="anchor"></div>
 <h2 class="relative group">Case is also a broblem 
     <span
@@ -1355,6 +1402,132 @@ And <a href="https://hsivonen.fi/string-length/"   target="_blank">
 
 <h2 class="mt-8 text-2xl font-extrabold mb-10">Related</h2>
 <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
+  
+  
+
+  <a href="/posts/spiraldynamics/" class="min-w-full">
+    
+    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative backdrop-blur">
+
+      <div class="px-6 py-4">
+
+        
+        <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
+          href="/posts/spiraldynamics/">Spiral Dynamics</div>
+        
+
+        <div class="text-sm text-neutral-500 dark:text-neutral-400">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  &lt;time datetime=&#34;2023-10-09 00:00:00 &amp;#43;0000 UTC&#34;&gt;9 October 2023&lt;/time&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span title=&#34;Reading time&#34;&gt;1 min&lt;/span&gt;
+  
+
+  
+  
+</div>
+
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
+
+
+
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/#spiraldynamics/&#34;,'_self');">
+    <span class="flex">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400"
+  >
+    #SpiralDynamics
+  </span>
+</span>
+
+  </span>
+  
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/#text/&#34;,'_self');">
+    <span class="flex">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400"
+  >
+    #text
+  </span>
+</span>
+
+  </span>
+  
+  
+  
+  
+</div>
+
+
+
+        </div>
+
+        
+      </div>
+      <div class="px-6 pt-4 pb-2">
+
+      </div>
+    </div>
+  </a>
   
   
 
@@ -1995,154 +2168,6 @@ And <a href="https://hsivonen.fi/string-length/"   target="_blank">
     </div>
   </a>
   
-  
-
-  <a href="/posts/work_song/" class="min-w-full">
-    
-    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative backdrop-blur">
-
-      <div class="px-6 py-4">
-
-        
-        <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
-          href="/posts/work_song/">Work song</div>
-        
-
-        <div class="text-sm text-neutral-500 dark:text-neutral-400">
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="flex flex-row flex-wrap items-center">
-  
-  
-  &lt;time datetime=&#34;2023-09-04 00:00:00 &amp;#43;0000 UTC&#34;&gt;4 September 2023&lt;/time&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span title=&#34;Reading time&#34;&gt;3 mins&lt;/span&gt;
-  
-
-  
-  
-</div>
-
-
-<div class="flex flex-row flex-wrap items-center">
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-</div>
-
-
-
-
-<div class="flex flex-row flex-wrap items-center">
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/#music/&#34;,'_self');">
-    <span class="flex">
-  <span
-    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400"
-  >
-    #music
-  </span>
-</span>
-
-  </span>
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/#history/&#34;,'_self');">
-    <span class="flex">
-  <span
-    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400"
-  >
-    #history
-  </span>
-</span>
-
-  </span>
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/#video/&#34;,'_self');">
-    <span class="flex">
-  <span
-    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400"
-  >
-    #video
-  </span>
-</span>
-
-  </span>
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/#cuppasculturalcapers/&#34;,'_self');">
-    <span class="flex">
-  <span
-    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400"
-  >
-    #CuppasCulturalCapers
-  </span>
-</span>
-
-  </span>
-  
-  
-  
-  
-</div>
-
-
-
-        </div>
-
-        
-      </div>
-      <div class="px-6 pt-4 pb-2">
-
-      </div>
-    </div>
-  </a>
-  
 </section>
 
 
@@ -2157,7 +2182,7 @@ And <a href="https://hsivonen.fi/string-length/"   target="_blank">
       <div class="flex justify-between pt-3">
         <span>
           
-            <a class="flex group mr-3" href="/posts/heels_types/">
+            <a class="flex group mr-3" href="/posts/spiraldynamics/">
               <span
                 class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
                 >&larr;</span
@@ -2169,11 +2194,11 @@ And <a href="https://hsivonen.fi/string-length/"   target="_blank">
               <span class="flex flex-col">
                 <span
                   class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >Heels and shoes</span
+                  >Spiral Dynamics</span
                 >
                 <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
                   
-                    <time datetime="2023-10-04 00:00:00 &#43;0000 UTC">4 October 2023</time>
+                    <time datetime="2023-10-09 00:00:00 &#43;0000 UTC">9 October 2023</time>
                   
                 </span>
               </span>
