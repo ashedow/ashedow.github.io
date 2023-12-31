@@ -1,6 +1,6 @@
 ---
 title: "Spiral Dynamics"
-date: 2023-10-09
+date: 2023-12-31
 description: ''
 featured_image: ""
 tags: ["#SpiralDynamics", "#text"]

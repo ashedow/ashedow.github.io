@@ -6,8 +6,15 @@
     <description>Recent content in #text on Micro blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ashedow.github.io/tags/#text/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spiral Dynamics</title>
+      <link>https://ashedow.github.io/posts/spiraldynamics/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://ashedow.github.io/posts/spiraldynamics/</guid>
+      <description>Spiral Dynamics as a mitb for dynamically model human evolution and information systems # https://www.smartliving365.com/how-spiral-dynamics-helps-to-explain-why-its-hard-to-get-along/&#xA;https://www.landsiedel.com/en/nlp-library/spiral-dynamics.html&#xA;https://www.researchgate.net/publication/312033145_A_Brief_History_of_Spiral_Dynamics PDF</description>
+    </item>
     <item>
       <title>SS7 or when scp it is not OpenSSH secure file copy</title>
       <link>https://ashedow.github.io/posts/ss7/</link>
@@ -21,13 +28,6 @@
       <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://ashedow.github.io/posts/some_about_text/</guid>
       <description>Some of text problems or some of falsehoods # A long time ago, I came across a wonderful list of things Falsehoods Programmers Believe and Falsehoods Programmers Believe About Falsehoods Lists</description>
-    </item>
-    <item>
-      <title>Spiral Dynamics</title>
-      <link>https://ashedow.github.io/posts/spiraldynamics/</link>
-      <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://ashedow.github.io/posts/spiraldynamics/</guid>
-      <description>Spiral Dynamics as a mitb for dynamically model human evolution and information systems # https://www.smartliving365.com/how-spiral-dynamics-helps-to-explain-why-its-hard-to-get-along/&#xA;https://www.landsiedel.com/en/nlp-library/spiral-dynamics.html&#xA;https://www.researchgate.net/publication/312033145_A_Brief_History_of_Spiral_Dynamics PDF</description>
     </item>
     <item>
       <title>Random Berlin</title>
